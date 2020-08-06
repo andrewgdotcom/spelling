@@ -575,7 +575,7 @@ Inverse rüles
 
 Consonant pronùnsiätjon is quïte regülar, comparable to móst òther Europëan languajes:
 
--   | IPA pronùnsiätjon
+Gliff| IPA pronùnsiätjon
 ----|-------------------
 b   | /b/
 c   | /k/
@@ -613,7 +613,7 @@ zj  | /ʒ/
 
 Short vowel pronùnsiätjon is àlsó quïte regülar:
 
--   | Dïafónëme     | Definitiv wurd
+Gliff| Dïafónëme     | Definitiv wurd
 ----|---------------|----------------
 a   | TRAP (or BATH)| pat
 à   | CLOTH or LOT  | wànder
@@ -629,7 +629,7 @@ Enny unacsented vowel can stand for COMMA (or LETTER if rotic) when unstressed.
 
 Long vowel pronùnsiätjon remains complex, wiþ a lárj amount of redùndansy; bùt significantly redüsed ambigüity:
 
--   | Dïafónëme | Rotic dïafónëme
+Gliff| Dïafónëme | Rotic dïafónëme
 ----|-----------|-----------------
 à   |  [short]  | NORTH
 á   | PALM      | START
