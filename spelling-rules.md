@@ -492,6 +492,7 @@ Aul vowel dïafónëmes shud bë mapped onto wòn of the tárget representätjon
 
 Dïafónëme   |Monograf   |Standard dïgraf        |Annotäted dïgraf
 ------------|-----------|-----------------------|---------------------
+ [short]    |           |                       |
 HAPPY       |y          |                       |
 KIT         |i          |                       |
 DRESS       |e          |                       |
@@ -503,7 +504,7 @@ STRUT       |ò ù        |                       |
 FOOT        |u          |                       |
 COMMA       |a e i o u  |                       |
 LETTER      |{aeiou}r   |re                     |
-            |           |                       |
+ [long]     |           |                       |
 FLEECE      |ë í        |ee ea                  |ëi ëy íe äy
 NEAR        |ër ír      |eer ear                |ëir ëyr íer
 FACE        |ä é        |ae ai ay ei ey         |éa
@@ -556,11 +557,11 @@ A tilde can bë üzed to indicate French näzalïzätjon on shórt vowels. In In
 
 Gliff   |IPA
 --------|-----
-ã       |/ɒ/
-ẽ       |/ɒ/
-ĩ       |/a/
-õ       |/ɒ/
-ũ       |/a/
+ã       | /ɒ/
+ẽ       | /ɒ/
+ĩ       | /a/
+õ       | /ɒ/
+ũ       | /a/
 
     ẽntreprenur, ẽnsẽmble
 
@@ -574,7 +575,7 @@ Inverse rüles
 
 Consonant pronùnsiätjon is quïte regülar, comparable to móst òther Europëan languajes:
 
-    | IPA pronùnsiätjon
+-   | IPA pronùnsiätjon
 ----|-------------------
 b   | /b/
 c   | /k/
@@ -612,7 +613,7 @@ zj  | /ʒ/
 
 Short vowel pronùnsiätjon is àlsó quïte regülar:
 
-    | Dïafónëme     | Definitiv wurd
+-   | Dïafónëme     | Definitiv wurd
 ----|---------------|----------------
 a   | TRAP (or BATH)| pat
 à   | CLOTH or LOT  | wànder
@@ -628,7 +629,7 @@ Enny unacsented vowel can stand for COMMA (or LETTER if rotic) when unstressed.
 
 Long vowel pronùnsiätjon remains complex, wiþ a lárj amount of redùndansy; bùt significantly redüsed ambigüity:
 
-    | Dïafónëme | Rotic dïafónëme
+-   | Dïafónëme | Rotic dïafónëme
 ----|-----------|-----------------
 à   |  [short]  | NORTH
 á   | PALM      | START
