@@ -81,7 +81,7 @@ http://www.i18nguy.com/chaos.html
     Sounds lïke córps, cór, hórs, and wurs.
     I will keep U, Súzy, bizy,
     Mäke Ur hed wiþ heat gró dizzy.
-    Tear in eÿe, Ur dress will téar.
+    Tear in eÿ, Ur dress will téar.
     Só shall I! Oh hear mÿ prayer.
 
     Just compäre heárt, beard, and héard,
@@ -250,7 +250,7 @@ http://www.i18nguy.com/chaos.html
     Sounds like corps, cor, hors, and wors.
     I will keep U, Suzy, bizy,
     Make Ur hed with heat gro dizzy.
-    Tear in y, Ur dress will tear.
+    Tear in ey, Ur dress will tear.
     So shall I! Oh hear my prayer.
 
     Just compare heart, beard, and heard,
