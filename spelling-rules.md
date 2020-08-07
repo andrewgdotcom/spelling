@@ -1,35 +1,13 @@
-Spelling refórm
-===============
+Spelling rüles
+==============
 
-This docüment sets out a too-stäje Inglish spelling refórm plan. This plan is fully dëtailed bùt intentjonaly limited in scópe in órder to maximïze efectivness whïle àlsó minimïzing barriers to adoptjon.
-
-Deziyn parameters:
-
-1. The frëquensy of modificätjons encountered in the wïld shud bë minimïzed.
-2. Remooving ambigüity is móre impórtant than remooving redùndansy.
-3. Nó given sequense of letters shud spell different real wurds ùnder óld and new conventjons.
-4. Wurd shäpe shud bë prezerved wher possible.
-5. Gramatical relätjonships shud be prezerved wher possible.
-6. The practis of maintaining non-Inglish spelling conventjons in loanwurds is deprecäted.
-
-Reserch has shóen that wurd shäpe is vïtal to comprehensjon for flúent readers. This skëme has been deziyned to minimïze chänjes in wurd shäpe, which means that wë will increas the nùmber of grafëmes in órder to keep the existing varïety of wurd fórms for backwards compatibility.
-
-Due to the Gréat Vowel Shift, and the proliferätjon of rëjional acsents, it wud bë very difficult if not impossible to return Inglish spelling to a 1:1 fonetic mapping wiþout mäjor disruptjon, particülarly to the pronùnsiätjon of vowels. Wë therfóre add dïacritics to márk vowels hoos pronùnsiätjons hav chänjed.
-
-A mäjor párt of this plan is to add unambigüus dïafonetic dïacritics to vowels whïle retaining frendly wurd shäpes. Ther will therfóre bë a lárj nùmber of redùndant vowels in refórmed text, inclúding helper-ë. Remooving them wud impëde adoptjon of thëze refórms bÿ nätiv speakers and só is beyond the rëmit of this docüment.
-
-Ther is ónly a smaul selectjon of ded këys in US-internatjonal. Wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze.
-
-Þrúout this docüment wë giv ónly the fïnal (wiþ-dïacritics) fórms of example wurds, ráther than the intermëdiat fórms wiþout dïacritics. It is a straitfórward task to convert the stäje 2 fórms back to stäje 1 if requïred, bÿ prógramatically remooving dïacritics.
-
-In the beló, unless òtherwïze stäted, "end of wurd" means the end of a root wurd, ëven if the wurd itself has a gramatical sùffix.
+Unless òtherwïze stäted, "end of wurd" means the end of a root wurd, ëven if the wurd itself has a gramatical sùffix.
 
 
-Stäje 1: Rëshäping
-==================
+Transfórmätjon stäje 1: Rëshäping
+=================================
 
-Nó dïacritics ar introdüsed at this stäje, however the shäpe of wurds will bë àltered. The output of stäje 1 can bë tÿped on a standard Inglish-languaj këyboard layout, if the optjonal letter þ is not üzed.
-
+In this stäje wë
 
 1C: Consonants
 --------------
@@ -50,45 +28,45 @@ Nó dïacritics ar introdüsed at this stäje, however the shäpe of wurds will 
 
 ### 1C2: PH
 
-ph -> f
+ph → f
 
     telefóne, filosofy
 
 ### 1C3: AUGH
 
-augh -> áf, au
+augh → áf, au
 
     láf, dráft, caut
 
 ### 1C4: OUGH
 
-1C4a: /o:/ -> ó
+1C4a: /o:/ → ó
 
     thó
 
-BÙT dough -> doh (see 1X)
+BÙT dough → doh (see 1X)
 
-1C4b: /u:/ -> ú
+1C4b: /u:/ → ú
 
     þrú
 
-1C4c: /aʊ/ -> ou (middle of wurd), ow (end)
+1C4c: /aʊ/ → ou (middle of wurd), ow (end)
 
     drout, plow
 
-1C4d: /ɔ:/  -> au
+1C4d: /ɔ:/  → au
 
     aut, braut
 
-1C4e: /ɒf/ -> off
+1C4e: /ɒf/ → off
 
     coff
 
-1C4f: /ʌf/ -> ùff
+1C4f: /ʌf/ → ùff
 
     tùff, enùff
 
-1C4g: /ɒx/ -> ogh
+1C4g: /ɒx/ → ogh
 
     logh
 
@@ -96,49 +74,49 @@ BÙT dough -> doh (see 1X)
 
 Voised S
 
-s -> z when "s" is not the last letter in a wurd, or when it is requïred for disambigüätjon.
+s → z when "s" is not the last letter in a wurd, or when it is requïred for disambigüätjon.
 
     üse, üze; hous, houz
 
 ### 1C6: C[E]
 
-1C6a: soft ce -> s after shórt unstressed vowel
+1C6a: soft ce → s after shórt unstressed vowel
 
     palas, practis
 
-1C6b: soft [s]c -> s, prezerving not-só-üseless E
+1C6b: soft [s]c → s, prezerving not-só-üseless E
 
     acsess, ïse, vïse, consjense, sïense
 
 ### 1C7: ET
 
-et -> ei when pronounsed as in "ballet"
+et → ei when pronounsed as in "ballet"
 
     ballei, toorniqei (??)
 
 ### 1C8: G[E]
 
-soft g[e] -> j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel.
+soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel.
 
     jem, garaj, jùdj, wäje, sabotáje
 
 ### 1C9: CH
 
-1C9a: hárd ch -> k when follóed bÿ e,i,y
+1C9a: hárd ch → k when follóed bÿ e,i,y
 
     äke
 
-1C9b: òtherwïze -> c
+1C9b: òtherwïze → c
 
     tecnical
 
-1C9c: soft ch[e] -> sh
+1C9c: soft ch[e] → sh
 
     mùstash, closh, níshe
 
 ### 1C10: Þ (optjonal)
 
-th -> þ when unvoised, and àlsó in derïved wurds.
+th → þ when unvoised, and àlsó in derïved wurds.
 
     þin, þiy, wiþ, wiþout, panþer
 
@@ -150,41 +128,41 @@ th -> þ when unvoised, and àlsó in derïved wurds.
 
 Standardïze shórt vowels
 
-1V1a: * -> a
+1V1a: * → a
 
     plat, merang
 
-1V1b: * -> e (SR1)
+1V1b: * → e (SR1)
 
     frend, menny, et
 
-1V1c: * -> i
+1V1c: * → i
 
     bizy, pritty, siv, gild
 
-1V1d: o, oo -> u when pronounsed lïke "foot"
+1V1d: o, oo → u when pronounsed lïke "foot"
 
     buk, fut
 
-1V1e: ou(l) -> u when pronounsed lïke "would" (inclúding -ous BÙT NOT -our)
+1V1e: ou(l) → u when pronounsed lïke "would" (inclúding -ous BÙT NOT -our)
 
         wud, cud, fämus
 
-1V1f: ou, oo -> ù, ò when pronounsed lïke "young blood"
+1V1f: ou, oo → ù, ò when pronounsed lïke "young blood"
 
     yùng, cùntry, dùbble, blòd
 
-1V1g: träiling shórt ie -> y
+1V1g: träiling shórt ie → y
 
     revery, anomy
 
 ### 1V2: [E]IG[H]
 
-1V2a: "ig[h]" lïke "high" -> "iy"
+1V2a: "ig[h]" lïke "high" → "iy"
 
     siyn, liyt
 
-1V2b: eig[h] -> "ei" in middle of wurd, "ey" at end
+1V2b: eig[h] → "ei" in middle of wurd, "ey" at end
 
     sley, rein, eit
 
@@ -194,42 +172,42 @@ Standardïze shórt vowels
 
     còlor, candor
 
-1V3b: our -> ur when lïke "fur"
+1V3b: our → ur when lïke "fur"
 
     scurj
 
-1V3c: our, oor -> ór in middle of root wurd, oar at end, when lïke "four"
+1V3c: our, oor → ór in middle of root wurd, oar at end, when lïke "four"
 
     foar, poar, floar, doar, bórn, mórn
 
 ### 1V4: QU
 
-1V4a: qu -> q when "u" (ónly) is üseless
+1V4a: qu → q when "u" (ónly) is üseless
 
     üníqe, qäy, tecníqe
 
-1V4b: que -> q when "ue" is üseless
+1V4b: que → q when "ue" is üseless
 
     plaq
 
 ### 1V5: GUE
 
-1V5a: gue -> g when -ue is üseless
+1V5a: gue → g when -ue is üseless
 
     leag, tòng
 
 1V5b: when -ue is a üseful helper-ë, rëfactor the presëding vowel
 
-    ague -> aig
-    igue -> eag
-    ogue -> oag
-    ugue -> eug
+    ague → aig
+    igue → eag
+    ogue → oag
+    ugue → eug
 
     plaig, fateag, broag, feug
 
 ### 1V6: OW
 
-1V6a: ow -> ó at end of wurd when pronounsed lïke "grow"
+1V6a: ow → ó at end of wurd when pronounsed lïke "grow"
 
     ró, gró, folló
 
@@ -237,44 +215,49 @@ NB thëze täke -es, -en, -ed etc sùffixes:
 
     róes, gróen, follóed
 
-1V6b: ow -> oa in middle of wurd when pronounsed lïke "boat"
+1V6b: ow → oa in middle of wurd when pronounsed lïke "boat"
 
     oan, boal
 
 ### 1V7: OUL
 
-oul -> ól when pronounsed lïke "mould"
+oul → ól when pronounsed lïke "mould"
 
     móld, shólder, bólder
 
 ## 1V8: [AO]L
 
-1V8a: "al" -> "au" when lïke "walk"
+1V8a: "al" → "au" when lïke "walk"
 
     wauk, tauk, baul
 
-1V8b: "ol" -> "oa" when lïke "folk"
+1V8b: "ol" → "oa" when lïke "folk"
 
     foak, yoak
 
 ### 1V9: OO
 
-o, oe, ou -> oo when pronounsed lïke "shoe", "tour".
+o, oe, ou → oo when pronounsed lïke "shoe", "tour".
 
     doo, hoos, moov, shoo, woond, toor, root
 
 ### 1V10: WOR
 
-wor -> wur when NURSE
+wor → wur when NURSE
 
     wurd, wurm, worth
 
 ### 1V11: IJ
 
-semivowel i -> j when it modifÿs a presëding "s", "t", or "z" (that wàs "s")
+semivowel i → j when it modifÿs a presëding "s", "t", or "z" (that wàs "s")
 
     missjon, ambitjon, vizjon
 
+### 1V12: YE
+
+difþong ye → ÿ
+
+    áy, bÿ, dÿ, eÿ
 
 1X: Context fixes
 -----------------
@@ -318,13 +301,12 @@ NB whether an "e" is üseless is often a matter of jùdjment, bùt it is NOT üs
 
 ### 1Y1: Y/IE
 
-y/ie rúles abandoned. If a wurd ends in -ie, -y, or -ye then wë keep the root wurd spelling þrúout.
+y/ie rúles abandoned. If a wurd ends in -ie or -y then wë keep the root wurd spelling þrúout.
 
     párty, pártys, pártyed, pártying, pártyer
     silly, sillyer
     crÿ, crÿs, crÿed, crÿing, crÿer
     die, dies, died, dieing, dier
-    dye, dyes, dyed, dyeing, dyer
 
 ### 1Y2: Apostrofës
 
@@ -362,7 +344,10 @@ gauge       | gäje      | this üse of "au" üníqe
 
 Wher the pronùnsiätjon dòs not differ significantly.
 
-    of, to, I, ...
+    I
+    of
+    to
+    us
 
 ### 1Z3: Pick a pronùnsiätjon
 
@@ -374,17 +359,17 @@ lichen      | lïke kitchen
 (n)ëither   | lïke fëver
 
 
-Stäje 2: Dïacritics
-===================
+Transfórmätjon stäje 2: Dïacritics
+==================================
 
-In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze may bë omitted from cazüal text, bùt shud bë inclúded in fórmal contexts (espesjaly teaching).
+In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze may bë omitted from compatibility text, bùt shud bë inclúded in fórmal contexts, espesjaly teaching.
 
 2D: Consonant dïacritics
 ------------------------
 
 ### 2D1: NG
 
-nc, ng, nk, nq -> ńc, ńg, ńk, ńq when n is modifÿed AND the follóing consonant is àlways pronounsed.
+nc, ng, nk, nq → ńc, ńg, ńk, ńq when n is modifÿed AND the follóing consonant is àlways pronounsed.
 
     sińcronïze, ańger, ańkle, trańquil
 
@@ -398,7 +383,7 @@ A hÿfen shud bë üzed when "g" is pronounsed separatly and the "n" is not modi
 
 ### 2D2: Palatalïzed c
 
-palatalïzed c -> ć  (/tʃ/)
+palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin.
 
     ćelló
 
@@ -490,39 +475,39 @@ Dïacritics ar not added wher "standard" dïgrafs ar àlredy in üse. Nóte that
 
 Aul vowel dïafónëmes shud bë mapped onto wòn of the tárget representätjons listed beló. Thëze can bë monografs or dïgrafs, and ëither standard or annotäted. Iff a vowel cannot bë mapped üzing dïacritics alóne, it shud bë rëshäped to a standard dïgraf at stäje 1Z.
 
-Dïafónëme   |Monograf   |Standard dïgraf        |Annotäted dïgraf
-------------|-----------|-----------------------|---------------------
- [short]    |           |                       |
-HAPPY       |y          |                       |
-KIT         |i          |                       |
-DRESS       |e          |                       |
-TRAP        |a          |                       |
-BATH        |a (á)      |                       |
-LOT         |à o        |                       |
-CLOTH       |o à        |                       |
-STRUT       |ò ù        |                       |
-FOOT        |u          |                       |
-COMMA       |a e i o u  |                       |
-LETTER      |{aeiou}r   |re                     |
- [long]     |           |                       |
-FLEECE      |ë í        |ee ea                  |ëi ëy íe äy
-NEAR        |ër ír      |eer ear                |ëir ëyr íer
-FACE        |ä é        |ae ai ay ei ey         |éa
-SQUARE      |är ér      |aer air ayr eir eyr    |éar
-PALM        |á          |aa ah                  |
-START       |ár         |aar                    |
-THOUGHT     |           |au aw                  |
-NORTH       |àr ór      |aur oer oar            |
-GOAT        |ó          |oa oe oh               |óu
-FORCE       |ór         |oar oer                |óur
-GOOSE       |ú          |oo                     |úe eú eẃ
-(TOUR)      |ôr úr      |oor                    |úer
-(CUE)       |ü          |eu ew ue               |
-CURE        |ür         |eur uer                |
-PRICE       |ï ÿ        |ie iy ye (ui? uy?)     |aï (uï? uÿ?)
-CHOICE      |           |oi oy                  |
-MOUTH       |           |ou ow                  |àu
-NURSE       |{eiuy}r    |                       |
+Dïafónëme   |Monograf   |Standard dïgraf    |Annotäted dïgraf
+------------|-----------|-------------------|---------------------
+ [short]    |           |                   |
+HAPPY       |y          |                   |
+KIT         |i          |                   |
+DRESS       |e          |                   |
+TRAP        |a          |                   |
+BATH        |a (á)      |                   |
+LOT         |à o        |                   |
+CLOTH       |o à        |                   |
+STRUT       |ò ù        |                   |
+FOOT        |u          |                   |
+COMMA       |a e i o u  |                   |
+LETTER      |{aeiou}r   |re                 |
+ [long]     |           |                   |
+FLEECE      |ë í        |ee ea              |ëi ëy íe äy
+NEAR        |ër ír      |eer ear            |ëir ëyr íer
+FACE        |ä é        |ae ai ay ei ey     |éa
+SQUARE      |är ér      |aer air eir        |éar
+PALM        |á          |aa ah              |
+START       |ár         |aar                |
+THOUGHT     |           |au aw              |
+NORTH       |àr ór      |aur oer oar        |
+GOAT        |ó          |oa oe oh           |óu
+FORCE       |ór         |oar oer            |óur
+GOOSE       |ú          |oo                 |úe eú eẃ
+(TOUR)      |ôr úr      |oor                |úer
+(CUE)       |ü          |eu ew ue           |
+CURE        |ür         |eur uer            |
+PRICE       |ï ÿ        |ie iy (ui? uy?)    |aï
+CHOICE      |           |oi oy              |
+MOUTH       |           |ou ow              |àu
+NURSE       |{eiuy}r    |                   |
 
 
 Vowel nótes
@@ -568,121 +553,3 @@ Gliff   |IPA
 Òtherwïze wë colaps aul of the abòv to "a" or "o" (as per SSV):
 
     ontreprenur, onsomble
-
-
-Inverse rüles
-=============
-
-Consonant pronùnsiätjon is quïte regülar, comparable to móst òther Europëan languajes:
-
-Gliff| IPA pronùnsiätjon
-----|-------------------
-b   | /b/
-c   | /k/
-ć   | /tʃ/
-ch  | /tʃ/
-d   | /d/
-f   | /f/
-g   | /g/
-gh  | /x/
-h   | /h/
-j   | /dʒ/ or /ʒ/
-k   | /k/
-l   | /l/
-m   | /m/
-n   | /n/
-ń   | /ŋ/
-ng  | /ŋ/
-p   | /p/
-q   | /k/
-r   | /r/
-s   | /s/ or /z/
-sh  | /ʃ/
-sj  | /ʃ/
-t   | /t/
-th  | /ð/ (or /θ/)
-þ   | /θ/
-tj  | /ʃ/
-v   | /v/
-w   | /w/
-wh  | /ʍ/
-x   | /ks/ or /gz/
-y   | /j/
-z   | /z/
-zj  | /ʒ/
-
-Short vowel pronùnsiätjon is àlsó quïte regülar:
-
-Gliff| Dïafónëme     | Definitiv wurd
-----|---------------|----------------
-a   | TRAP (or BATH)| pat
-à   | CLOTH or LOT  | wànder
-e   | DRESS         | pet
-i   | KIT           | pity
-o   | CLOTH or LOT  | pot
-ò   | STRUT         | wònder
-u   | FOOT          | put
-ù   | STRUT         | pùtt
-y   | HAPPY         | pity
-
-Enny unacsented vowel can stand for COMMA (or LETTER if rotic) when unstressed.
-
-Long vowel pronùnsiätjon remains complex, wiþ a lárj amount of redùndansy; bùt significantly redüsed ambigüity:
-
-Gliff| Dïafónëme | Rotic dïafónëme
-----|-----------|-----------------
-à   |  [short]  | NORTH
-á   | PALM      | START
-ä   | FACE      | SQUARE
-aa  | (PALM)    | -
-ae  | FACE      | SQUARE
-ai  | FACE      | SQUARE
-ao  | (MOUTH)   | -
-au  | THOUGHT   | NORTH
-aw  | THOUGHT   | NORTH
-ay  | FACE      | SQUARE
-é   | FACE      | SQUARE
-ë   | FLEECE    | NEAR
-ea  | FLEECE    | NEAR
-ee  | FLEECE    | NEAR
-ei  | FACE      | SQUARE
-eo  | -         | -
-eu  | CUE       | CURE
-ew  | CUE       | CURE
-ey  | FACE      | SQUARE
-í   | FLEECE    | NEAR
-ï   | PRICE     |
-ia  | -         | -
-ie  | PRICE     |
-ii  | (FLEECE)  | -
-io  | -         | -
-iu  | -         | -
-iw  | -         | -
-iy  | PRICE     |
-ó   | GOAT      | FORCE
-oa  | GOAT      | FORCE
-oe  | GOAT      | FORCE
-oi  | CHOICE    |
-oo  | GOOSE     | TOUR
-ou  | MOUTH     |
-ow  | MOUTH     |
-oy  | CHOICE    |
-ú   | GOOSE     | TOUR
-ü   | CUE       | CURE
-ua  | -         | -
-ue  | CUE       | CURE
-ui  | PRICE     |
-uo  | -         | -
-uu  | (CUE)     | -
-uw  | (CUE)     | -
-uy  | PRICE     |
-ÿ   | PRICE     |
-ye  | PRICE     |
-
-Dïafónëmes in parenthesës du not exist in standard Inglish bùt hav an obvius interpretätjon.
-
-* An unacsented {eiuy}, if stressed and follóed bÿ a sińgle r, stands for NURSE.
-* A trailing "e" after a sillable containing a long vowel is nórmaly silent.
-* "u" follóing "q" is àlways a semivowel.
-* "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.
-* In common üsaj, "ü/ue" can modifÿ a presëding "s", "t", or "z" as if it had an implÿed j in frònt of the vowel, bùt sòm consider this incorect.
