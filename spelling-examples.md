@@ -37,167 +37,167 @@ Canonical fórm
 
 https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question
 
-To bë, or not to bë, that is the questjon:
-Whether tis nóbler in the mïnd to sùffer
-The slings and arroes of outräjeus fórtüne,
-Or to täke árms agenst a sea of trùbbles,
-And bÿ opózing end them: to die, to sleep
-Nó móre; and bÿ a sleep, to say wë end
-The heárt-äke, and the þouzand natüral shocks
-That flesh is eir to? Tis a consumätjon
-Devoutly to bë wished. To die, to sleep,
-To sleep, perchanse to dream; áy, thers the rùb,
-For in that sleep of deþ, whàt dreams may còm,
-When wë hav shùffled off this mórtal coil,
-Mùst giv ùs pauz. Thers the respect
-That mäkes calamity of só long lïfe:
-For hoo wud béar the whips and scórns of tïme,
-The opressors rong, the proud mans contümely,
-The pangs of despïzed lòv, the laws delay,
-The insolense of offis, and the spurns
-That pätjent merit of the unwurthy täkes,
-When hë himself miyt his quïetus mäke
-Wiþ a bäre bodkin? Hoo wud fárdels béar,
-To grùnt and swet ùnder a weary lïfe,
-Bùt that the dred of sòmþing after deþ,
-The undiscòvered cùntry, from hoos bórn
-Nó traveler returns, pùzzles the will,
-And mäkes ùs ráther béar thóze ills wë hav,
-Than flÿ to òthers that wë nó not of.
-Thùs consjense dòs mäke cowards of ùs aul,
-And thùs the nätiv hue of rezolútjon
-Is sicklyd oer, wiþ the päle cast of þaut,
-And enterprïzes of gréat pitch and móment,
-Wiþ this regárd their currents turn arÿ,
-And looz the näme of actjon.
+    To bë, or not to bë, that is the questjon:
+    Whether tis nóbler in the mïnd to sùffer
+    The slings and arroes of outräjeus fórtüne,
+    Or to täke árms agenst a sea of trùbbles,
+    And bÿ opózing end them: to die, to sleep
+    Nó móre; and bÿ a sleep, to say wë end
+    The heárt-äke, and the þouzand natüral shocks
+    That flesh is eir to? Tis a consumätjon
+    Devoutly to bë wished. To die, to sleep,
+    To sleep, perchanse to dream; áy, thers the rùb,
+    For in that sleep of deþ, whàt dreams may còm,
+    When wë hav shùffled off this mórtal coil,
+    Mùst giv ùs pauz. Thers the respect
+    That mäkes calamity of só long lïfe:
+    For hoo wud béar the whips and scórns of tïme,
+    The opressors rong, the proud mans contümely,
+    The pangs of despïzed lòv, the laws delay,
+    The insolense of offis, and the spurns
+    That pätjent merit of the unwurthy täkes,
+    When hë himself miyt his quïetus mäke
+    Wiþ a bäre bodkin? Hoo wud fárdels béar,
+    To grùnt and swet ùnder a weary lïfe,
+    Bùt that the dred of sòmþing after deþ,
+    The undiscòvered cùntry, from hoos bórn
+    Nó traveler returns, pùzzles the will,
+    And mäkes ùs ráther béar thóze ills wë hav,
+    Than flÿ to òthers that wë nó not of.
+    Thùs consjense dòs mäke cowards of ùs aul,
+    And thùs the nätiv hue of rezolútjon
+    Is sicklyd oer, wiþ the päle cast of þaut,
+    And enterprïzes of gréat pitch and móment,
+    Wiþ this regárd their currents turn arÿ,
+    And looz the näme of actjon.
 
 ### Cäos
 
 http://www.i18nguy.com/chaos.html
 
-Dearest creatüre in crëätjon,
-Stùdy Inglish pronùnsiätjon.
-I will teach U in mÿ verse
-Sounds lïke córps, cór, hórs, and wurs.
-I will keep U, Súzy, bizy,
-Mäke Ur hed wiþ heat gró dizzy.
-Tear in eÿe, Ur dress will téar.
-Só shall I! Oh hear mÿ prayer.
+    Dearest creatüre in crëätjon,
+    Stùdy Inglish pronùnsiätjon.
+    I will teach U in mÿ verse
+    Sounds lïke córps, cór, hórs, and wurs.
+    I will keep U, Súzy, bizy,
+    Mäke Ur hed wiþ heat gró dizzy.
+    Tear in eÿe, Ur dress will téar.
+    Só shall I! Oh hear mÿ prayer.
 
-Just compäre heárt, beard, and héard,
-Dies and dïèt, lórd and wurd,
-Sórd and swàrd, retain and Britan.
-(Mïnd the latter, how its ritten.)
-Now I sürely will not plaig U
-Wiþ sùch wurds as plaq and ägue.
-Bùt bë cäreful how U speak:
-Say bréak and stéak, but bleak and streak;
-Clóven, òven, how and ló,
-Script, resëit, shó, póem, and toe.
+    Just compäre heárt, beard, and héard,
+    Dies and dïèt, lórd and wurd,
+    Sórd and swàrd, retain and Britan.
+    (Mïnd the latter, how its ritten.)
+    Now I sürely will not plaig U
+    Wiþ sùch wurds as plaq and ägue.
+    Bùt bë cäreful how U speak:
+    Say bréak and stéak, but bleak and streak;
+    Clóven, òven, how and ló,
+    Script, resëit, shó, póem, and toe.
 
-Hear më say, devoid of trickery,
-Dauter, láfter, and Terpsicorë,
-Tÿfoid, meazles, topsails, aïles, * topsals?
-Exïles, similës, and revïles;
-Scolar, vicar, and sigár,
-Solar, mïca, wàr and fár;
-Wòn, anemonë, Balmoral,
-Kitchen, lichen, laundry, laurel;
-Gertrúde, Jerman, wind and mïnd,
-Sëne, Melpomenë, mankïnd.
+    Hear më say, devoid of trickery,
+    Dauter, láfter, and Terpsicorë,
+    Tÿfoid, meazles, topsails, aïles, * topsals?
+    Exïles, similës, and revïles;
+    Scolar, vicar, and sigár,
+    Solar, mïca, wàr and fár;
+    Wòn, anemonë, Balmoral,
+    Kitchen, lichen, laundry, laurel;
+    Gertrúde, Jerman, wind and mïnd,
+    Sëne, Melpomenë, mankïnd.
 
-Billet dòs not rÿme wiþ ballei,
-Bóuqei, wàllet, mallet, shalei.
-Blòd and flòd are not lïke food, * food v fud?
-Nór is móuld lïke shud and wud. * móld?
-Viscus, vïcount, load and braud,
-Towàrd, to fórward, to rewàrd.
-And Ur pronùnsiätjon's OK
-When U correctly say cróqei,
-Rounded, woonded, gríeve and siv,
-Frend and fíend, alïve and liv.
+    Billet dòs not rÿme wiþ ballei,
+    Bóuqei, wàllet, mallet, shalei.
+    Blòd and flòd are not lïke food, * food v fud?
+    Nór is móuld lïke shud and wud. * móld?
+    Viscus, vïcount, load and braud,
+    Towàrd, to fórward, to rewàrd.
+    And Ur pronùnsiätjon's OK
+    When U correctly say cróqei,
+    Rounded, woonded, gríeve and siv,
+    Frend and fíend, alïve and liv.
 
-Ïvy, privy, fämus; clamor
-And enamor rÿme wiþ hammer.
-River, rïval, toom, bom, coam,
-Doll and róll and sòm and hóme.
-Stränjer dòs not rÿme wiþ ańger,
-Nëither dòs devour wiþ clangor.
-Sóuls bùt foul, haunt bùt áunt,
-Font, frònt, wont, wànt, grand, and grant,
-Shoos, góes, dòs. Now first say fińger,
-And then singer, jinjer, lińger,
-Real, zeal, mauv, gauz, gouj and gaij, * réal?
-Marrij, fóliaj, miráje, and äje.
+    Ïvy, privy, fämus; clamor
+    And enamor rÿme wiþ hammer.
+    River, rïval, toom, bom, coam,
+    Doll and róll and sòm and hóme.
+    Stränjer dòs not rÿme wiþ ańger,
+    Nëither dòs devour wiþ clangor.
+    Sóuls bùt foul, haunt bùt áunt,
+    Font, frònt, wont, wànt, grand, and grant,
+    Shoos, góes, dòs. Now first say fińger,
+    And then singer, jinjer, lińger,
+    Real, zeal, mauv, gauz, gouj and gaij, * réal?
+    Marrij, fóliaj, miráje, and äje.
 
-Quëry dòs not rÿme wiþ very,
-Nor dòs füry sound lïke bery.
-Dost, lost, póst and doþ, cloþ, loaþ.
-Job, nob, buzom, transom, oaþ.
-Thó the differenses seem little,
-Wë say actüal but vittal.
-Refer dòs not rÿme wiþ deffer.
-Foeffer dòs, and zefir, heffer. * This is incorect in the orijinal!
-Mint, pïnt, senat and sedäte;
-Dùll, bull, and Jórj et läte.
-Sënic, Arabic, Pasific,
-Sïense, consjense, sïentific.
+    Quëry dòs not rÿme wiþ very,
+    Nor dòs füry sound lïke bery.
+    Dost, lost, póst and doþ, cloþ, loaþ.
+    Job, nob, buzom, transom, oaþ.
+    Thó the differenses seem little,
+    Wë say actüal but vittal.
+    Refer dòs not rÿme wiþ deffer.
+    Foeffer dòs, and zefir, heffer. * This is incorect in the orijinal!
+    Mint, pïnt, senat and sedäte;
+    Dùll, bull, and Jórj et läte.
+    Sënic, Arabic, Pasific,
+    Sïense, consjense, sïentific.
 
-Liberty, lïbrary, heav and heven,
-Rächel, äke, mustash, eleven.
-Wë say halló, bùt alowed,
-Peeple, leppard, toed, but vowed.
-Márk the differenses, móreóver,
-Between moover, còver, clóver;
-Leeches, britches, wïze, presïse,
-Chalis, bùt políse and lïse;
-Camel, constable, unstäble,
-Prinsiple, disïple, läbel.
+    Liberty, lïbrary, heav and heven,
+    Rächel, äke, mustash, eleven.
+    Wë say halló, bùt alowed,
+    Peeple, leppard, toed, but vowed.
+    Márk the differenses, móreóver,
+    Between moover, còver, clóver;
+    Leeches, britches, wïze, presïse,
+    Chalis, bùt políse and lïse;
+    Camel, constable, unstäble,
+    Prinsiple, disïple, läbel.
 
-Petal, panel, and canál,
-Wait, surprïze, plat, promis, pal.
-Wurm and stórm, shaiz, cäos, chair,
-Senator, spectätor, mayor.
-Toor, bùt our and succor, foar.
-Gas, alas, and Arkansau.
-Sea, ïdëa, Korëa, ärëa,
-Sám, María, bùt maläria.
-Yooþ, souþ, sùthern, clens and clean.
-Doctrin, turpentïne, maríne.
+    Petal, panel, and canál,
+    Wait, surprïze, plat, promis, pal.
+    Wurm and stórm, shaiz, cäos, chair,
+    Senator, spectätor, mayor.
+    Toor, bùt our and succor, foar.
+    Gas, alas, and Arkansau.
+    Sea, ïdëa, Korëa, ärëa,
+    Sám, María, bùt maläria.
+    Yooþ, souþ, sùthern, clens and clean.
+    Doctrin, turpentïne, maríne.
 
-Compäre älièn wiþ Italian,
-Dandelïon and batalion.
-Sally wiþ alÿ, yéa, yë,
-Eÿ, I, áy, áy, whey, and këy.
-Say avér, but ever, fëver,
-Nëither, lezür, skein, desëiver.
-Heron, granary, canäry.
-Crevis and devïse and aery.
+    Compäre älièn wiþ Italian,
+    Dandelïon and batalion.
+    Sally wiþ alÿ, yéa, yë,
+    Eÿ, I, áy, áy, whey, and këy.
+    Say avér, but ever, fëver,
+    Nëither, lezür, skein, desëiver.
+    Heron, granary, canäry.
+    Crevis and devïse and aery.
 
-Fäse, but prefas, not efäse.
-Flem, flegmatic, ass, glass, bäss.
-Lárj, bùt tárget, jin, giv, verjing,
-Aut, out, joust and scour, scurjing.
-Ear, bùt ern and wéar and téar
-Doo not rÿme wiþ hëre but ére.
-Seven is riyt, bùt só is ëven,
-Hÿfen, rùffen, neffew Stëven,
-Mòńkey, dońkey, Turk and jerk,
-Ask, grasp, wàsp, and córk and wurk.
+    Fäse, but prefas, not efäse.
+    Flem, flegmatic, ass, glass, bäss.
+    Lárj, bùt tárget, jin, giv, verjing,
+    Aut, out, joust and scour, scurjing.
+    Ear, bùt ern and wéar and téar
+    Doo not rÿme wiþ hëre but ére.
+    Seven is riyt, bùt só is ëven,
+    Hÿfen, rùffen, neffew Stëven,
+    Mòńkey, dońkey, Turk and jerk,
+    Ask, grasp, wàsp, and córk and wurk.
 
-Pronùnsiätjon -- þińk of Sÿkë!
-Is a päling stout and spïky?
-Wónt it mäke U looz Ur wits,
-Rïting groats and saying grits? * Not trúe! Different wurds...
-Its a dárk abiss or tùnnel:
-Strewn wiþ stónes, stóed, solas, gùnnal,
-Izlington and Ïle of Wiyt,
-Houswïfe, verdict and indïte.
+    Pronùnsiätjon -- þińk of Sÿkë!
+    Is a päling stout and spïky?
+    Wónt it mäke U looz Ur wits,
+    Rïting groats and saying grits? * Not trúe! Different wurds...
+    Its a dárk abiss or tùnnel:
+    Strewn wiþ stónes, stóed, solas, gùnnal,
+    Izlington and Ïle of Wiyt,
+    Houswïfe, verdict and indïte.
 
-Fïnaly, which rÿmes wiþ enùff --
-Thó, þrú, plow, or doh, or coff?
-Hiccup has the sound of cùp.
-Mÿ advïse is to giv ùp!!!
+    Fïnaly, which rÿmes wiþ enùff --
+    Thó, þrú, plow, or doh, or coff?
+    Hiccup has the sound of cùp.
+    Mÿ advïse is to giv ùp!!!
 
 Compatibility fórm
 ------------------
@@ -206,167 +206,167 @@ Compatibility fórm
 
 https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question
 
-To be, or not to be, that is the questjon:
-Whether tis nobler in the mind to suffer
-The slings and arroes of outrajeus fortune,
-Or to take arms agenst a sea of trubbles,
-And by opozing end them: to die, to sleep
-No more; and by a sleep, to say we end
-The heart-ake, and the thouzand natural shocks
-That flesh is eir to? Tis a consumatjon
-Devoutly to be wished. To die, to sleep,
-To sleep, perchanse to dream; ay, thers the rub,
-For in that sleep of deth, what dreams may com,
-When we hav shuffled off this mortal coil,
-Must giv us paus. Thers the respect
-That makes calamity of so long life:
-For hoo wud bear the whips and scorns of time,
-The opressors rong, the proud mans contumely,
-The pangs of despized lov, the laws delay,
-The insolense of offis, and the spurns
-That patjent merit of the unworthy takes,
-When he himself miyt his quietus make
-With a bare bodkin? Hoo wud fardels bear,
-To grunt and swet under a weary life,
-But that the dred of somthing after deth,
-The undiscovered cuntry, from hoos born
-No traveler returns, puzzles the will,
-And makes us rather bear thoze ills we hav,
-Than fly to others that we no not of.
-Thus consjense dos make cowards of us aul,
-And thus the nativ hue of rezolutjon
-Is sicklyd oer, with the pale cast of thaut,
-And enterprizes of great pitch and moment,
-With this regard their currents turn ary,
-And looz the name of actjon.
+    To be, or not to be, that is the questjon:
+    Whether tis nobler in the mind to suffer
+    The slings and arroes of outrajeus fortune,
+    Or to take arms agenst a sea of trubbles,
+    And by opozing end them: to die, to sleep
+    No more; and by a sleep, to say we end
+    The heart-ake, and the thouzand natural shocks
+    That flesh is eir to? Tis a consumatjon
+    Devoutly to be wished. To die, to sleep,
+    To sleep, perchanse to dream; ay, thers the rub,
+    For in that sleep of deth, what dreams may com,
+    When we hav shuffled off this mortal coil,
+    Must giv us paus. Thers the respect
+    That makes calamity of so long life:
+    For hoo wud bear the whips and scorns of time,
+    The opressors rong, the proud mans contumely,
+    The pangs of despized lov, the laws delay,
+    The insolense of offis, and the spurns
+    That patjent merit of the unworthy takes,
+    When he himself miyt his quietus make
+    With a bare bodkin? Hoo wud fardels bear,
+    To grunt and swet under a weary life,
+    But that the dred of somthing after deth,
+    The undiscovered cuntry, from hoos born
+    No traveler returns, puzzles the will,
+    And makes us rather bear thoze ills we hav,
+    Than fly to others that we no not of.
+    Thus consjense dos make cowards of us aul,
+    And thus the nativ hue of rezolutjon
+    Is sicklyd oer, with the pale cast of thaut,
+    And enterprizes of great pitch and moment,
+    With this regard their currents turn ary,
+    And looz the name of actjon.
 
 ### Caos
 
 http://www.i18nguy.com/chaos.html
 
-Dearest creature in creatjon,
-Study Inglish pronunsiatjon.
-I will teach U in my verse
-Sounds like corps, cor, hors, and wors.
-I will keep U, Suzy, bizy,
-Make Ur hed with heat gro dizzy.
-Tear in y, Ur dress will tear.
-So shall I! Oh hear my prayer.
+    Dearest creature in creatjon,
+    Study Inglish pronunsiatjon.
+    I will teach U in my verse
+    Sounds like corps, cor, hors, and wors.
+    I will keep U, Suzy, bizy,
+    Make Ur hed with heat gro dizzy.
+    Tear in y, Ur dress will tear.
+    So shall I! Oh hear my prayer.
 
-Just compare heart, beard, and heard,
-Dies and diet, lord and word,
-Sord and sward, retain and Britan.
-(Mind the latter, how its ritten.)
-Now I surely will not plaig U
-With such words as plaq and ague.
-But be careful how U speak:
-Say break and steak, but bleak and streak;
-Cloven, oven, how and lo,
-Script, reseit, sho, poem, and toe.
+    Just compare heart, beard, and heard,
+    Dies and diet, lord and word,
+    Sord and sward, retain and Britan.
+    (Mind the latter, how its ritten.)
+    Now I surely will not plaig U
+    With such words as plaq and ague.
+    But be careful how U speak:
+    Say break and steak, but bleak and streak;
+    Cloven, oven, how and lo,
+    Script, reseit, sho, poem, and toe.
 
-Hear me say, devoid of trickery,
-Dauter, lafter, and Terpsicore,
-Tyfoid, meazles, topsails, ailes, * topsals?
-Exiles, similes, and reviles;
-Scolar, vicar, and sigar,
-Solar, mica, war and far;
-Won, anemone, Balmoral,
-Kitchen, lichen, laundry, laurel;
-Gertrude, Jerman, wind and mind,
-Sene, Melpomene, mankind.
+    Hear me say, devoid of trickery,
+    Dauter, lafter, and Terpsicore,
+    Tyfoid, meazles, topsails, ailes, * topsals?
+    Exiles, similes, and reviles;
+    Scolar, vicar, and sigar,
+    Solar, mica, war and far;
+    Won, anemone, Balmoral,
+    Kitchen, lichen, laundry, laurel;
+    Gertrude, Jerman, wind and mind,
+    Sene, Melpomene, mankind.
 
-Billet dos not ryme with ballei,
-Bouqei, wallet, mallet, chalei.
-Blud and flud are not like food, * food v fud?
-Nor is mould like shud and wud. * mold?
-Viscus, vicount, load and braud,
-Toward, to forward, to reward.
-And Ur pronunsiatjon's OK
-When U correctly say croqei,
-Rounded, woonded, grieve and siv,
-Frend and fiend, alive and liv.
+    Billet dos not ryme with ballei,
+    Bouqei, wallet, mallet, chalei.
+    Blud and flud are not like food, * food v fud?
+    Nor is mould like shud and wud. * mold?
+    Viscus, vicount, load and braud,
+    Toward, to forward, to reward.
+    And Ur pronunsiatjon's OK
+    When U correctly say croqei,
+    Rounded, woonded, grieve and siv,
+    Frend and fiend, alive and liv.
 
-Ivy, privy, famus; clamor
-And enamor ryme with hammer.
-River, rival, toom, bom, coam,
-Doll and roll and som and home.
-Stranjer dos not ryme with anger,
-Neither dos devour with clangor.
-Souls but foul, haunt but aunt,
-Font, front, wont, want, grand, and grant,
-Shoos, goes, dos. Now first say finger,
-And then singer, jinjer, linger,
-Real, zeal, mauv, gauz, gouj and gaij, * real?
-Marrij, foliaj, miraje, and aje.
+    Ivy, privy, famus; clamor
+    And enamor ryme with hammer.
+    River, rival, toom, bom, coam,
+    Doll and roll and som and home.
+    Stranjer dos not ryme with anger,
+    Neither dos devour with clangor.
+    Souls but foul, haunt but aunt,
+    Font, front, wont, want, grand, and grant,
+    Shoos, goes, dos. Now first say finger,
+    And then singer, jinjer, linger,
+    Real, zeal, mauv, gauz, gouj and gaij, * real?
+    Marrij, foliaj, miraje, and aje.
 
-Query dos not ryme with very,
-Nor dos fury sound like bery.
-Dost, lost, post and doth, cloth, loath.
-Job, nob, bozom, transom, oath.
-Tho the differenses seem little,
-We say actual but vittal.
-Refer dos not ryme with deffer.
-Foeffer dos, and zefir, heffer. * This is incorect in the orijinal!
-Mint, pint, senat and sedate;
-Dull, bull, and Jorj et late.
-Senic, Arabic, Pasific,
-Siense, consjense, sientific.
+    Query dos not ryme with very,
+    Nor dos fury sound like bery.
+    Dost, lost, post and doth, cloth, loath.
+    Job, nob, bozom, transom, oath.
+    Tho the differenses seem little,
+    We say actual but vittal.
+    Refer dos not ryme with deffer.
+    Foeffer dos, and zefir, heffer. * This is incorect in the orijinal!
+    Mint, pint, senat and sedate;
+    Dull, bull, and Jorj et late.
+    Senic, Arabic, Pasific,
+    Siense, consjense, sientific.
 
-Liberty, library, heav and heven,
-Rachel, ake, mustache, eleven.
-We say halloed, but alowed,
-Peeple, leppard, toed, but vowed.
-Mark the differenses, moreover,
-Between moover, cover, clover;
-Leeches, britches, wize, presise,
-Chalis, but polise and lise;
-Camel, constable, unstable,
-Prinsiple, disiple, label.
+    Liberty, library, heav and heven,
+    Rachel, ake, mustache, eleven.
+    We say halloed, but alowed,
+    Peeple, leppard, toed, but vowed.
+    Mark the differenses, moreover,
+    Between moover, cover, clover;
+    Leeches, britches, wize, presise,
+    Chalis, but polise and lise;
+    Camel, constable, unstable,
+    Prinsiple, disiple, label.
 
-Petal, panel, and canal,
-Wait, surprize, plat, promis, pal.
-Worm and storm, chaiz, caos, chair,
-Senator, spectator, mayor.
-Toor, but our and succor, foar.
-Gas, alas, and Arkansau.
-Sea, idea, Korea, area,
-Sam, Maria, but malaria.
-Yooth, south, suthern, clens and clean.
-Doctrin, turpentine, marine.
+    Petal, panel, and canal,
+    Wait, surprize, plat, promis, pal.
+    Worm and storm, chaiz, caos, chair,
+    Senator, spectator, mayor.
+    Toor, but our and succor, foar.
+    Gas, alas, and Arkansau.
+    Sea, idea, Korea, area,
+    Sam, Maria, but malaria.
+    Yooth, south, suthern, clens and clean.
+    Doctrin, turpentine, marine.
 
-Compare alien with Italian,
-Dandelion and batalion.
-Sally with aly, yea, ye,
-Ey, I, ay, ay, whey, and key.
-Say aver, but ever, fever,
-Neither, lezur, skein, deseiver.
-Heron, granary, canary.
-Crevis and devise and aery.
+    Compare alien with Italian,
+    Dandelion and batalion.
+    Sally with aly, yea, ye,
+    Ey, I, ay, ay, whey, and key.
+    Say aver, but ever, fever,
+    Neither, lezur, skein, deseiver.
+    Heron, granary, canary.
+    Crevis and devise and aery.
 
-Fase, but prefas, not efase.
-Flem, flegmatic, ass, glass, bass.
-Larj, but target, jin, giv, verjing,
-Aut, out, joust and scour, scurjing.
-Ear, but ern and wear and tear
-Doo not ryme with here but ere.
-Seven is riyt, but so is even,
-Hyfen, ruffen, neffew Steven,
-Monkey, donkey, Turk and jerk,
-Ask, grasp, wasp, and cork and work.
+    Fase, but prefas, not efase.
+    Flem, flegmatic, ass, glass, bass.
+    Larj, but target, jin, giv, verjing,
+    Aut, out, joust and scour, scurjing.
+    Ear, but ern and wear and tear
+    Doo not ryme with here but ere.
+    Seven is riyt, but so is even,
+    Hyfen, ruffen, neffew Steven,
+    Monkey, donkey, Turk and jerk,
+    Ask, grasp, wasp, and cork and work.
 
-Pronunsiatjon -- think of Syke!
-Is a paling stout and spiky?
-Wont it make U looz Ur wits,
-Riting groats and saying grits? * Not true! Different words...
-Its a dark abiss or tunnel:
-Strewn with stones, stoed, solas, gunnal,
-Izlington and Ile of Wiyt,
-Houswife, verdict and indite.
+    Pronunsiatjon -- think of Syke!
+    Is a paling stout and spiky?
+    Wont it make U looz Ur wits,
+    Riting groats and saying grits? * Not true! Different words...
+    Its a dark abiss or tunnel:
+    Strewn with stones, stoed, solas, gunnal,
+    Izlington and Ile of Wiyt,
+    Houswife, verdict and indite.
 
-Finaly, which rymes with enuff --
-Tho, thru, plow, or doh, or coff?
-Hiccup has the sound of cup.
-My advise is to giv up!!!
+    Finaly, which rymes with enuff --
+    Tho, thru, plow, or doh, or coff?
+    Hiccup has the sound of cup.
+    My advise is to giv up!!!
 
 Traditjonal fórm
 ----------------
@@ -375,39 +375,39 @@ Traditjonal fórm
 
 https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question
 
-To be, or not to be, that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune,
-Or to take arms against a sea of troubles
-And by opposing end them. To die—to sleep,
-No more; and by a sleep to say we end
-The heart-ache and the thousand natural shocks
-That flesh is heir to: 'tis a consummation
-Devoutly to be wish'd. To die, to sleep;
-To sleep, perchance to dream—ay, there's the rub:
-For in that sleep of death what dreams may come,
-When we have shuffled off this mortal coil,
-Must give us pause—there's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th'oppressor's wrong, the proud man's contumely,
-The pangs of dispriz'd love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th'unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovere'd country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprises of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action.
+    To be, or not to be, that is the question:
+    Whether 'tis nobler in the mind to suffer
+    The slings and arrows of outrageous fortune,
+    Or to take arms against a sea of troubles
+    And by opposing end them. To die—to sleep,
+    No more; and by a sleep to say we end
+    The heart-ache and the thousand natural shocks
+    That flesh is heir to: 'tis a consummation
+    Devoutly to be wish'd. To die, to sleep;
+    To sleep, perchance to dream—ay, there's the rub:
+    For in that sleep of death what dreams may come,
+    When we have shuffled off this mortal coil,
+    Must give us pause—there's the respect
+    That makes calamity of so long life.
+    For who would bear the whips and scorns of time,
+    Th'oppressor's wrong, the proud man's contumely,
+    The pangs of dispriz'd love, the law's delay,
+    The insolence of office, and the spurns
+    That patient merit of th'unworthy takes,
+    When he himself might his quietus make
+    With a bare bodkin? Who would fardels bear,
+    To grunt and sweat under a weary life,
+    But that the dread of something after death,
+    The undiscovere'd country, from whose bourn
+    No traveller returns, puzzles the will,
+    And makes us rather bear those ills we have
+    Than fly to others that we know not of?
+    Thus conscience does make cowards of us all,
+    And thus the native hue of resolution
+    Is sicklied o'er with the pale cast of thought,
+    And enterprises of great pitch and moment
+    With this regard their currents turn awry
+    And lose the name of action.
 
 ### Chaos
 
