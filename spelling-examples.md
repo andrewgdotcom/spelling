@@ -109,7 +109,7 @@ http://www.i18nguy.com/chaos.html
     Billet dòs not rÿme wiþ ballei,
     Bóuqei, wàllet, mallet, shalei.
     Blòd and flòd are not lïke food, * food v fud?
-    Nór is móuld lïke shud and wud. * móld?
+    Nór is móld lïke shud and wud.
     Viscus, vïcount, load and braud,
     Towàrd, to fórward, to rewàrd.
     And Ur pronùnsiätjon's OK
@@ -278,7 +278,7 @@ http://www.i18nguy.com/chaos.html
     Billet dos not ryme with ballei,
     Bouqei, wallet, mallet, chalei.
     Blud and flud are not like food, * food v fud?
-    Nor is mould like shud and wud. * mold?
+    Nor is mold like shud and wud.
     Viscus, vicount, load and braud,
     Toward, to forward, to reward.
     And Ur pronunsiatjon's OK
