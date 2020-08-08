@@ -6,8 +6,8 @@ Compäre àlsó wiþ the [Spelling Sosïetys prïor árt](http://spellingsociety
 Sïde-bÿ-sïde comparison
 -----------------------
 
-Canonical fórm | Compatibility fórm | Traditjonal fórm
----------------|--------------------|------------------
+Canonical fórm | Common fórm | Traditjonal fórm
+---------------|-------------|------------------
 The quick brown fox jùmped óver the läzy dog. | The quick brown fox jumped over the lazy dog. | The quick brown fox jumped over the lazy dog.
 Oh say can U see, bÿ the dawns erly liyt, whàt wònse wàs last seen, bÿ the twïliyts last gleaming. | Oh say can U see, by the dawns erly liyt, what wonse was last seen, by the twiliyts last gleaming. | Oh say can you see, by the dawn's early light, what once was last seen, by the twilight's last gleaming.
 Aul hüman bëings ar bórn free and ëqual in dignity and riyts. They ar endowed wiþ reazon and consjense and shud act towàrds wòn anòther in a spirit of bròtherhud. | Aul human beings ar born free and equal in dignity and riyts. They ar endowed with reazon and consjense and shud act towards won another in a spirit of brotherhud. | All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
@@ -191,8 +191,8 @@ http://www.i18nguy.com/chaos.html
     Hiccup has the sound of cùp.
     Mÿ advïse is to giv ùp!!!
 
-Compatibility fórm
-------------------
+Common fórm
+-----------
 
 ### Hamlet
 

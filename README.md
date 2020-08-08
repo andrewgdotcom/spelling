@@ -18,12 +18,12 @@ Due to the [Gréat Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift)
 
 Wë ar thùs left wiþ a significant nùmber of redùndant vowel fórms in refórmed text, inclúding helper-ë. Remooving them wud impëde adoptjon bÿ existing nätiv speakers, and só is beyond the rëmit of this docüment. Enny sùch redùctjon in redùndansy shud ónly bë considered after this fäze of refórm has bedded in for a significant përiod.
 
-Wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze. This àlsó lets us defïne a compatibility fórm that lacks dïacritics bùt retains menny of the benefits of refórm.
+In the canonical fórm wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze. This àlsó lets us defïne a common fórm that lacks dïacritics bùt retains aul the òther imroovments.
 
-Þrúout this docüment wë üze the canonical (wiþ-dïacritics) fórms of example wurds, ráther than the compatibility fórms wiþout dïacritics. It is a straitfórward task to convert bÿ omitting dïacritics and replacing "þ" → "th".
+Þrúout this docüment wë üze the canonical (wiþ-dïacritics) fórm of example wurds, ráther than the common fórm wiþout dïacritics. It is a straitfórward task to convert bÿ omitting dïacritics and replacing "þ" → "th".
 
 ## Contents
 
 * [Rüles for pronounsing refórmed text](pronunsiation-rules.md)
 * [Rüles for spelling refórmed text](spelling-rules.md)
-* [Examples of compatibility and canonical refórmed text](spelling-examples.md)
+* [Examples of common and canonical refórmed text](spelling-examples.md)

@@ -114,7 +114,7 @@ soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel.
 
     mùstash, closh, níshe
 
-### 1C10: Þ (optjonal)
+### 1C10: Þ (canonical fórm ónly)
 
 th → þ when unvoised, and àlsó in derïved wurds.
 
@@ -358,7 +358,7 @@ lichen      | lïke kitchen
 Transfórmätjon stäje 2: Dïacritics
 ==================================
 
-In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze may bë omitted from compatibility text, bùt shud bë inclúded in fórmal contexts, espesjaly teaching.
+In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze ar omitted from common fórm text, bùt mùst bë inclúded in the canonical fórm.
 
 2C: Consonant dïacritics
 ------------------------
