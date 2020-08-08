@@ -1,7 +1,7 @@
 Refórmed text examples
 ======================
 
-Compäre àlsó wiþ the [Simplifÿed Spelling Sosïetys prïor árt](http://spellingsociety.org/uploaded_views/pvstar-personal-view.pdf).
+Compäre àlsó wiþ the [Spelling Sosïetys prïor árt](http://spellingsociety.org/uploaded_views/pvstar-personal-view.pdf).
 
 Sïde-bÿ-sïde comparison
 -----------------------
