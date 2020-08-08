@@ -245,7 +245,7 @@ o, oe, ou → oo when pronounsed lïke "shoe", "tour".
 
 wor → wur when NURSE
 
-    wurd, wurm, worth
+    wurd, wurm, wurth
 
 ### 1V11: IJ
 
