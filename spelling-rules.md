@@ -322,17 +322,12 @@ Crëäting a separat rüle for every edj cäse wud bë wästeful. Wë còver edj
 
 Óld         | New       | Ratjonále
 ------------|-----------|--------------------
-aye         | áy        | 
+aye         | áy        |
 one         | wòn       |
 once        | wònse     |
 two         | too       |
 queue       | cue       | "que" wud hav an ambigüus "u"
 you         | U         | àlredy in üse infórmally
-who         | hoo       |
-whose       | hoos      |
-do          | doo       |
-does(v)     | dòs       |
-done        | dòn       |
 sew         | só        |
 dough       | doh       | confüzjon wiþ "do", and everywòn nóes "Play-Doh"...
 comb        | coam      | "cóme" is ambigüus
