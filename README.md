@@ -14,13 +14,13 @@ This docüment sets out a practical Inglish spelling refórm plan. This plan is 
 
 Reserch has shóen that wurd shäpe is vïtal to comprehensjon for flúent readers. This skëme has been deziyned to minimïze chänjes in wurd shäpe, which means that wë will increas the nùmber of grafëmes in órder to keep the existing varïety of wurd fórms for backwards compatibility.
 
-Due to the [Gréat Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift), and the proliferätjon of rëjional acsents, it wud bë very difficult if not impossible to return Inglish spelling to a 1:1 fonetic mapping wiþout mäjor disruptjon, particülarly to the pronùnsiätjon of vowels. Wë instedd add dïacritics to márk letters hoos pronùnsiätjons hav chänjed significantly óver tïme. This keeps the spelling of móst wurds clóse to the traditjonal fórm whïle móre accüratly reflecting modern speech.
+Due to the [Gréat Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift), and the proliferätjon of rëjional acsents, it wud bë very difficult if not impossible to return Inglish spelling to a 1:1 fonetic mapping wiþout mäjor disruptjon, particülarly to the pronùnsiätjon of vowels. Wë instedd add dïacritics to márk letters hoos pronùnsiätjons hav dïverjed óver tïme. This keeps the spelling of móst wurds clóse to the traditjonal fórm whïle móre accüratly reflecting modern speech.
 
 Wë ar thùs left wiþ a significant nùmber of redùndant vowel fórms in refórmed text, inclúding helper-ë. Remooving them wud impëde adoptjon bÿ existing nätiv speakers, and só is beyond the rëmit of this docüment. Enny sùch redùctjon in redùndansy shud ónly bë considered after this fäze of refórm has bedded in for a significant përiod.
 
-Wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze.
+Wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze. This àlsó lets us defïne a compatibility fórm that lacks dïacritics bùt retains menny of the benefits of refórm.
 
-Þrúout this docüment wë üze the canonical (wiþ-dïacritics) fórms of example wurds, ráther than the compatibility fórms wiþout dïacritics. It is a straitfórward task to convert bÿ remooving dïacritics and replacing "þ" → "th".
+Þrúout this docüment wë üze the canonical (wiþ-dïacritics) fórms of example wurds, ráther than the compatibility fórms wiþout dïacritics. It is a straitfórward task to convert bÿ omitting dïacritics and replacing "þ" → "th".
 
 ## Contents
 
