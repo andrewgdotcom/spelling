@@ -364,24 +364,24 @@ Transfórmätjon stäje 2: Dïacritics
 
 In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze may bë omitted from compatibility text, bùt shud bë inclúded in fórmal contexts, espesjaly teaching.
 
-2D: Consonant dïacritics
+2C: Consonant dïacritics
 ------------------------
 
-### 2D1: NG
+### 2C1: NG
 
-nc, ng, nk, nq → ńc, ńg, ńk, ńq when n is modifÿed AND the follóing consonant is àlways pronounsed.
+2C1a: nc, ng, nk, nq → ńc, ńg, ńk, ńq when n is modifÿed AND the follóing consonant is àlways pronounsed.
 
     sińcronïze, ańger, ańkle, trańquil
 
-Bùt not wher "g" is ónly sòmtïmes or never separatly pronounsed.
+2C1b: ...bùt not wher "g" is ónly sòmtïmes or never separatly pronounsed.
 
     sing, pulling
 
-A hÿfen shud bë üzed when "g" is pronounsed separatly and the "n" is not modifÿed.
+2C1c: A hÿfen shud bë inserted when "g" is pronounsed separatly and the "n" is not modifÿed.
 
     un-gräteful, en-gäje
 
-### 2D2: Palatalïzed c
+### 2C2: Palatalïzed c
 
 palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin.
 
