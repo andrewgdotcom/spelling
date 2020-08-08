@@ -7,7 +7,7 @@ Unless òtherwïze stäted, "end of wurd" means the end of a root wurd, ëven if
 Transfórmätjon stäje 1: Rëshäping
 =================================
 
-In this stäje wë
+In this stäje wë àlter the shäpes of wurds bÿ repläsing and remooving problematic letters and letter sëquenses wiþ móre regülar fórms.
 
 1C: Consonants
 --------------
