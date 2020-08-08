@@ -257,7 +257,7 @@ semivowel i → j when it modifÿs a presëding "s", "t", or "z" (that wàs "s")
 
 difþong ye → ÿ
 
-    áy, bÿ, dÿ, eÿ
+    bÿ, dÿ, eÿ
 
 1X: Context fixes
 -----------------
@@ -322,6 +322,7 @@ Crëäting a separat rüle for every edj cäse wud bë wästeful. Wë còver edj
 
 Óld         | New       | Ratjonále
 ------------|-----------|--------------------
+aye         | áy        | 
 one         | wòn       |
 once        | wònse     |
 two         | too       |
