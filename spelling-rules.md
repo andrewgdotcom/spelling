@@ -112,11 +112,13 @@ soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel [AVOID].
 
     mùstash, closh, níshe
 
-### 1C10: Þ [FAMILY] (canonical fórm ónly [ASCII])
+### 1C10: Þ
 
-th → þ when unvoised, and àlsó in derïved wurds. [GRAMMAR]
+th → þ when unvoised, and àlsó in derïved wurds [FAMILY,GRAMMAR].
 
     þin, þiy, wiþ, wiþout, panþer
+
+This is optjonal in common fórm [ASCII].
 
 
 1V: Vowels
