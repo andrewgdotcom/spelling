@@ -14,7 +14,7 @@ In this stäje wë àlter the shäpes of wurds bÿ repläsing and remooving prob
 
 ### 1C1: DUC
 
-1C1a: drop üseless consonants
+#### 1C1a: drop üseless consonants
 
     b,c,g,h,k,l,s,w
 
@@ -22,7 +22,7 @@ In this stäje wë àlter the shäpes of wurds bÿ repläsing and remooving prob
 
 (* see "1X Fixes" beló)
 
-1C1b: BÙT keep "wh" when pronounsed as in "whip" [NEUTRAL]
+#### 1C1b: BÙT keep "wh" when pronounsed as in "whip" [NEUTRAL]
 
     which, wheel
 
@@ -40,33 +40,33 @@ augh → áf, au
 
 ### 1C4: OUGH
 
-1C4a: /o:/ → ó
+#### 1C4a: /o:/ → ó
 
     thó
 
 BÙT dough → doh (see 1X) [AVOID]
 
-1C4b: /u:/ → ú
+#### 1C4b: /u:/ → ú
 
     þrú
 
-1C4c: /aʊ/ → ou (middle of wurd), ow (end)
+#### 1C4c: /aʊ/ → ou (middle of wurd), ow (end)
 
     drout, plow
 
-1C4d: /ɔ:/  → au
+#### 1C4d: /ɔ:/  → au
 
     aut, braut
 
-1C4e: /ɒf/ → off
+#### 1C4e: /ɒf/ → off
 
     coff
 
-1C4f: /ʌf/ → ùff
+#### 1C4f: /ʌf/ → ùff
 
     tùff, enùff
 
-1C4g: /ɒx/ → ogh
+#### 1C4g: /ɒx/ → ogh
 
     logh
 
@@ -78,11 +78,11 @@ Voised s → z when "s" is not the last letter in a wurd, or when it is requïre
 
 ### 1C6: C[E]
 
-1C6a: soft ce → s after shórt unstressed vowel
+#### 1C6a: soft ce → s after shórt unstressed vowel
 
     palas, practis
 
-1C6b: soft [s]c → s, prezerving not-só-üseless E [AVOID]
+#### 1C6b: soft [s]c → s, prezerving not-só-üseless E [AVOID]
 
     acsess, ïse, vïse, consjense, sïense
 
@@ -100,15 +100,15 @@ soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel [AVOID].
 
 ### 1C9: CH
 
-1C9a: hárd ch → k when follóed bÿ e,i,y [AVOID]
+#### 1C9a: hárd ch → k when follóed bÿ e,i,y [AVOID]
 
     äke
 
-1C9b: òtherwïze → c [SPARSE]
+#### 1C9b: òtherwïze → c [SPARSE]
 
     tecnical
 
-1C9c: soft ch[e] → sh [FORIN]
+#### 1C9c: soft ch[e] → sh [FORIN]
 
     mùstash, closh, níshe
 
@@ -126,75 +126,75 @@ th → þ when unvoised, and àlsó in derïved wurds. [GRAMMAR]
 
 Standardïze shórt vowels
 
-1V1a: * → a
+#### 1V1a: * → a
 
     plat, merang
 
-1V1b: * → e (SR1)
+#### 1V1b: * → e (SR1)
 
     frend, menny, et
 
-1V1c: * → i
+#### 1V1c: * → i
 
     bizy, pritty, siv, gild
 
-1V1d: o, oo → u when pronounsed lïke "foot" or "wolf" [LOOSE]
+#### 1V1d: o, oo → u when pronounsed lïke "foot" or "wolf" [LOOSE]
 
     buk, fut, wulf, wuman
 
-1V1e: ou(l) → u when pronounsed lïke "would" (inclúding -ous BÙT NOT -our)
+#### 1V1e: ou(l) → u when pronounsed lïke "would" (inclúding -ous BÙT NOT -our)
 
         wud, cud, fämus
 
-1V1f: ou, oo → ù, ò when pronounsed lïke "young blood"
+#### 1V1f: ou, oo → ù, ò when pronounsed lïke "young blood"
 
     yùng, cùntry, dùbble, blòd
 
-1V1g: träiling shórt ie → y
+#### 1V1g: träiling shórt ie → y
 
     revery, anomy
 
 ### 1V2: [E]IG[H]
 
-1V2a: "ig[h]" lïke "high" → "iy" (from Dùtch "ij") [FAMILY,SHAPE]
+#### 1V2a: "ig[h]" lïke "high" → "iy" (from Dùtch "ij") [FAMILY,SHAPE]
 
     siyn, liyt
 
-1V2b: eig[h] → "ei" in middle of wurd, "ey" at end [SPARSE,SHAPE]
+#### 1V2b: eig[h] → "ei" in middle of wurd, "ey" at end [SPARSE,SHAPE]
 
     sley, rein, eit
 
 ### 1V3: O(U)R
 
-1V3a: gó American wiþ sùffix -our
+#### 1V3a: sùffix -our → -or
 
     còlor, candor
 
-1V3b: our → ur when lïke "fur"
+#### 1V3b: our → ur when lïke "fur"
 
     scurj
 
-1V3c: our, oor → ór in middle of root wurd, oar at end, when lïke "four"
+#### 1V3c: our, oor → ór in middle of root wurd, oar at end, when lïke "four"
 
     foar, poar, floar, doar, bórn, mórn
 
 ### 1V4: QU
 
-1V4a: qu → q when "u" (ónly) is üseless [SPARSE]
+#### 1V4a: qu → q when "u" (ónly) is üseless [SPARSE]
 
     üníqe, qäy, tecníqe
 
-1V4b: que → q when "ue" is üseless
+#### 1V4b: que → q when "ue" is üseless
 
     plaq
 
 ### 1V5: GUE
 
-1V5a: gue → g when -ue is üseless
+#### 1V5a: gue → g when -ue is üseless
 
     leag, tòng
 
-1V5b: when -ue is a üseful helper-ë, rëfactor the presëding vowel [AVOID]
+#### 1V5b: when -ue is a üseful helper-ë, rëfactor the presëding vowel [AVOID]
 
     ague → aig
     igue → eag
@@ -205,7 +205,7 @@ Standardïze shórt vowels
 
 ### 1V6: OW
 
-1V6a: ow → ó at end of wurd when pronounsed lïke "grow"
+#### 1V6a: ow → ó at end of wurd when pronounsed lïke "grow"
 
     ró, gró, folló
 
@@ -213,7 +213,7 @@ NB thëze täke -es, -en, -ed etc sùffixes:
 
     róes, gróen, follóed
 
-1V6b: ow → oa in middle of wurd when pronounsed lïke "boat"
+#### 1V6b: ow → oa in middle of wurd when pronounsed lïke "boat"
 
     oan, boal
 
@@ -225,11 +225,11 @@ oul → ól when pronounsed lïke "mould"
 
 ## 1V8: [AO]L
 
-1V8a: "al" → "au" when lïke "walk"
+#### 1V8a: "al" → "au" when lïke "walk"
 
     wauk, tauk, baul
 
-1V8b: "ol" → "oa" when lïke "folk"
+#### 1V8b: "ol" → "oa" when lïke "folk"
 
     foak, yoak
 
@@ -279,11 +279,11 @@ Drop üseless sillables.
 
 ### 1X1: Fix dùbbling
 
-1X1a: If after enny of the abòv wë hav *newly crëäted* a lóne consonant after a stressed shórt vowel, then wë dùbble the consonant üzing the nórmal Inglish dùbbling rúles.
+#### 1X1a: If after enny of the abòv wë hav *newly crëäted* a lóne consonant after a stressed shórt vowel, then wë dùbble the consonant üzing the nórmal Inglish dùbbling rúles.
 
     neffew, vittal, dùbble, blòddy
 
-1X1b: Remoov dùbbling if not after stressed shórt vowel
+#### 1X1b: Remoov dùbbling if not after stressed shórt vowel
 
     apear, nesesery
 
@@ -293,11 +293,11 @@ BÙT keep the dùbble if it is due to a compound wurd or if it is "ss" at the en
 
 ### 1X2: Fix helper vowels
 
-1X2a: If after enny of the abòv, wë hav *newly crëäted* a lóne vowel (neglecting semivowels) in the fïnal sillable, which is long and has nó helper-ë, then wë add a helper-ë.
+#### 1X2a: If after enny of the abòv, wë hav *newly crëäted* a lóne vowel (neglecting semivowels) in the fïnal sillable, which is long and has nó helper-ë, then wë add a helper-ë.
 
     indïte
 
-1X2b: Drop üseless "e" (DUE)
+#### 1X2b: Drop üseless "e" (DUE)
 
     glòv, minut, practis, gon
 
@@ -385,15 +385,15 @@ In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze ar 
 
 ### 2C1: NG
 
-2C1a: nc, ng, nk, nq → ńc, ńg, ńk, ńq when n is modifÿed AND the follóing consonant is àlways pronounsed.
+#### 2C1a: nc, ng, nk, nq → ńc, ńg, ńk, ńq when n is modifÿed AND the follóing consonant is àlways pronounsed.
 
     sińcronïze, ańger, ańkle, trańquil
 
-2C1b: ...bùt not wher "g" is ónly sòmtïmes or never separatly pronounsed.
+#### 2C1b: ...bùt not wher "g" is ónly sòmtïmes or never separatly pronounsed.
 
     sing, pulling
 
-2C1c: A hÿfen shud bë inserted when "g" is pronounsed separatly and the "n" is not modifÿed.
+#### 2C1c: A hÿfen shud bë inserted when "g" is pronounsed separatly and the "n" is not modifÿed.
 
     un-gräteful, en-gäje
 
@@ -411,7 +411,7 @@ palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin. [SPARSE]
 
 Menny vowel dïacritics ar àlreddy found in Inglish text, for historical or póètic reazons.
 
-2V1a: dïerësis
+#### 2V1a: dïerësis
 
 The dïerësis is deprecäted, bùt can bë repläsed wiþ anòther explisit dïacritic (e.g. gráve) or a hÿfen.
 
@@ -421,11 +421,11 @@ becòm:
 
     "co-operäte, naíve, Noèl
 
-2V1b: retain acüte (explisit long stress)
+#### 2V1b: retain acüte (explisit long stress)
 
     "rose, rosé"
 
-2V1c: retain gráve (explisit emfasis)
+#### 2V1c: retain gráve (explisit emfasis)
 
     "blessèd, learnèd; desèrt v dèsert"
 
@@ -448,7 +448,7 @@ shift márk  | ä | ë | ï | - | ü | ÿ | shifted lengþening (umlàut)
     put, pùtt, prúne, püre, manüal
     pity, yet, bÿ
 
-2V2a: HÁRD
+#### 2V2a: HÁRD
 
 The hárd márk or gráve operätes similarly to the French or Italian gráve [FAMILY], and indicätes a shórt, stressed ópen vowel.
 
@@ -458,7 +458,7 @@ The hárd márk or gráve operätes similarly to the French or Italian gráve [F
 
     umlàut, póètry
 
-2V2b: LONG
+#### 2V2b: LONG
 
 The long márk or acüte is analogus to the French acüte and Irish síne fada [FAMILY], and is üzed hevily on wurds of French derivätjon.
 
@@ -467,7 +467,7 @@ The long márk or acüte is analogus to the French acüte and Irish síne fada [
 
     lóne, rosé, magazíne, lúnar
 
-2V2c: SHIFT
+#### 2V2c: SHIFT
 
 The shift márk or umlàut derïves from a súperscript "e", and has a 1:1 mapping onto sùffix "e" in modern Jerman (e.g. "München" = "Muenchen"). It is üzed consistently across the Jermanic languajes for the closed-fronted vowels "ä" "ö" and "ü". It is àlsó found on the Ïselandic "ÿ", which derïves from a ligatür of "ij", which is in turn analogus to its Dùtch equivalent that wë hav mapped to "iy" in 1V2a abòv.
 
@@ -483,19 +483,19 @@ Wë doo not üze "ö", as it has a standard pronùnsiätjon in Jermanic languaje
 
 Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that helper-ë is not counted as a dïgraf, and só dïacritics shud àlways bë üzed ëven if helper-ë is retained.
 
-2V3a: "á" == "AH", "aa" if pronounsed as "baa"
+#### 2V3a: "á" == "AH", "aa" if pronounsed as "baa"
 
     hurrah, shah, salaam
 
-2V3b: "ä" == "AE", "ai", "ay" if pronounsed as "stay"
+#### 2V3b: "ä" == "AE", "ai", "ay" if pronounsed as "stay"
 
     aerial, rain, tray
 
-2V3c: "é" == "EI", "ey" if pronounsed as "grey"
+#### 2V3c: "é" == "EI", "ey" if pronounsed as "grey"
 
     rein, they
 
-2V3d: "ë" == "ea", "EE" if pronounsed as "fleece"
+#### 2V3d: "ë" == "ea", "EE" if pronounsed as "fleece"
 
     feet, see
     feat, sea
@@ -504,17 +504,17 @@ Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that 
 
     ïdëa (þree sillables!)
 
-2V3e: "ï", "ÿ" == "IE", "iy", "YE", ["ui", "uy"] if pronounsed as "tie"
+#### 2V3e: "ï", "ÿ" == "IE", "iy", "YE", ["ui", "uy"] if pronounsed as "tie"
 
     die, hiy, dye, [guy, guile]
 
-2V3f: "ó" == "OA", "OE", "oh", "eau" if pronounsed as "goat"
+#### 2V3f: "ó" == "OA", "OE", "oh", "eau" if pronounsed as "goat"
 
     foe, sloe, go, yoak, goat, oh, shateau
 
     ("oe" preferred at end of wurd, "oa" in middle)
 
-2V3g: "ü" == "UE", "eu", "ew" if pronounsed as "cue"
+#### 2V3g: "ü" == "UE", "eu", "ew" if pronounsed as "cue"
 
     cue, feud, new
 
@@ -577,11 +577,11 @@ Gliff   | IPA
 
 ### 2V6: Misselänëus
 
-2V6a: The prónouns I and U ar àlways capitalïzed, and täke nó shift márk.
+#### 2V6a: The prónouns I and U ar àlways capitalïzed, and täke nó shift márk.
 
-2V6b: LOT/CLOTH (à/o) and NORTH/FORCE (àr/ór) ar not consistently distinguished; menny acsents doo not distinguish them and nó ambigüity is introdüsed [LOOSE].
+#### 2V6b: LOT/CLOTH (à/o) and NORTH/FORCE (àr/ór) ar not consistently distinguished; menny acsents doo not distinguish them and nó ambigüity is introdüsed [LOOSE].
 
-2V6c: BATH is nórmaly equäted wiþ TRAP, pürely to minimïze dïacritics; sòm acsents equäte it wiþ PALM. Nó ambigüity is introdüsed [LOOSE]. The long márk may bë explisitly üzed to márk stress on BATH, e.g. "canál".
+#### 2V6c: BATH is nórmaly equäted wiþ TRAP, pürely to minimïze dïacritics; sòm acsents equäte it wiþ PALM. Nó ambigüity is introdüsed [LOOSE]. The long márk may bë explisitly üzed to márk stress on BATH, e.g. "canál".
 
 ### Nótes
 
