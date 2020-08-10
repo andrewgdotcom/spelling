@@ -22,7 +22,7 @@ In this stäje wë àlter the shäpes of wurds bÿ repläsing and remooving prob
 
 (* see "1X Fixes" beló)
 
-1C1b: BÙT keep "wh" when pronounsed as in "whip" (distinctiv in sòm acsents)
+1C1b: BÙT keep "wh" when pronounsed as in "whip" [NEUTRAL]
 
     which, wheel
 
@@ -44,7 +44,7 @@ augh → áf, au
 
     thó
 
-BÙT dough → doh (see 1X)
+BÙT dough → doh (see 1X) [AVOID]
 
 1C4b: /u:/ → ú
 
@@ -72,9 +72,7 @@ BÙT dough → doh (see 1X)
 
 ### 1C5: S
 
-Voised S
-
-s → z when "s" is not the last letter in a wurd, or when it is requïred for disambigüätjon.
+Voised s → z when "s" is not the last letter in a wurd, or when it is requïred for disambigüätjon.
 
     üse, üze; hous, houz
 
@@ -84,39 +82,39 @@ s → z when "s" is not the last letter in a wurd, or when it is requïred for d
 
     palas, practis
 
-1C6b: soft [s]c → s, prezerving not-só-üseless E
+1C6b: soft [s]c → s, prezerving not-só-üseless E [AVOID]
 
     acsess, ïse, vïse, consjense, sïense
 
 ### 1C7: ET
 
-et → ei when pronounsed as in "ballet"
+et → ei when pronounsed as in "ballet" [FORIN]
 
-    ballei, toorniqei (??)
+    ballei, toorniqei
 
 ### 1C8: G[E]
 
-soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel.
+soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel [AVOID].
 
-    jem, garaj, jùdj, wäje, sabotáje
+    jem, garaj, jùdj, wäje, sabotáje [LOOSE]
 
 ### 1C9: CH
 
-1C9a: hárd ch → k when follóed bÿ e,i,y
+1C9a: hárd ch → k when follóed bÿ e,i,y [AVOID]
 
     äke
 
-1C9b: òtherwïze → c
+1C9b: òtherwïze → c [SPARSE]
 
     tecnical
 
-1C9c: soft ch[e] → sh
+1C9c: soft ch[e] → sh [FORIN]
 
     mùstash, closh, níshe
 
-### 1C10: Þ (canonical fórm ónly)
+### 1C10: Þ [FAMILY] (canonical fórm ónly [ASCII])
 
-th → þ when unvoised, and àlsó in derïved wurds.
+th → þ when unvoised, and àlsó in derïved wurds. [GRAMMAR]
 
     þin, þiy, wiþ, wiþout, panþer
 
@@ -140,9 +138,9 @@ Standardïze shórt vowels
 
     bizy, pritty, siv, gild
 
-1V1d: o, oo → u when pronounsed lïke "foot"
+1V1d: o, oo → u when pronounsed lïke "foot" or "wolf" [LOOSE]
 
-    buk, fut
+    buk, fut, wulf, wuman
 
 1V1e: ou(l) → u when pronounsed lïke "would" (inclúding -ous BÙT NOT -our)
 
@@ -158,11 +156,11 @@ Standardïze shórt vowels
 
 ### 1V2: [E]IG[H]
 
-1V2a: "ig[h]" lïke "high" → "iy"
+1V2a: "ig[h]" lïke "high" → "iy" (from Dùtch "ij") [FAMILY,SHAPE]
 
     siyn, liyt
 
-1V2b: eig[h] → "ei" in middle of wurd, "ey" at end
+1V2b: eig[h] → "ei" in middle of wurd, "ey" at end [SPARSE,SHAPE]
 
     sley, rein, eit
 
@@ -182,7 +180,7 @@ Standardïze shórt vowels
 
 ### 1V4: QU
 
-1V4a: qu → q when "u" (ónly) is üseless
+1V4a: qu → q when "u" (ónly) is üseless [SPARSE]
 
     üníqe, qäy, tecníqe
 
@@ -196,7 +194,7 @@ Standardïze shórt vowels
 
     leag, tòng
 
-1V5b: when -ue is a üseful helper-ë, rëfactor the presëding vowel
+1V5b: when -ue is a üseful helper-ë, rëfactor the presëding vowel [AVOID]
 
     ague → aig
     igue → eag
@@ -249,7 +247,7 @@ wor → wur when NURSE
 
 ### 1V11: IJ
 
-semivowel i → j when it modifÿs a presëding "s", "t", or "z" (that wàs "s")
+semivowel i → j when it modifÿs a presëding "s", "t", or "z" (that wàs "s") [FAMILY,LOOSE]
 
     missjon, ambitjon, vizjon
 
@@ -258,6 +256,23 @@ semivowel i → j when it modifÿs a presëding "s", "t", or "z" (that wàs "s")
 difþong ye → ÿ
 
     bÿ, dÿ, eÿ
+
+### 1V13: URE
+
+unstressed sùffix -ure → -ür (wiþ dïacritic, ëven thó it is nórmaly pronounsed as a shórt vowel [LOOSE])
+
+    fütür, natüral, tenür
+
+BUT NOT when stressed:
+
+    manüre
+
+### 1V14: DUS
+
+Drop üseless sillables.
+
+    dictjonry, wednsday [NEUTRAL], bizness
+
 
 1X: Context fixes
 -----------------
@@ -272,7 +287,7 @@ difþong ye → ÿ
 
     apear, nesesery
 
-BÙT keep the dùbble if it is due to a compound wurd or if it is "ss" at the end of a wurd (as this suppresses voising)
+BÙT keep the dùbble if it is due to a compound wurd or if it is "ss" at the end of a wurd (as this suppresses voising) [AVOID]
 
     unneeded, handless
 
@@ -285,6 +300,10 @@ BÙT keep the dùbble if it is due to a compound wurd or if it is "ss" at the en
 1X2b: Drop üseless "e" (DUE)
 
     glòv, minut, practis, gon
+
+INCLÜDING in compound wurds IFF a long vowel has becòm a shórt vowel
+
+    forsee
 
 BÙT NOT in -ED sùffixes
 
@@ -316,7 +335,7 @@ Apostrofës ar not üzed.
 1Z: Misselänëus iregülaritys
 ----------------------------
 
-Crëäting a separat rüle for every edj cäse wud bë wästeful. Wë còver edj cäses on an individüal bäsis.
+Crëäting a separat rüle for evry edj cäse wud bë wästeful. Wë còver edj cäses on an individüal bäsis.
 
 ### 1Z1: Spesjal cäses
 
@@ -325,40 +344,41 @@ Crëäting a separat rüle for every edj cäse wud bë wästeful. Wë còver edj
 aye         | áy        |
 one         | wòn       |
 once        | wònse     |
-two         | too       |
-queue       | cue       | "que" wud hav an ambigüus "u"
-you         | U         | àlredy in üse infórmally
-sew         | só        |
-dough       | doh       | confüzjon wiþ "do", and everywòn nóes "Play-Doh"...
-comb        | coam      | "cóme" is ambigüus
-mauve       | moav      | "móve" is ambigüus
+queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
+you         | U         | àlreddy in üse infórmaly
+dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
+comb        | coam      | "cóme" is ambigüus [AVOID]
+mauve       | moav      | "móve" is ambigüus [AVOID]
 people      | peeple    | this üse of "eo" üníqe
 [a]broad    | [a]braud  | this üse of "oa" üníqe
 gauge       | gäje      | this üse of "au" üníqe
+sew         | só        | this üse of "ew" üniqe
+two         | too       | this üse of "wo" üniqe
 
-### 1Z2: Prezerve very common shórt wurds
+### 1Z2: Prezerve common shórt wurds [SPARSE]
 
-Wher the pronùnsiätjon dòs not differ significantly.
+An exseptjonal spelling of a common shórt wurd can bë retained wher a) the pronùnsiätjon dòs not differ significantly [LOOSE], and b) enny derïved wurds ar compatible with the exseptjonal spelling [GRAMMAR].
 
-    I
-    of
-    to
+    as  (wheras)
+    of  (therof)
+    to  (today, tomorrow, towàrds, together)
     us
 
 ### 1Z3: Pick a pronùnsiätjon
 
-For sòm wurds wë mùst assúme wòn of several acseptable pronùnsiätjons befóre atempting to standardïze the spelling. Wë prefer wòn that fits the traditjonal spelling, só as to minimïze chänjes.
+For sòm wurds wë mùst asúme wòn of several acseptable pronùnsiätjons. Wë prefer wòn that móre clósely fits the traditjonal spelling. [SPARSE]
 
-wurd        | Assúmed pronùnsiätjon
-------------|-------------------------------------------
-lichen      | lïke kitchen
-(n)ëither   | lïke fëver
+wurd        | Asúmed pronùnsiätjon
+------------|------------------------------------
+lichen      | lïke "kitchen"
+(n)ëither   | lïke "teether"
+(s)often    | asúme "t" is pronounsed [GRAMMAR]
 
 
 Transfórmätjon stäje 2: Dïacritics
 ==================================
 
-In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze ar omitted from common fórm text, bùt mùst bë inclúded in the canonical fórm.
+In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze ar omitted from common fórm text, bùt mùst bë inclúded in the canonical fórm. [ASCII]
 
 2C: Consonant dïacritics
 ------------------------
@@ -379,7 +399,7 @@ In this stäje wë add dïacritics to disambigüäte pronùnsiätjon. Thëze ar 
 
 ### 2C2: Palatalïzed c
 
-palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin.
+palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin. [SPARSE]
 
     ćelló
 
@@ -387,87 +407,118 @@ palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin.
 2V: Vowel dïacritics
 --------------------
 
-Menny vowel dïacritics ar àlredy found in Inglish text, for historical or póètic reazons:
+### 2V1: Existing dïacritics
 
-1. dïerësis (supress difþongïzätjon)
+Menny vowel dïacritics ar àlreddy found in Inglish text, for historical or póètic reazons.
+
+2V1a: dïerësis
+
+The dïerësis is deprecäted, bùt can bë repläsed wiþ anòther explisit dïacritic (e.g. gráve) or a hÿfen.
 
     "coöperate, naïve, Noël"
 
-    Thëze can bë repläsed eazily bÿ hÿfens or òther dïacritics
+becòm:
 
-    "có-operäte, naíve, Nóèl"
+    "co-operäte, naíve, Noèl
 
-2. acüte (explisit long stress)
+2V1b: retain acüte (explisit long stress)
 
     "rose, rosé"
 
-3. gráve (explisit emfasis)
+2V1c: retain gráve (explisit emfasis)
 
-    "learned v learnèd; desèrt v dèsert"
+    "blessèd, learnèd; desèrt v dèsert"
 
 
-### Vowel dïacritic list
+### 2V2: Novel dïacritics
 
-a à á ä (ã); e è é ë (ẽ); i í ï (ĩ); o ò ó (õ); u ù ú ü (ũ); y ÿ
+Dïacritics indicäte dïafónëmes, and ar added to the prïmary vowel of each sillable ónly; this is üzüaly (bùt not àlways) the first vowel. Sòm of thëze dïacritics hav àlreddy bën introdüsed abòv.
 
-    À: braud shórtening or hárdening (à, ò, ù), or emfasis (è)
-    Á: natüral lengþening (nórmal helper-ë on o)
-    Ä: narrow lengþening or umlàut (nórmal helper-ë on ä, ë, ï, ü, ÿ)
-    Ã: näsalïzätjon
+Dïacritic   | a | e | i | o | u | y |
+------------|---|---|---|---|---|---|----------------------------
+hárd márk   | à | è | - | ò | ù | - | hárdening, emfasis (gráve)
+long márk   | á | é | í | ó | ú | - | natüral lengþening (acüte)
+shift márk  | ä | ë | ï | - | ü | ÿ | shifted lengþening (umlàut)
+(tilde)     | ã | ẽ | ĩ | õ | ũ | - | näsalïzätjon
 
     pat, swàp, párt, fáther, fäte, wàrd, àlmóst, umlàut, qäy
     pet, péar, café, bë, complëte
     pit, maríne, bríef, pïne
     pot, sòn, póle
-    put, pùtt, prúne, püre
+    put, pùtt, prúne, püre, manüal
     pity, yet, bÿ
 
-Dïacritics indicäte dïafónëmes. Àlways on wòn vowel of each sillable ónly (prïmary vowel) - üzüaly bùt not àlways the first vowel.
+2V2a: HÁRD
 
-"ù" shud ónly bë üzed in stressed sillables, and shud never bë üzed in prëfix "un".
+The hárd márk or gráve operätes similarly to the French or Italian gráve [FAMILY], and indicätes a shórt, stressed ópen vowel.
 
+* It is backwards-compatible wiþ the Inglish poètic enùnsiätjon márk ("blessèd").
+* "ù" shud ónly bë üzed in stressed sillables, and shud never bë üzed in prëfix "un".
+* It is àlsó üzed to prevent interpretätjon as a dïgraf, similarly to a dïerësis:
 
-### Standard dïgraf àlternativs to dïacritics on long vowels
+    umlàut, póètry
 
-Dïacritics ar not added wher "standard" dïgrafs ar àlredy in üse. Nóte that "helper ë" is not counted as a dïgraf, and dïacritics shud therfóre bë üzed.
+2V2b: LONG
 
-"á" == "AH", "aa" if pronounsed as "baa"
+The long márk or acüte is analogus to the French acüte and Irish síne fada [FAMILY], and is üzed hevily on wurds of French derivätjon.
+
+* The long márk is backwards-compatible wiþ the French acüte acsent.
+* It reprezents the Inglish helper-ë actjon on o, and the French helper-ë actjon on òther vowels.
+
+    lóne, rosé, magazíne, lúnar
+
+2V2c: SHIFT
+
+The shift márk or umlàut derïves from a súperscript "e", and has a 1:1 mapping onto sùffix "e" in modern Jerman (e.g. "München" = "Muenchen"). It is üzed consistently across the Jermanic languajes for the closed-fronted vowels "ä" "ö" and "ü". It is àlsó found on the Ïselandic "ÿ", which derïves from a ligatür of "ij", which is in turn analogus to its Dùtch equivalent that wë hav mapped to "iy" in 1V2a abòv.
+
+Wë adopt the umlàut for the Gréat Vowel Shifted pronùnsiätjons of "ä" and "ü", and jeneralïze it to "ë", "ï" and "ÿ" [FAMILY].
+
+Wë doo not üze "ö", as it has a standard pronùnsiätjon in Jermanic languajes that dos not map onto enny Inglish dïafónëme, and the standard meaning of "oe" in Inglish is àlreddy còvered bÿ the long márk (ó).
+
+* The shift márk is NOT backwards-compatible wiþ the dïerësis.
+* It reprezents the Inglish helper-ë actjon on aul vowels òther than o.
+* It is sòmtïmes requïred to indicäte a raized vowel ëven if it is shórt [LOOSE].
+
+### 2V3: Standard dïgraf àlternativs to dïacritics on long vowels
+
+Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that helper-ë is not counted as a dïgraf, and só dïacritics shud àlways bë üzed ëven if helper-ë is retained.
+
+2V3a: "á" == "AH", "aa" if pronounsed as "baa"
 
     hurrah, shah, salaam
 
-"ä" == "AE", "ai", "ay" if pronounsed as "stay"
+2V3b: "ä" == "AE", "ai", "ay" if pronounsed as "stay"
 
-    aerial, rain, tray, play
+    aerial, rain, tray
 
-"é" == "EI", "ey" if pronounsed as "grey"
+2V3c: "é" == "EI", "ey" if pronounsed as "grey"
 
     rein, they
 
-"ë" == "ea", "EE" if pronounsed as "fleece"
+2V3d: "ë" == "ea", "EE" if pronounsed as "fleece"
 
-    feet, see, steer
-    feat, sea, shear
+    feet, see
+    feat, sea
 
     BÙT
 
     ïdëa (þree sillables!)
 
-"ï", "ÿ" == "IE", "iy", "YE", ["ui", "uy"] if pronounsed as "tie"
+2V3e: "ï", "ÿ" == "IE", "iy", "YE", ["ui", "uy"] if pronounsed as "tie"
 
     die, hiy, dye, [guy, guile]
 
-"ó" == "OA", "OE", "oh", "eau" if pronounsed as "goat"
+2V3f: "ó" == "OA", "OE", "oh", "eau" if pronounsed as "goat"
 
     foe, sloe, go, yoak, goat, oh, shateau
 
     ("oe" preferred at end of wurd, "oa" in middle)
 
-"ü" == "UE", "eu", "ew" if pronounsed as "cue"
+2V3g: "ü" == "UE", "eu", "ew" if pronounsed as "cue"
 
     cue, feud, new
 
-
-### Vowel reprezentätjons
+### 2V4: Vowel reprezentätjons
 
 Aul vowel dïafónëmes shud bë mapped onto wòn of the tárget representätjons listed beló. Thëze can bë monografs or dïgrafs, and ëither standard or annotäted. Iff a vowel cannot bë mapped üzing dïacritics alóne, it shud bë rëshäped to a standard dïgraf at stäje 1Z.
 
@@ -506,37 +557,11 @@ MOUTH       |           |ou ow              |àu
 NURSE       |{eiuy}r    |                   |
 
 
-Vowel nótes
------------
+### 2V5: Näzalïzätjon (optjonal)
 
-The prónouns I and U ar àlways capitalïzed, and täke nó umlàut.
+A tilde can bë üzed to indicäte French näzalïzätjon on shórt vowels. In Inglish this indicätes a mapping to a different shórt vowel. Näzal pronùnsiätjon is optjonal. [FORIN]
 
-Prïmary vowels ar greedy.
-
-LOT/CLOTH (à/o) and NORTH/FORCE (àr/ór) ar not consistently distinguished; menny acsents du not distinguish them and nó ambigüity is introdüsed.
-
-BATH is nórmaly equäted wiþ TRAP, pürely to minimïze dïacritics; sòm acsents equäte it wiþ PALM. Nó ambigüity is introdüsed. "á" may bë explisitly üzed to márk stress on BATH, e.g. "canál".
-
-The umlàut wàs derïved from a súperscript "e", and still has a 1:1 mapping with sùffix "e" in modern Jerman. Wë therfóre jeneralïze and üze an umlàut on letters which du not täke an umlàut in anòther Jermanic languaj (ë, ï).
-
-Aul acsented vowels (exsept nasals) ar in WGL-4 and MES-1, and can bë tÿped on a US-internatjonal or UK-extended keyboard.
-
-https://en.wikipedia.org/wiki/Windows_Glyph_List_4
-https://en.wikipedia.org/wiki/Unicode#Standardized_subsets
-
-### Compatibility
-
-1. ¨ is an umlàut, not a dïaerësis. The dïaerësis is deprecäted, bùt can bë repläsed in menny cäses wiþ anòther explisit dïacritic (e.g. gráve).
-
-2. The gráve as an (optjonal) emfasis márker on "e" is still suppórted.
-
-3. The à in "umlàut" prevents "au" bëing red as a difþong.
-
-### Näzalïzätjon (optjonal)
-
-A tilde can bë üzed to indicate French näzalïzätjon on shórt vowels. In Inglish this indicätes a mapping to a different shórt vowel. Näzal pronùnsiätjon is optjonal.
-
-Gliff   |IPA
+Gliff   | IPA
 --------|-----
 ã       | /ɒ/
 ẽ       | /ɒ/
@@ -549,3 +574,15 @@ Gliff   |IPA
 Òtherwïze wë colaps aul of the abòv to "a" or "o" (as per SSV):
 
     ontreprenur, onsomble
+
+### 2V6: Misselänëus
+
+2V6a: The prónouns I and U ar àlways capitalïzed, and täke nó shift márk.
+
+2V6b: LOT/CLOTH (à/o) and NORTH/FORCE (àr/ór) ar not consistently distinguished; menny acsents doo not distinguish them and nó ambigüity is introdüsed [LOOSE].
+
+2V6c: BATH is nórmaly equäted wiþ TRAP, pürely to minimïze dïacritics; sòm acsents equäte it wiþ PALM. Nó ambigüity is introdüsed [LOOSE]. The long márk may bë explisitly üzed to márk stress on BATH, e.g. "canál".
+
+### Nótes
+
+1. Aul acsented vowels (exsept nasals) ar in [WGL-4](https://en.wikipedia.org/wiki/Windows_Glyph_List_4) and [MES-1](https://en.wikipedia.org/wiki/Unicode#Standardized_subsets), and can bë tÿped on a US-internatjonal or UK-extended keyboard.

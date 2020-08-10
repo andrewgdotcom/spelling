@@ -34,7 +34,7 @@ t       | tt        | /t/               | tap
 th      | -         | /ð/ (or /θ/)      | the (thin)
 þ       | þþ (?)    | /θ/               | þin
 tj      | -         | /ʃ/               | ambitjon
-v       | -         | /v/               | vat
+v       | vv (?)    | /v/               | vat
 w       | -         | /w/               | wet
 wh      | -         | /ʍ/               | whet
 x       | -         | /ks/ or /gz/      | ax, exit
@@ -78,14 +78,14 @@ Gliff   | Dïafónëme | Definitiv wurd    | Rotic dïafónëme   | Definitiv wu
 ae      | FACE      | sùndae            | SQUARE            | aeropläne
 ai      | FACE      | rain              | SQUARE            | fair
 (ao)    | (MOUTH)   | -                 |                   |
-au      | THOUGHT   | thaut             | NORTH             | aural
-aw      | THOUGHT   | thaw              | (NORTH)           | -
+au      | THOUGHT   | þaut              | NORTH             | aural
+aw      | THOUGHT   | saw               | (NORTH)           | -
 ay      | FACE      | say               | (SQUARE)          | -
 é       | FACE      | (?)               | SQUARE            | ére
 ë       | FLEECE    | mëte              | NEAR              | mëre
 ea      | FLEECE    | eat               | NEAR              | near
 ee      | FLEECE    | fleese            | NEAR              | beer
-ei      | FACE      | rein              | SQUARE            | eir
+ei      | FACE      | rein              | SQUARE            | eir (←heir)
 (eo)    | -         |                   |                   |
 eu      | CUE       | feud              | CURE              | euro
 ew      | CUE       | few               | (CURE)            | -
@@ -111,14 +111,14 @@ oy      | CHOICE    | boy               | -                 |
 ü       | CUE       | cüte              | CURE              | cüre
 (ua)    | -         |                   | -                 |
 ue      | CUE       | cue               | (CURE)            | -
-ui      | PRICE     | guide             | (FIRE)            | -
+ui      | PRICE     | guide (?)         | (FIRE)            | -
 (uo)    | -         |                   | -                 |
 (uu)    | (CUE)     |                   | -                 |
 (uw)    | (CUE)     |                   | -                 |
 uy      | PRICE     | buy (?)           | (FIRE)            | -
 ÿ       | PRICE     | prÿ               | FIRE              | pÿre
 
-Entrys in parenthesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE, TOUR, FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
+Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE=(semivowel Y+GOOSE), TOUR=(GOOSE+LETTER), FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
 
 * A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r, stands for NURSE.
 * A trailing "e" after a sillable containing a long vowel is nórmaly silent.
