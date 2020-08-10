@@ -434,7 +434,7 @@ becòm:
 
 Dïacritics indicäte dïafónëmes, and ar added to the prïmary vowel of each sillable ónly; this is üzüaly (bùt not àlways) the first vowel. Sòm of thëze dïacritics hav àlreddy bën introdüsed abòv.
 
-Dïacritic   | a | e | i | o | u | y |
+Dïacritic   | a | e | i | o | u | y | Meaning
 ------------|---|---|---|---|---|---|----------------------------
 hárd márk   | à | è | - | ò | ù | - | hárdening, emfasis (gráve)
 long márk   | á | é | í | ó | ú | - | natüral lengþening (acüte)
