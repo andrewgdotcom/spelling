@@ -344,8 +344,6 @@ Crëäting a separat rüle for evry edj cäse wud bë wästeful. Wë còver edj 
 Óld         | New       | Ratjonále
 ------------|-----------|--------------------
 aye         | áy        |
-one         | wòn       |
-once        | wònse     |
 queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
 you         | U         | àlreddy in üse infórmaly
 dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
@@ -355,7 +353,6 @@ people      | peeple    | this üse of "eo" üníqe
 [a]broad    | [a]braud  | this üse of "oa" üníqe
 gauge       | gäje      | this üse of "au" üníqe
 sew         | só        | this üse of "ew" üniqe
-two         | too       | this üse of "wo" üniqe
 
 ### 1Z2: Prezerve common shórt wurds [SPARSE]
 
@@ -368,13 +365,55 @@ An exseptjonal spelling of a common shórt wurd can bë retained wher a) the pro
 
 ### 1Z3: Pick a pronùnsiätjon
 
-For sòm wurds wë mùst asúme wòn of several acseptable pronùnsiätjons. Wë prefer wòn that móre clósely fits the traditjonal spelling. [SPARSE]
+For sòm wurds wë mùst asúme wn of several acseptable pronùnsiätjons. Wë prefer wn that móre clósely fits the traditjonal spelling. [SPARSE]
 
 wurd        | Asúmed pronùnsiätjon
 ------------|------------------------------------
 lichen      | lïke "kitchen"
 (n)ëither   | lïke "teether"
 (s)often    | asúme "t" is pronounsed [GRAMMAR]
+
+### 1Z4: Nùmbers
+
+Wë regülarïze the spellings of nùmbers and their derivativs.
+
+1Z4a: Vowel W
+
+Üze "w" as a vowel in "one", "two", and derivativs:
+
+    wn, wnse, tw, twïse
+
+1Z4b: Regülar -teen, -[e]þ
+
+The sùffixes -teen and -[e]þ (-[e]th) ar regülar; if the pronùnsiätjon of the root word is prezerved, then so is its spelling:
+
+    eitþ (eitth), eitteen
+    nïneþ (nineth)
+    twentyeþ (twentyeth)
+
+Cárdinal    | Órdinal       | Repetitjon
+------------|---------------|-----------
+wn          | first         | wnse
+tw          | second        | twïse
+three       | third         | thrïse
+------------|---------------|-----------
+foar        | foarþ         |
+fïve        | fifþ          |
+six         | sixþ          |
+seven       | sevenþ        |
+eit         | eitþ          |
+nïne        | nïneþ         |
+ten         | tenþ          |
+eleven      | elevenþ       |
+twelv       | twelfþ        |
+thirteen    | thirteenþ     |
+foarteen    | foarteenþ     |
+fifteen     | fifteenþ      |
+sixteen     | sixteenþ      |
+seventeen   | seventeenþ    |
+eitteen     | eitteenþ      |
+nïneteen    | nïneteenþ     |
+twenty      | twentyeþ      |
 
 
 Transfórmätjon stäje 2: Dïacritics
@@ -522,7 +561,7 @@ Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that 
 
 ### 2V4: Vowel reprezentätjons
 
-Aul vowel dïafónëmes shud bë mapped onto wòn of the tárget representätjons listed beló. Thëze can bë monografs or dïgrafs, and ëither standard or annotäted. Iff a vowel cannot bë mapped üzing dïacritics alóne, it shud bë rëshäped to a standard dïgraf at stäje 1Z.
+Aul vowel dïafónëmes shud bë mapped onto wn of the tárget representätjons listed beló. Thëze can bë monografs or dïgrafs, and ëither standard or annotäted. Iff a vowel cannot bë mapped üzing dïacritics alóne, it shud bë rëshäped to a standard dïgraf at stäje 1Z.
 
 Dïafónëme   |Monograf   |Standard dïgraf    |Annotäted dïgraf
 ------------|-----------|-------------------|---------------------
