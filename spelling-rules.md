@@ -110,7 +110,7 @@ soft g[e] → j (/dʒ/ or /ʒ/). Ónly drop the E after a shórt vowel [AVOID].
 
 #### 1C9c: soft ch[e] → sh [FORIN]
 
-    mùstash, closh, níshe
+    mustash, closh, níshe
 
 ### 1C10: Þ
 
