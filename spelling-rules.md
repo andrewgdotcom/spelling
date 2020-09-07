@@ -471,7 +471,7 @@ The long márk or acüte is analogus to the French acüte and Irish síne fada [
 
 #### 2V2c: SHIFT
 
-The shift márk or umlàut derïves from a súperscript "e", and has a 1:1 mapping onto sùffix "e" in modern Jerman (e.g. "München" = "Muenchen"). It is üzed consistently across the Jermanic languajes for the closed-fronted vowels "ä" "ö" and "ü". It is àlsó found on the Ïselandic "ÿ", which derïves from a ligatür of "ij", which is in turn analogus to its Dùtch equivalent that wë hav mapped to "iy" in 1V2a abòv.
+The shift márk or umlàut derïves from a súperscript "e", and has a 1:1 mapping onto sùffix "e" in modern Jerman (e.g. "München" = "Muenchen"). It is üzed consistently across the Jermanic languajes for the closed-fronted vowels "ä" "ö" and "ü". It is àlsó found on the Ïselandic "ÿ", which derïves from a ligatür of "ij", which is cognäte to the Dùtch "ij" and thùs to "iy" from sectjon 1V2a abòv.
 
 Wë adopt the umlàut for the Gréat Vowel Shifted pronùnsiätjons of "ä" and "ü", and jeneralïze it to "ë", "ï" and "ÿ" [FAMILY].
 
