@@ -354,9 +354,9 @@ people      | peeple    | this üse of "eo" üníqe
 gauge       | gäje      | this üse of "au" üníqe
 sew         | só        | this üse of "ew" üniqe
 
-### 1Z2: Prezerve common shórt wurds [SPARSE]
+### 1Z2: Prezerve common shórt wurds
 
-An exseptjonal spelling of a common shórt wurd can bë retained wher a) the pronùnsiätjon dòs not differ significantly [LOOSE], and b) enny derïved wurds ar compatible with the exseptjonal spelling [GRAMMAR].
+An exseptjonal spelling of a common shórt wurd can bë retained [SPARSE] wher a) the pronùnsiätjon dòs not differ significantly [LOOSE], and b) enny derïved wurds ar compatible with the exseptjonal spelling [GRAMMAR].
 
     as  (wheras)
     of  (therof)
@@ -375,15 +375,15 @@ lichen      | lïke "kitchen"
 
 ### 1Z4: Nùmbers
 
-Wë regülarïze the spellings of nùmbers and their derivativs.
+Wë regülarïze the spellings of nùmbers and their derivativs. [GRAMMAR]
 
-1Z4a: Vowel W
+#### 1Z4a: Vowel W
 
 Üze "w" as a vowel in "one", "two", and derivativs:
 
     wn, wnse, tw, twïse
 
-1Z4b: Regülar -teen, -[e]þ
+#### 1Z4b: Regülar -teen, -[e]þ
 
 The sùffixes -teen and -[e]þ (-[e]th) ar regülar; if the pronùnsiätjon of the root word is prezerved, then so is its spelling:
 
