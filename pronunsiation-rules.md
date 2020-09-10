@@ -9,7 +9,7 @@ Consonant pronùnsiätjon is quïte regülar, and well wiþin the Europëan lang
 Gliff   | Dùbbled   | IPA pronùnsiätjon | Definitiv wurd(s)
 --------|-----------|-------------------|-------------------
 b       | bb        | /b/               | bat
-c       | ck (*)    | /k/               | cat
+c       | ck*       | /k/               | cat
 ć       | -         | /tʃ/              | ćelló
 ch      | tch       | /tʃ/              | chat
 d       | dd        | /d/               | dog
@@ -31,20 +31,22 @@ s       | ss        | /s/, /z/          | sat, dogs
 sh      | -         | /ʃ/               | ship
 sj      | ssj       | /ʃ/               | missjon
 t       | tt        | /t/               | tap
-th      | -         | /ð/ (or /θ/)      | the (thin)
+th      | -         | /ð/ (/θ/*)        | the (thin*)
 þ       | -         | /θ/               | þin
 tj      | -         | /ʃ/               | ambitjon
 v       | -         | /v/               | vat
 w       | -         | /w/               | wet
-wh      | -         | /ʍ/ (**)          | whet
+wh      | -         | /ʍ/*              | whet
 x       | -         | /ks/, /gz/        | ax, exit
-y (***) | -         | /j/               | yet
+xj      | -         | /kʃ/              | ańxjus
+y*      | -         | /j/               | yet
 z       | zz        | /z/               | zip
 zj      | -         | /ʒ/               | vizjon
 
 * "cc" is not the dùbbled fórm of "c" - it ónly apears in compound wurds of Latin orijin sùch as "ac-curate", "ac-commodate" etc.
-** in sòm acsents this is indistinguishable from /w/
-*** y can àlsó act as a vowel
+* "th" can àlsó stand for /θ/ in common fórm
+* in sòm acsents /ʍ/ is indistinguishable from /w/
+* y can àlsó act as a vowel
 
 Shórt vowels
 ------------
@@ -78,6 +80,7 @@ Gliff   | Dïafónëme | IPA (RP)  | Definitiv | Rotic dïa | IPA (RP)  | Defini
 ä       | FACE      | /ei/      | fäse      | SQUARE    | /ɛə(r)/   | squäre
 (aa)    | (PALM)    | -         | -         | (START)   | -         | -
 ae      | FACE      | /ei/      | sùndae    | SQUARE    | /ɛə(r)/   | aeropläne
+ah      | PALM      | /ɑː/      | pahm      | (START)   | -         | -
 ai      | FACE      | /ei/      | rain      | SQUARE    | /ɛə(r)/   | fair
 (ao)    | (MOUTH)   | (/aʊ/)    | -         |           |           |
 au      | THOUGHT   | /ɔː/      | þaut      | NORTH     | /ɔː/      | aural
@@ -87,6 +90,7 @@ ay      | FACE      | /ei/      | say       | (SQUARE)  | (/ɛə(r)/) | -
 ë       | FLEECE    | /iː/      | mëte      | NEAR      | /ɪə(r)/   | mëre
 ea      | FLEECE    | /iː/      | eat       | NEAR      | /ɪə(r)/   | near
 ee      | FLEECE    | /iː/      | fleese    | NEAR      | /ɪə(r)/   | beer
+eh      | FACE      | /ei/      | eh        | (SQUARE)  | -         | -
 ei      | FACE      | /ei/      | rein      | SQUARE    | /ɛə(r)/   | eir (←heir)
 (eo)    | -         | -         |           |           | -         |
 eu      | CUE       | /juː/     | feud      | CURE      | /jʊə(r)/  | euro
@@ -96,6 +100,7 @@ ey      | FACE      | /ei/      | fey       | (SQUARE)  | (/ɛə(r)/) | -
 ï       | PRICE     | /aɪ/      | prïse     | FIRE      | /aɪə(r)/  | fïre
 ia      | shórt i+a | /ɪə/      |           | shórt i+ar| /ɪə(r)/   | familiar
 ie      | PRICE     | /aɪ/      | die       | (FIRE)    | (/aɪə(r)/)| -
+(ih)    | (FLEECE)  | (/iː/)    | -         |           |           |
 (ii)    | (FLEECE)  | (/iː/)    | -         |           |           |
 io      | shórt i+o | /ɪəʊ/     | fólio     | shórt i+or| /ɪə(r)/   | supërior
 iu      | shórt i+u | /ɪʊ/      | aluminium | shórt i+ur| /ɪə(r)/   |
@@ -104,6 +109,7 @@ iy      | PRICE     | /aɪ/      | siyn      | (FIRE)    | (/aɪə(r)/)| -
 ó       | GOAT      | /əʊ/      | lóne      | FORCE     | /ɔː/      | móre
 oa      | GOAT      | /əʊ/      | goat      | FORCE     | /ɔː/      | oar
 oe      | GOAT      | /əʊ/      | toe       | (FORCE)   | (/ɔː/)    | -
+oh      | GOAT      | /əʊ/      | yohk      | (FORCE)   | (/ɔː/)    | -
 oi      | CHOICE    | /ɔɪ/      | choise    | -         |           |
 oo      | GOOSE     | /uː/      | goose     | TOUR      | /ʊə(r)/   | poor
 ou      | MOUTH     | /aʊ/      | mouþ      | FLOUR     | /aʊə(r)/  | flour
@@ -113,6 +119,7 @@ oy      | CHOICE    | /ɔɪ/      | boy       | -         |           |
 ü       | CUE       | /juː/     | cüte      | CURE      | /jʊə(r)/  | cüre
 (ua)    | -         | -         |           | -         | -         |
 ue      | CUE       | /juː/     | cue       | (CURE)    | (/jʊə(r)/)| -
+uh      | LETTER    | /əː/, /ə/ | uh        | (NURSE)   | (/əː(r)/) | -
 ui      | PRICE     | /aɪ/      | guide (?) | (FIRE)    | (/aɪə(r)/)| -
 (uo)    | -         | -         |           | -         | -         |
 (uu)    | (CUE)     | (/juː/)   |           | -         | -         |
@@ -126,5 +133,5 @@ Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in lo
 * A trailing "e" after a sillable containing a long vowel is nórmaly silent.
 * "u" follóing "q" is àlways a semivowel.
 * "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.
-* In sòm acsents, "ü" can bë pronounsed "u" (TOUR) after "d", "n", "s", "t", or "z".
-* In common üsaj, "ü/ue" can modifÿ a presëding "d", "s", "t", or "z" as if it had an implÿed j in frònt of the vowel, bùt sòm consider this incorect.
+* In sòm acsents, "ü" can bë pronounsed "u" (TOUR) after "d", "n", "s", "t", "x", or "z".
+* In common üsaj, "ü/ue" can modifÿ a presëding "d", "s", "t", "x", or "z" as if it had an implÿed j in frònt of the vowel, bùt sòm consider this incorect.

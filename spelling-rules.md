@@ -18,7 +18,7 @@ In this stäje wë àlter the shäpes of wurds bÿ repläsing and remooving prob
 
     b,c,g,h,k,l,s,w
 
-    det, indïte*, flem, gettó, nock, ïle, hóle, sórd, rÿme, yàt, pám, cauk
+    det, indïte*, flem, gettó, nock, ïle, hóle, sórd, rÿme, yàt, cauk
 
 (* see "1X Fixes" beló)
 
@@ -158,11 +158,11 @@ Standardïze shórt vowels
 
 ### 1V2: [E]IG[H]
 
-#### 1V2a: "ig[h]" lïke "high" → "iy" (from Dùtch "ij") [FAMILY,SHAPE]
+#### 1V2a: "ig[h]" lïke "high" → "iy" (from Dùtch "ij") [FAMILY,SHÄPE]
 
     siyn, liyt
 
-#### 1V2b: eig[h] → "ei" in middle of wurd, "ey" at end [SPARSE,SHAPE]
+#### 1V2b: eig[h] → "ei" in middle of wurd, "ey" at end [SPARSE,SHÄPE]
 
     sley, rein, eit
 
@@ -231,9 +231,13 @@ oul → ól when pronounsed lïke "mould"
 
     wauk, tauk, baul
 
-#### 1V8b: "ol" → "oa" when lïke "folk"
+#### 1V8b: "al" → "ah" when lïke "palm" [SHÄPE]
 
-    foak, yoak
+    pahm, hahf
+
+#### 1V8c: "ol" → "oh" when lïke "folk" [SHÄPE]
+
+    fohk, yohk
 
 ### 1V9: OO
 
@@ -249,9 +253,9 @@ wor → wur when NURSE
 
 ### 1V11: IJ
 
-semivowel i → j when it modifÿs a presëding "s", "t", or "z" (that wàs "s") [FAMILY,LOOSE]
+semivowel i → j when it modifÿs a presëding "s", "t", "x", or "z" (that wàs "s") [FAMILY,LOOSE]
 
-    missjon, ambitjon, vizjon
+    missjon, ambitjon, ańxjus, vizjon
 
 ### 1V12: YE
 
@@ -275,6 +279,15 @@ Drop üseless sillables.
 
     dictjonry, wednsday [NEUTRAL], bizness
 
+### 1V15: EAR
+
+#### 1V15a: ear → ár when lïke "heart"
+
+    hárt, hárth
+
+#### 1V15b: ear → er when lïke "earth"
+
+    erth, ern,
 
 1X: Context fixes
 -----------------
@@ -347,14 +360,14 @@ aye         | áy        |
 queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
 you         | U         | àlreddy in üse infórmaly
 dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
-comb        | coam      | "cóme" is ambigüus [AVOID]
+comb        | cohm      | "cóme" is ambigüus [AVOID,SHÄPE]
 mauve       | moav      | "móve" is ambigüus [AVOID]
 people      | peeple    | this üse of "eo" üníqe
 [a]broad    | [a]braud  | this üse of "oa" üníqe
 gauge       | gäje      | this üse of "au" üníqe
 sew         | só        | this üse of "ew" üniqe
 
-### 1Z2: Prezerve common shórt wurds
+### 1Z2: Prezerv common shórt wurds
 
 An exseptjonal spelling of a common shórt wurd can bë retained [SPARSE] wher a) the pronùnsiätjon dòs not differ significantly [LOOSE], and b) enny derïved wurds ar compatible with the exseptjonal spelling [GRAMMAR].
 
@@ -468,7 +481,8 @@ becòm:
 
 #### 2V1c: retain gráve (explisit emfasis)
 
-    "blessèd, learnèd; desèrt v dèsert"
+    blessèd, lernèd
+    desèrt, dèsert
 
 
 ### 2V2: Novel dïacritics
@@ -551,7 +565,7 @@ Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that 
 
 #### 2V3f: "ó" == "OA", "OE", "oh", "eau" if pronounsed as "goat"
 
-    foe, sloe, go, yoak, goat, oh, shateau
+    foe, sloe, go, yohk, goat, oh, shateau
 
     ("oe" preferred at end of wurd, "oa" in middle)
 

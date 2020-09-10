@@ -19,7 +19,7 @@ Eaze of reading comprehensjon täkes prïority óver rezolving redùndansy or mi
 
 1. [SPARSE] The density of chänjes in real text shud bë minimïzed.
 1. [AVOID] A modifÿed spelling shud not hav an incompatible sounding ùnder the traditjonal conventjon (bùt colaps of homofónes is permitted).
-1. [SHAPE] Wurd shäpe shud bë prezerved wher possible.
+1. [SHÄPE] Wurd shäpe shud bë prezerved wher possible.
 1. [GRAMMAR] Gramatical relätjonships shud be prezerved wher possible.
 1. [FAMILY] Enny novel standards shud bë drawn from Jermanic, Romanse or Celtic languajes.
 1. [FORIN] The üse of nonstandard spellings in loanwurds shud bë deprecäted.
