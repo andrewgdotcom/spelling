@@ -130,7 +130,7 @@ uy      | PRICE     | /aɪ/      | buy (?)   | (FIRE)    | (/aɪə(r)/)| -
 Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE=(semivowel Y+GOOSE), TOUR=(GOOSE+LETTER), FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
 
 * A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r, stands for NURSE.
-* A trailing "e" after a sillable containing a long vowel is nórmaly silent.
+* A trailing "e" after a sillable containing a long vowel is nórmally silent.
 * "u" follóing "q" is àlways a semivowel.
 * "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.
 * In sòm acsents, "ü" can bë pronounsed "u" (TOUR) after "d", "n", "s", "t", "x", or "z".

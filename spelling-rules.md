@@ -265,7 +265,7 @@ difþong ye → ÿ
 
 ### 1V13: URE
 
-unstressed sùffix -ure → -ür (wiþ dïacritic, ëven thó it is nórmaly pronounsed as a shórt vowel [LOOSE])
+unstressed sùffix -ure → -ür (wiþ dïacritic, ëven thó it is nórmally pronounsed as a shórt vowel [LOOSE])
 
     fütür, natüral, tenür
 
@@ -302,9 +302,9 @@ Drop üseless sillables.
 
     apear, nesesery
 
-BÙT keep the dùbble if it is due to a compound wurd or if it is "ss" at the end of a wurd (as this suppresses voising) [AVOID]
+BÙT keep the dùbble if it is due to a compound wurd or sùffix, or if it is "ss" at the end of a wurd (as this suppresses voising) [AVOID]
 
-    unneeded, handless
+    unneeded, handless, nórmally
 
 ### 1X2: Fix helper vowels
 
@@ -358,7 +358,7 @@ Crëäting a separat rüle for evry edj cäse wud bë wästeful. Wë còver edj 
 ------------|-----------|--------------------
 aye         | áy        |
 queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
-you         | U         | àlreddy in üse infórmaly
+you         | U         | àlreddy in üse infórmally
 dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
 comb        | cohm      | "cóme" is ambigüus [AVOID,SHÄPE]
 mauve       | moav      | "móve" is ambigüus [AVOID]
@@ -487,7 +487,7 @@ becòm:
 
 ### 2V2: Novel dïacritics
 
-Dïacritics indicäte dïafónëmes, and ar added to the prïmary vowel of each sillable ónly; this is üzüaly (bùt not àlways) the first vowel. Sòm of thëze dïacritics hav àlreddy bën introdüsed abòv.
+Dïacritics indicäte dïafónëmes, and ar added to the prïmary vowel of each sillable ónly; this is üzüally (bùt not àlways) the first vowel. Sòm of thëze dïacritics hav àlreddy bën introdüsed abòv.
 
 Dïacritic   | a | e | i | o | u | y | Meaning
 ------------|---|---|---|---|---|---|----------------------------
@@ -515,7 +515,7 @@ The hárd márk or gráve operätes similarly to the French or Italian gráve [F
 
 #### 2V2b: LONG
 
-The long márk or acüte is analogus to the French acüte and Irish síne fada [FAMILY], and is üzed hevily on wurds of French derivätjon.
+The long márk or acüte is analogus to the French acüte and Irish síne fada [FAMILY], and is üzed hevyly on wurds of French derivätjon.
 
 * The long márk is backwards-compatible wiþ the French acüte acsent.
 * It reprezents the Inglish helper-ë actjon on o, and the French helper-ë actjon on òther vowels.
@@ -636,7 +636,7 @@ Gliff   | IPA
 
 #### 2V6b: LOT/CLOTH (à/o) and NORTH/FORCE (àr/ór) ar not consistently distinguished; menny acsents doo not distinguish them and nó ambigüity is introdüsed [LOOSE].
 
-#### 2V6c: BATH is nórmaly equäted wiþ TRAP, pürely to minimïze dïacritics; sòm acsents equäte it wiþ PALM. Nó ambigüity is introdüsed [LOOSE]. The long márk may bë explisitly üzed to márk stress on BATH, e.g. "canál".
+#### 2V6c: BATH is nórmally equäted wiþ TRAP, pürely to minimïze dïacritics; sòm acsents equäte it wiþ PALM. Nó ambigüity is introdüsed [LOOSE]. The long márk may bë explisitly üzed to márk stress on BATH, e.g. "canál".
 
 ### Nótes
 
