@@ -75,7 +75,7 @@ Long vowel pronùnsiätjon remains complex, wiþ a lárj amount of redùndansy b
 
 Gliff   | Dïafónëme | IPA (RP)  | Definitiv | Rotic dïa | IPA (RP)  | Definitiv
 --------|-----------|-----------|-----------|-----------|-----------|-----------
-à       |  [short]  | -         | -         | NORTH     | -         | wàr
+à       | LOT (short) | /ɒ/     | whàt      | NORTH     | /ɔː/      | wàr
 á       | PALM      | /ɑː/      | fáther    | START     | /ɑː/      | stárt
 ä       | FACE      | /ei/      | fäse      | SQUARE    | /ɛə(r)/   | squäre
 (aa)    | (PALM)    | -         | -         | (START)   | -         | -
@@ -129,7 +129,7 @@ uy      | PRICE     | /aɪ/      | buy (?)   | (FIRE)    | (/aɪə(r)/)| -
 
 Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE=(semivowel Y+GOOSE), TOUR=(GOOSE+LETTER), FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
 
-* A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r, stands for NURSE.
+* A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r (i.e. unstressed), stands for NURSE.
 * A trailing "e" after a sillable containing a long vowel is nórmally silent.
 * "u" follóing "q" is àlways a semivowel.
 * "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.

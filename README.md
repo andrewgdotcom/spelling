@@ -21,13 +21,22 @@ Eaze of reading comprehensjon täkes prïority óver rezolving redùndansy or mi
 1. [AVOID] A modifÿed spelling shud not hav an incompatible sounding ùnder the traditjonal conventjon (bùt colaps of homofónes is permitted).
 1. [SHÄPE] Wurd shäpe shud bë prezerved wher possible.
 1. [GRAMMAR] Gramatical relätjonships shud be prezerved wher possible.
-1. [FAMILY] Enny novel standards shud bë drawn from Jermanic, Romanse or Celtic languajes.
+1. [FAMILY] Enny novel coventjons shud bë drawn from modern Europëan languajes.
+1. [CONTEXT] Context-dependent pronunsiätjon rúles shud bë minimïzed.
 1. [FORIN] The üse of nonstandard spellings in loanwurds shud bë deprecäted.
 1. [ASCII] It shud bë backwards-compatible wiþ US-ASCII.
 1. [NEUTRAL] It shud not impóze a particülar acsent.
 1. [LOOSE] Strict 1:1 mapping of grafëmes to sounds is not esentjal.
 
 Reserch has shóen that [the vizüal shäpe of ritten wurds is vïtal to comprehensjon for flúent readers](https://www.dummies.com/education/language-arts/speed-reading/how-recognizing-the-shapes-of-words-aids-speed-reading/). This skëme has been deziyned to minimïze chänjes in wurd shäpe, which means that wë will increas the nùmber of grafëmes in órder to keep the existing varïety of wurd fórms for backwards compatibility.
+
+Novel spelling conventjons introdüsed bÿ this standard ar limited to:
+
+* modifÿer-j and Þ (thorn) from Nórse
+* umlàut from Jerman
+* long and hárd márks from French and Ïrish
+* ć and ń from Polish
+* iy from Dùtch (loosely)
 
 Due to the [Gréat Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift), and the proliferätjon of rëjional acsents, it wud bë very difficult if not impossible to return Inglish spelling to a 1:1 fonetic mapping wiþout mäjor disruptjon, particülarly to the pronùnsiätjon of vowels. Wë instedd add dïacritics to márk letters hoos pronùnsiätjons hav dïverjed óver tïme. This keeps the spelling of móst wurds clóse to the traditjonal fórm whïle móre accüratly reflecting modern speech.
 
