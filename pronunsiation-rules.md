@@ -100,7 +100,7 @@ ei      | FACE      | /eɪ/      | rein      | SQUARE    | /ɛə(r)/   | eir (�
 eu      | CUE       | /juː/     | feud      | CURE      | /jʊə(r)/  | euro
 ew      | CUE       | /juː/     | few       | (CURE)    | (/jʊə(r)/)| -
 ey      | FACE      | /eɪ/      | fey       | (SQUARE)  | (/ɛə(r)/) | -
-í       | FLEECE    | /iː/      | maríne    | NEAR      | /ɪə(r)/   | ...íre
+í       | FLEECE    | /iː/      | maríne    | (NEAR)    | (/ɪə(r)/) |
 ï       | PRICE     | /aɪ/      | prïse     | FIRE      | /aɪə(r)/  | fïre
 ia      | shórt i+a | /ɪə/      |           | shórt i+ar| /ɪə(r)/   | familiar
 ie      | PRICE     | /aɪ/      | die       | (FIRE)    | (/aɪə(r)/)| -
