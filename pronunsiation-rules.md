@@ -4,7 +4,7 @@ Pronùnsiätjon rüles
 Consonants
 ----------
 
-Consonant pronùnsiätjon is quïte regülar, and well wiþin the Europëan languaj mainstream.
+Consonant pronùnsiätjon is quïte regülar, and well wiþin the Europëan languaj mäinstrëam.
 
 Gliff   | Dùbbled   | IPA pronùnsiätjon | Definitiv wurd(s)
 --------|-----------|-------------------|-------------------
@@ -71,31 +71,35 @@ y       | HAPPY         | /i/, /ə/  | pity
 Long vowels and difþongs
 ------------------------
 
-Long vowel pronùnsiätjon remains complex, wiþ a lárj amount of redùndansy bùt significantly redüsed ambigüity.
+Long vowel pronùnsiätjon remäins complex, wiþ a lárj amount of redùndansy bùt significantly redüsed ambigüity.
 
 Gliff   | Dïafónëme | IPA (RP)  | Definitiv | Rotic dïa | IPA (RP)  | Definitiv
 --------|-----------|-----------|-----------|-----------|-----------|-----------
 à       | LOT (short) | /ɒ/     | whàt      | NORTH     | /ɔː/      | wàr
 á       | PALM      | /ɑː/      | fáther    | START     | /ɑː/      | stárt
-ä       | FACE      | /ei/      | fäse      | SQUARE    | /ɛə(r)/   | squäre
+ä       | FACE      | /eɪ/      | fäse      | SQUARE    | /ɛə(r)/   | squäre
 (aa)    | (PALM)    | -         | -         | (START)   | -         | -
-ae      | FACE      | /ei/      | sùndae    | SQUARE    | /ɛə(r)/   | aeropläne
+ae      | FACE      | /eɪ/      | sùndae    | SQUARE    | /ɛə(r)/   | aeropläne
 ah      | PALM      | /ɑː/      | pahm      | (START)   | -         | -
-ai      | FACE      | /ei/      | rain      | SQUARE    | /ɛə(r)/   | fair
+äi      | FACE      | /eɪ/      | räin      | SQUARE    | /ɛə(r)/   | fäir
+ai      | PRICE     | /aɪ/      | aile      | (FIRE)    | (/aɪə(r)/)| -
 (ao)    | (MOUTH)   | (/aʊ/)    | -         |           |           |
 au      | THOUGHT   | /ɔː/      | þaut      | NORTH     | /ɔː/      | aural
 aw      | THOUGHT   | /ɔː/      | saw       | (NORTH)   | (/ɔː/)    | -
-ay      | FACE      | /ei/      | say       | (SQUARE)  | (/ɛə(r)/) | -
-é       | FACE      | /ei/      | (?)       | SQUARE    | /ɛə(r)/   | ére
+äy      | FACE      | /eɪ/      | säy       | (SQUARE)  | (/ɛə(r)/) | -
+(ay)    | (PRICE)   | (/aɪ/)    | -         | (FIRE)    | (/aɪə(r)/)| -
+é       | FACE      | /eɪ/      | (?)       | SQUARE    | /ɛə(r)/   | ére
 ë       | FLEECE    | /iː/      | mëte      | NEAR      | /ɪə(r)/   | mëre
-ea      | FLEECE    | /iː/      | eat       | NEAR      | /ɪə(r)/   | near
+ëa      | FLEECE    | /iː/      | ëat       | NEAR      | /ɪə(r)/   | ëar
+ëä      | ë+LETTER  | /iːə/     | ïdëä      |           | /ɪə(r)/   |
+ea      | FACE(~)   | /eɪ/,/ɛː/ | breaþ     | SQUARE    | /ɛə(r)/   | bear
 ee      | FLEECE    | /iː/      | fleese    | NEAR      | /ɪə(r)/   | beer
-eh      | FACE      | /ei/      | eh        | (SQUARE)  | -         | -
-ei      | FACE      | /ei/      | rein      | SQUARE    | /ɛə(r)/   | eir (←heir)
+eh      | FACE      | /eɪ/      | eh        | (SQUARE)  | -         | -
+ei      | FACE      | /eɪ/      | rein      | SQUARE    | /ɛə(r)/   | eir (←heir)
 (eo)    | -         | -         |           |           | -         |
 eu      | CUE       | /juː/     | feud      | CURE      | /jʊə(r)/  | euro
 ew      | CUE       | /juː/     | few       | (CURE)    | (/jʊə(r)/)| -
-ey      | FACE      | /ei/      | fey       | (SQUARE)  | (/ɛə(r)/) | -
+ey      | FACE      | /eɪ/      | fey       | (SQUARE)  | (/ɛə(r)/) | -
 í       | FLEECE    | /iː/      | maríne    | NEAR      | /ɪə(r)/   | ...íre
 ï       | PRICE     | /aɪ/      | prïse     | FIRE      | /aɪə(r)/  | fïre
 ia      | shórt i+a | /ɪə/      |           | shórt i+ar| /ɪə(r)/   | familiar
@@ -130,8 +134,8 @@ uy      | PRICE     | /aɪ/      | buy (?)   | (FIRE)    | (/aɪə(r)/)| -
 Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE=(semivowel Y+GOOSE), TOUR=(GOOSE+LETTER), FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
 
 * A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r (i.e. unstressed), stands for NURSE.
-* A trailing "e" after a sillable containing a long vowel is nórmally silent.
-* "u" follóing "q" is àlways a semivowel.
+* A träiling "e" after a sillable contäining a long vowel is nórmally silent.
+* "u" follóing "q" is àlwäys a semivowel.
 * "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.
 * In sòm acsents, "ü" can bë pronounsed "u" (TOUR) after "d", "n", "s", "t", "x", or "z".
 * In common üsaj, "ü/ue" can modifÿ a presëding "d", "s", "t", "x", or "z" as if it had an implÿed j in frònt of the vowel, bùt sòm consider this incorect.

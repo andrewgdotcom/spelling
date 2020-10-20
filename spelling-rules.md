@@ -1,7 +1,7 @@
 Spelling rüles
 ==============
 
-Unless òtherwïze stäted, "end of wurd" means the end of a root wurd, ëven if the wurd itself has a gramatical sùffix.
+Unless òtherwïze stäted, "end of wurd" mëans the end of a root wurd, ëven if the wurd itself has a gramatical sùffix.
 
 
 Transfórmätjon stäje 1: Rëshäping
@@ -184,7 +184,7 @@ Standardïze shórt vowels
 
 #### 1V4a: qu → q when "u" (ónly) is üseless [SPARSE]
 
-    üníqe, qäy, tecníqe
+    üníqe, qaý, tecníqe
 
 #### 1V4b: que → q when "ue" is üseless
 
@@ -194,16 +194,16 @@ Standardïze shórt vowels
 
 #### 1V5a: gue → g when -ue is üseless
 
-    leag, tòng
+    lëag, tòng
 
 #### 1V5b: when -ue is a üseful helper-ë, rëfactor the presëding vowel [AVOID]
 
-    ague → aig
-    igue → eag
+    ague → äig
+    igue → ëag
     ogue → oag
     ugue → eug
 
-    plaig, fateag, broag, feug
+    pläig, fatëag, broag, feug
 
 ### 1V6: OW
 
@@ -287,7 +287,7 @@ Drop üseless sillables.
 
 #### 1V15b: ear → er when lïke "earth"
 
-    erth, ern,
+    erth, ern
 
 1X: Context fixes
 -----------------
@@ -300,7 +300,7 @@ Drop üseless sillables.
 
 #### 1X1b: Remoov dùbbling if not after stressed shórt vowel
 
-    apear, nesesery
+    apëar, nesesery
 
 BÙT keep the dùbble if it is due to a compound wurd or sùffix, or if it is "ss" at the end of a wurd (as this suppresses voising) [AVOID]
 
@@ -327,7 +327,7 @@ BÙT NOT in -ED sùffixes
 NB whether an "e" is üseless is often a matter of jùdjment, bùt it is NOT üseless if:
 
 * it is acting as a helper-ë
-* it maintains an unvoised s
+* it mäintäins an unvoised s
 
 
 1Y: Grammar
@@ -369,7 +369,7 @@ sew         | só        | this üse of "ew" üniqe
 
 ### 1Z2: Prezerv common shórt wurds
 
-An exseptjonal spelling of a common shórt wurd can bë retained [SPARSE] wher a) the pronùnsiätjon dòs not differ significantly [LOOSE], and b) enny derïved wurds ar compatible with the exseptjonal spelling [GRAMMAR].
+An exseptjonal spelling of a common shórt wurd can bë retäined [SPARSE] wher a) the pronùnsiätjon dòs not differ significantly [LOOSE], and b) enny derïved wurds ar compatible with the exseptjonal spelling [GRAMMAR].
 
     as  (wheras)
     of  (therof)
@@ -463,7 +463,7 @@ palatalïzed c → ć  (/tʃ/) in loanwurds of Italian orijin. [SPARSE]
 
 ### 2V1: Existing dïacritics
 
-Menny vowel dïacritics ar àlreddy found in Inglish text, for historical or póètic reazons.
+Menny vowel dïacritics ar àlreddy found in Inglish text, for historical or póètic rëazons.
 
 #### 2V1a: dïerësis
 
@@ -475,11 +475,11 @@ becòm:
 
     "co-operäte, naíve, Noèl
 
-#### 2V1b: retain acüte (explisit long stress)
+#### 2V1b: retäin acüte (explisit long stress)
 
     "rose, rosé"
 
-#### 2V1c: retain gráve (explisit emfasis)
+#### 2V1c: retäin gráve (explisit emfasis)
 
     blessèd, lernèd
     desèrt, dèsert
@@ -487,21 +487,21 @@ becòm:
 
 ### 2V2: Novel dïacritics
 
-Dïacritics indicäte dïafónëmes, and ar added to the prïmary vowel of each sillable ónly; this is üzüally (bùt not àlways) the first vowel. Sòm of thëze dïacritics hav àlreddy bën introdüsed abòv.
+Dïacritics indicäte dïafónëmes, and ar added to the prïmary vowel of ëach sillable ónly; this is üzüally (bùt not strictly) the first vowel. Sòm of thëze dïacritics hav àlreddy bën introdüsed abòv.
 
-Dïacritic   | a | e | i | o | u | y | Meaning
+Dïacritic   | a | e | i | o | u | y | Mëaning
 ------------|---|---|---|---|---|---|----------------------------
 hárd márk   | à | è | - | ò | ù | - | hárdening, emfasis (gráve)
-long márk   | á | é | í | ó | ú | - | natüral lengþening (acüte)
+long márk   | á | é | í | ó | ú | ý | natüral lengþening (acüte)
 shift márk  | ä | ë | ï | - | ü | ÿ | shifted lengþening (umlàut)
 (tilde)     | ã | ẽ | ĩ | õ | ũ | - | näsalïzätjon
 
-    pat, swàp, párt, fáther, fäte, wàrd, àlmóst, umlàut, qäy
-    pet, péar, café, bë, complëte
+    pat, swàp, párt, fáther, fäte, wàrd, àlmóst, umlàut
+    pet, pear, café, bë, complëte
     pit, maríne, bríef, pïne
     pot, sòn, póle
     put, pùtt, prúne, püre, manüal
-    pity, yet, bÿ
+    pity, yet, bÿ, qaý
 
 #### 2V2a: HÁRD
 
@@ -526,38 +526,37 @@ The long márk or acüte is analogus to the French acüte and Irish síne fada [
 
 The shift márk or umlàut derïves from a súperscript "e", and has a 1:1 mapping onto sùffix "e" in modern Jerman (e.g. "München" = "Muenchen"). It is üzed consistently across the Jermanic languajes for the closed-fronted vowels "ä" "ö" and "ü". It is àlsó found on the Ïselandic "ÿ", which derïves from a ligatür of "ij", which is cognäte to the Dùtch "ij" and thùs to "iy" from sectjon 1V2a abòv.
 
-Wë adopt the umlàut for the Gréat Vowel Shifted pronùnsiätjons of "ä" and "ü", and jeneralïze it to "ë", "ï" and "ÿ" [FAMILY].
+Wë adopt the umlàut for the Great Vowel Shifted pronùnsiätjons of "ä" and "ü", and jeneralïze it to "ë", "ï" and "ÿ" [FAMILY].
 
-Wë doo not üze "ö", as it has a standard pronùnsiätjon in Jermanic languajes that dos not map onto enny Inglish dïafónëme, and the standard meaning of "oe" in Inglish is àlreddy còvered bÿ the long márk (ó).
+Wë doo not üze "ö", as it has a standard pronùnsiätjon in Jermanic languajes that dos not map onto enny Inglish dïafónëme, and the standard mëaning of "oe" in Inglish is àlreddy còvered bÿ the long márk (ó).
 
 * The shift márk is NOT backwards-compatible wiþ the dïerësis.
 * It reprezents the Inglish helper-ë actjon on aul vowels òther than o.
-* It is sòmtïmes requïred to indicäte a raized vowel ëven if it is shórt [LOOSE].
+* It is sòmtïmes requïred to indicäte a räized vowel ëven if it is shórt [LOOSE].
 
 ### 2V3: Standard dïgraf àlternativs to dïacritics on long vowels
 
-Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that helper-ë is not counted as a dïgraf, and só dïacritics shud àlways bë üzed ëven if helper-ë is retained.
+Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that helper-ë is not counted as a dïgraf, and só dïacritics shud àlways bë üzed ëven if helper-ë is retäined.
 
 #### 2V3a: "á" == "AH", "aa" if pronounsed as "baa"
 
     hurrah, shah, salaam
 
-#### 2V3b: "ä" == "AE", "ai", "ay" if pronounsed as "stay"
+#### 2V3b: "ä" == "AE" if pronounsed as "stay"
 
-    aerial, rain, tray
+    aerial
 
 #### 2V3c: "é" == "EI", "ey" if pronounsed as "grey"
 
     rein, they
 
-#### 2V3d: "ë" == "ea", "EE" if pronounsed as "fleece"
+#### 2V3d: "ë" == EE" if pronounsed as "fleece"
 
     feet, see
-    feat, sea
 
     BÙT
 
-    ïdëa (þree sillables!)
+    ïdëä (þree sillables!)
 
 #### 2V3e: "ï", "ÿ" == "IE", "iy", "YE", ["ui", "uy"] if pronounsed as "tie"
 
@@ -592,21 +591,21 @@ FOOT        |u          |                   |
 COMMA       |a e i o u  |                   |
 LETTER      |{aeiou}r   |re                 |
  [long]     |           |                   |
-FLEECE      |ë í        |ee ea              |ëi ëy íe äy
-NEAR        |ër ír      |eer ear            |ëir ëyr íer
-FACE        |ä é        |ae ai ay ei ey     |éa
-SQUARE      |är ér      |aer air eir        |éar
+FLEECE      |ë í ý      |ee                 |ëa ëi ëy íe
+NEAR        |ër ír      |eer                |ëar ëir ëyr íer
+FACE        |ä é        |ae ea ei ey        |äi äy
+SQUARE      |är ér      |aer ear eir        |äir
 PALM        |á          |aa ah              |
 START       |ár         |aar                |
 THOUGHT     |           |au aw              |
 NORTH       |àr ór      |aur oer oar        |
-GOAT        |ó          |oa oe oh           |óu
-FORCE       |ór         |oar oer            |óur
+GOAT        |ó          |oa oe oh           |
+FORCE       |ór         |oar oer            |
 GOOSE       |ú          |oo                 |úe eú eẃ
 (TOUR)      |ôr úr      |oor                |úer
 (CUE)       |ü          |eu ew ue           |
 CURE        |ür         |eur uer            |
-PRICE       |ï ÿ        |ie iy (ui? uy?)    |aï
+PRICE       |ï ÿ        |ai ie iy (ui? uy?) |
 CHOICE      |           |oi oy              |
 MOUTH       |           |ou ow              |àu
 NURSE       |{eiuy}r    |                   |
