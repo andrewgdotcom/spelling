@@ -18,7 +18,7 @@ g       | gg        | /g/               | get
 gh      | -         | /x/               | logh
 h       | -         | /h/               | hat
 j       | dj        | /dʒ/, /ʒ/         | jet, miráje
-k       | ck        | /k/               | keep
+k       | ck*       | /k/               | keep
 l       | ll        | /l/               | let
 m       | mm        | /m/               | met
 n       | nn        | /n/               | net
@@ -43,9 +43,9 @@ y*      | -         | /j/               | yet
 z       | zz        | /z/               | zip
 zj      | -         | /ʒ/               | vizjon
 
-* "cc" is not the dùbbled fórm of "c" - it ónly apears in compound wurds of Latin orijin sùch as "ac-curate", "ac-commodate" etc.
+* "cc" and "kk" are rärely due to stress dùbbling; "cc" is móre often due to a prefix "ac-"
 * "th" can àlsó stand for /θ/ in common fórm
-* in sòm acsents /ʍ/ is indistinguishable from /w/
+* in sòm acsents /ʍ/ is indistinguishable from /w/, in òthers /hw/
 * y can àlsó act as a vowel
 
 Shórt vowels
@@ -68,8 +68,8 @@ y       | HAPPY         | /i/, /ə/  | pity
 * Enny bäre vowel can stand for COMMA (or LETTER if rotic) when unstressed.
 * "i", "o" (rärely), "u", and "y" can àlsó act as semivowels.
 
-Long vowels
------------
+Long vowels and difþongs
+------------------------
 
 Long vowel pronùnsiätjon remains complex, wiþ a lárj amount of redùndansy bùt significantly redüsed ambigüity.
 
