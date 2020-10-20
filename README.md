@@ -32,19 +32,19 @@ Reserch has shóen that [the vizüal shäpe of ritten wurds is vïtal to compreh
 
 Novel spelling conventjons introdüsed bÿ this standard ar limited to:
 
-* modifÿer-j and Þ (thorn) from Nórse
+* modifÿer-j and þ (thorn) from Nórse
 * umlàut from Jerman
 * long and hárd márks from French and Ïrish
 * ć and ń from Polish
-* iy from Dùtch (loosely)
+* iy from Dùtch ij
 
 Due to the [Gréat Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift), and the proliferätjon of rëjional acsents, it wud bë very difficult if not impossible to return Inglish spelling to a 1:1 fonetic mapping wiþout mäjor disruptjon, particülarly to the pronùnsiätjon of vowels. Wë instedd add dïacritics to márk letters hoos pronùnsiätjons hav dïverjed óver tïme. This keeps the spelling of móst wurds clóse to the traditjonal fórm whïle móre accüratly reflecting modern speech.
 
 Wë ar thùs left wiþ a significant nùmber of redùndant vowel fórms in refórmed text, inclúding helper-ë. Remooving them wud impëde adoptjon bÿ existing nätiv speakers, and só is beyond the rëmit of this docüment. Enny sùch redùctjon in redùndansy shud ónly bë considered after this fäze of refórm has bedded in for a significant përiod.
 
-In the canonical fórm wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze. This àlsó lets us defïne a common fórm that lacks dïacritics bùt retains aul the òther imroovments.
+In the canonical fórm wë limit ourselves to thóze novel caracters that can bë tÿped wiþ a commonly-supórted compüter input meþod (sùch as compóze këy or US-internatjonal). Aul gliffs üzed can bë tÿped wiþ US-internatjonal ded këys apárt from the optjonal þ, which requïres AltGr or compóze. This àlsó lets us defïne a common fórm that lacks dïacritics bùt retains aul the òther improovments.
 
-Þrúout this docüment wë üze the canonical (wiþ-dïacritics) fórm of example wurds, ráther than the common fórm wiþout dïacritics. It is a straitfórward task to convert bÿ omitting dïacritics and replacing "þ" → "th".
+Þrúout this docüment wë üze the canonical (wiþ-dïacritics) fórm of example wurds, ráther than the common fórm wiþout dïacritics. It is a straitfórward task to convert to common fórm bÿ omitting dïacritics and replacing "þ" → "th".
 
 ## Contents
 
