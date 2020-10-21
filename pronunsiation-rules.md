@@ -4,7 +4,7 @@ Pronùnsiätjon rüles
 Consonants
 ----------
 
-Consonant pronùnsiätjon is quïte regülar, and well wiþin the Europëan languaj mäinstrëam.
+Consonant pronùnsiätjon is quïte regülar, and well wiþin the Europëàn languaj mäinstrëam.
 
 Gliff   | Dùbbled   | IPA pronùnsiätjon | Definitiv wurd(s)
 --------|-----------|-------------------|-------------------
