@@ -512,6 +512,7 @@ The hárd márk or gráve operätes similarly to the French or Italian gráve [F
 * It is àlsó üzed to prevent interpretätjon as a dïgraf, similarly to a dïerësis:
 
     umlàut, póètry
+    ärëà, ïdëà, Europëàn
 
 #### 2V2b: LONG
 
@@ -553,10 +554,6 @@ Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that 
 #### 2V3d: "ë" == EE" if pronounsed as "fleece"
 
     feet, see
-
-    BÙT
-
-    ïdëä (þree sillables!)
 
 #### 2V3e: "ï", "ÿ" == "IE", "iy", "YE", ["ui", "uy"] if pronounsed as "tie"
 
