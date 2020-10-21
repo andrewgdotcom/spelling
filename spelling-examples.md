@@ -38,7 +38,7 @@ https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-t
     The hárt-äke, and the þouzand natüral shocks
     That flesh is eir to? Tis a consumätjon
     Devoutly to bë wished. To die, to sleep,
-    To sleep, perchanse to drëam; áy, thers the rùb,
+    To sleep, perchanse to drëam; ay, thers the rùb,
     For in that sleep of deþ, whàt drëams may còm,
     When wë hav shùffled off this mórtal coil,
     Mùst giv ùs pauz. Thers the respect
@@ -160,7 +160,7 @@ http://www.i18nguy.com/chaos.html
     Compäre älièn wiþ Italian,
     Dandelïon and batalion.
     Sally wiþ alÿ, yea, yë,
-    Eÿ, I, áy, áy, whey, and këy.
+    Eÿ, I, ay, ay, whey, and këy.
     Say avér, but ever, fëver,
     Nëither, lezür, skein, desëiver.
     Heron, granary, canäry.

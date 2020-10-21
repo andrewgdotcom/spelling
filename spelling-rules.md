@@ -356,7 +356,7 @@ Crëäting a separat rüle for evry edj cäse wud bë wästeful. Wë còver edj 
 
 Óld         | New       | Ratjonále
 ------------|-----------|--------------------
-aye         | áy        |
+aye         | ay        |
 queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
 you         | U         | àlreddy in üse infórmally
 dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
