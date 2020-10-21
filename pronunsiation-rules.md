@@ -92,7 +92,7 @@ aw      | THOUGHT   | /ɔː/      | saw       | (NORTH)   | (/ɔː/)    | -
 ë       | FLEECE    | /iː/      | mëte      | NEAR      | /ɪə(r)/   | mëre
 ëa      | FLEECE    | /iː/      | ëat       | NEAR      | /ɪə(r)/   | ëar
 ëä      | ë+LETTER  | /iːə/     | ïdëä      |           | /ɪə(r)/   |
-ea      | FACE(~)   | /eɪ/,/ɛː/ | breaþ     | SQUARE    | /ɛə(r)/   | bear
+ea      | FACE      | /eɪ/      | break     | SQUARE    | /ɛə(r)/   | bear
 ee      | FLEECE    | /iː/      | fleese    | NEAR      | /ɪə(r)/   | beer
 eh      | FACE      | /eɪ/      | eh        | (SQUARE)  | -         | -
 ei      | FACE      | /eɪ/      | rein      | SQUARE    | /ɛə(r)/   | eir (←heir)
