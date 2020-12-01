@@ -363,6 +363,7 @@ dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [A
 comb        | cohm      | "cóme" is ambigüus [AVOID,SHÄPE]
 climb       | clïme     |
 soul        | soal      |
+colonel     | curnel    |
 mauve       | moav      | "móve" is ambigüus [AVOID]
 people      | peeple    | this üse of "eo" üníqe
 [a]broad    | [a]braud  | this üse of "oa" üníqe
