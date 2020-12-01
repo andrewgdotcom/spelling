@@ -361,6 +361,7 @@ queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
 you         | U         | àlreddy in üse infórmally
 dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
 comb        | cohm      | "cóme" is ambigüus [AVOID,SHÄPE]
+climb       | clïme     |
 mauve       | moav      | "móve" is ambigüus [AVOID]
 people      | peeple    | this üse of "eo" üníqe
 [a]broad    | [a]braud  | this üse of "oa" üníqe

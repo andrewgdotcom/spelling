@@ -112,7 +112,7 @@ http://www.i18nguy.com/chaos.html
     Ïvy, privy, fämus; clamor
     And enamor rÿme wiþ hammer.
     River, rïval, toom, bom, cohm,
-    Doll and róll and sòm and hóme.
+    Doll and rohl and sòm and hóme.
     Stränjer dòs not rÿme wiþ ańger,
     Nëither dòs devour wiþ clangor.
     Sóuls bùt foul, haunt bùt áunt,
