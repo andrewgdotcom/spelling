@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# A tool to prompt the üzer for the new spelling of a word, and apend it to
+# the dictjonary.
+
+set -euo pipefail
+
+# Ünit separätor for dictjonary
+_US=$'\x1f'
+
+: ${NEW_DICT:=$HOME/.new-dict}
+
+dictAdd() {
+    local oldSpelling="$1"
+    local newSpelling
+    if grep "^$oldSpelling$_US" "$NEW_DICT" | sed "s/$_US/\\t : /g"; then
+        read -p "Add àlternativ spelling(s)? [y/N] " response
+        [[ "${response^}" == "Y" ]] || break
+    fi
+    while read -p "New spelling for '$oldSpelling' (return to skip): " newSpelling; do
+        [[ "$newSpelling" ]] || break
+        read -p "Hint (optjonal): " hint
+        printf "%s\\n" "$oldSpelling$_US$newSpelling$_US$hint" >> "$NEW_DICT"
+    done
+}
+
+if [[ "${1:-}" ]]; then
+    dictAdd "$1"
+else
+    echo "Rëading word list from /dev/fd/3 (üze '$0 3<\\$filename')"
+    while read oldSpelling <&3; do
+        dictAdd "$oldSpelling"
+        echo
+    done
+fi
