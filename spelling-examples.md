@@ -115,7 +115,7 @@ http://www.i18nguy.com/chaos.html
     Doll and rohl and sòm and hóme.
     Stränjer dòs not rÿme wiþ ańger,
     Nëither dòs devour wiþ clangor.
-    Sóuls bùt foul, haunt bùt áunt,
+    Soals bùt foul, haunt bùt áunt,
     Font, frònt, wont, wànt, grand, and grant,
     Shoos, góes, dòs. Now first say fińger,
     And then singer, jinjer, lińger,
@@ -284,7 +284,7 @@ http://www.i18nguy.com/chaos.html
     Doll and roll and som and home.
     Stranjer dos not ryme with anger,
     Neither dos devour with clangor.
-    Souls but foul, haunt but aunt,
+    Soals but foul, haunt but aunt,
     Font, front, wont, want, grand, and grant,
     Shoos, goes, dos. Now first say finger,
     And then singer, jinjer, linger,
