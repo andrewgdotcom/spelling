@@ -27,7 +27,7 @@ dictAdd() {
 if [[ "${1:-}" ]]; then
     dictAdd "$1"
 else
-    echo "Rëading word list from /dev/fd/3 (üze '$0 3<\\$filename')"
+    echo "Rëading word list from /dev/fd/3 (üze '$0 3<FILE')"
     while read oldSpelling <&3; do
         dictAdd "$oldSpelling"
         echo
