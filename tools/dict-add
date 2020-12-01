@@ -15,7 +15,7 @@ dictAdd() {
     local newSpelling
     if grep "^$oldSpelling$_US" "$NEW_DICT" | sed "s/$_US/\\t : /g"; then
         read -p "Add àlternativ spelling(s)? [y/N] " response
-        [[ "${response^}" == "Y" ]] || break
+        [[ "${response^}" == "Y" ]] || return 0
     fi
     while read -p "New spelling for '$oldSpelling' (return to skip): " newSpelling; do
         [[ "$newSpelling" ]] || break
