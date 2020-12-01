@@ -10,24 +10,54 @@ _US=$'\x1f'
 
 : ${NEW_DICT:=$HOME/.new-dict}
 
+usage() {
+        cat <<EOF
+
+Rëading word list from /dev/fd/3 (üze '$0 3< FILENAME')
+
+Comands:
+Return  skip to next word
+/WORD   fast-fórward to WORD
+!       clëar existing info for word
+?       this help
+
+EOF
+
+}
+
 dictAdd() {
     local oldSpelling="$1"
     local newSpelling
-    if grep "^$oldSpelling$_US" "$NEW_DICT" | sed "s/$_US/\\t : /g"; then
-        read -p "Add àlternativ spelling(s)? [y/N] " response
-        [[ "${response^}" == "Y" ]] || return 0
-    fi
-    while read -p "New spelling for '$oldSpelling' (return to skip): " newSpelling; do
+    while
+        if ! grep "^$oldSpelling$_US" "$NEW_DICT" | sed "s/$_US/\\t : /g"; then
+            printf "%s\\t : \\t :\\n" "$oldSpelling"
+        fi
+        read -p "New spelling (? for help): " newSpelling
+    do
         [[ "$newSpelling" ]] || break
-        read -p "Hint (optjonal): " hint
-        printf "%s\\n" "$oldSpelling$_US$newSpelling$_US$hint" >> "$NEW_DICT"
+        if [[ "$newSpelling" == "!" ]]; then
+            sed -i "/^$oldSpelling$_US/ d" $NEW_DICT && echo "Clëared"
+        elif [[ "$newSpelling" == "?" ]]; then
+            usage
+        elif [[ "${newSpelling#/}" != "${newSpelling}" ]]; then
+            while read oldSpelling <&3 && \
+                [[ "$oldSpelling" != "${newSpelling#/}" ]]
+            do
+                :
+            done
+            echo "Searching..."
+            echo
+        else
+            read -p "Hint (optjonal): " hint
+            printf "%s\\n" "$oldSpelling$_US$newSpelling$_US$hint" >> "$NEW_DICT"
+        fi
     done
 }
 
 if [[ "${1:-}" ]]; then
     dictAdd "$1"
 else
-    echo "Rëading word list from /dev/fd/3 (üze '$0 3<FILE')"
+    usage
     while read oldSpelling <&3; do
         dictAdd "$oldSpelling"
         echo
