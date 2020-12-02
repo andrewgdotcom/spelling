@@ -10,7 +10,7 @@ Gliff   | Dùbbled   | IPA pronùnsiätjon | Definitiv wurd(s)
 --------|-----------|-------------------|-------------------
 b       | bb        | /b/               | bat
 c       | ck*       | /k/               | cat
-ć       | -         | /tʃ/              | ćelló
+ć       | -         | /tʃ/              | ćello
 ch      | tch       | /tʃ/              | chat
 d       | dd        | /d/               | dog
 f       | ff        | /f/               | fat
@@ -44,14 +44,14 @@ z       | zz        | /z/               | zip
 zj      | -         | /ʒ/               | vizjon
 
 * "cc" and "kk" are rärely due to stress dùbbling; "cc" is móre often due to a prefix "ac-"
-* "th" can àlsó stand for /θ/ in common fórm
+* "th" can àlso stand for /θ/ in common fórm
 * in sòm acsents /ʍ/ is indistinguishable from /w/, in òthers /hw/
-* y can àlsó act as a vowel
+* y can àlso act as a vowel
 
 Shórt vowels
 ------------
 
-Shórt vowel pronùnsiätjon is now àlsó móstly regülar.
+Shórt vowel pronùnsiätjon is now àlso móstly regülar.
 
 Gliff   | Dïafónëme     | IPA (RP)  | Definitiv wurd    
 --------|---------------|-----------|----------------
@@ -66,7 +66,7 @@ u       | FOOT          | /ʊ/, /ə/  | put
 y       | HAPPY         | /i/, /ə/  | pity
 
 * Enny bäre vowel can stand for COMMA (or LETTER if rotic) when unstressed.
-* "i", "o" (rärely), "u", and "y" can àlsó act as semivowels.
+* "i", "o" (rärely), "u", and "y" can àlso act as semivowels.
 
 Long vowels and difþongs
 ------------------------
@@ -132,9 +132,10 @@ uy      | PRICE     | /aɪ/      | buy (?)   | (FIRE)    | (/aɪə(r)/)| -
 
 Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE=(semivowel Y+GOOSE), TOUR=(GOOSE+LETTER), FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
 
-* A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r (i.e. unstressed), stands for NURSE.
+* A bäre "e", "i", "u", or "y", if folloed bÿ a sińgle r (i.e. unstressed), stands for NURSE.
 * A träiling "e" after a sillable contäining a long vowel is nórmally silent.
-* "u" follóing "q" is àlwäys a semivowel.
+* "u" folloing "q" is àlwäys a semivowel.
 * "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.
 * In sòm acsents, "ü" can bë pronounsed "u" (TOUR) after "d", "n", "s", "t", "x", or "z".
 * In common üsaj, "ü/ue" can modifÿ a presëding "d", "s", "t", "x", or "z" as if it had an implÿed j in frònt of the vowel, bùt sòm consider this incorect.
+* A träiling "o" is often long, equivalent to "ó".
