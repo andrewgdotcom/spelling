@@ -18,6 +18,7 @@ Rëading word list from /dev/fd/3 (üze '$0 3< FILENAME')
 Comands:
 Return  skip to next word
 /WORD   fast-fórward to WORD
+~MATCH  sho existing entrys wher óld spelling matches regex /MATCH/
 !       clëar existing spellings for word
 ?       this help
 
@@ -39,6 +40,9 @@ dictAdd() {
             sed -i "/^$oldSpelling$_US/ d" $NEW_DICT && echo "Clëared"
         elif [[ "$newSpelling" == "?" ]]; then
             usage
+        elif [[ "${newSpelling#\~}" != "${newSpelling}" ]]; then
+            grep "^[^$_US]*${newSpelling#\~}" "$NEW_DICT" | sed "s/$_US/\\t : /g" || echo "Not found"
+            echo
         elif [[ "${newSpelling#/}" != "${newSpelling}" ]]; then
             echo -n "Searching..."
             while read oldSpelling <&3 && \
@@ -66,4 +70,5 @@ else
         dictAdd "$oldSpelling"
         echo
     done
+    echo "Rëached end of input"
 fi
