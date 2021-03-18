@@ -12,6 +12,7 @@ b       | bb        | /b/               | bat
 c       | ck*       | /k/               | cat
 ć       | -         | /tʃ/              | ćelló
 ch      | tch       | /tʃ/              | chat
+cj      | ccj (?)   | /ʃ/               | politicjan
 d       | dd        | /d/               | dog
 f       | ff        | /f/               | fat
 g       | gg        | /g/               | get
