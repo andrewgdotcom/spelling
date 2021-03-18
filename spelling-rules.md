@@ -86,6 +86,10 @@ Voised s → z when "s" is not the last letter in a wurd, or when it is requïre
 
     acsess, ïse, vïse, consjense, sïense
 
+#### 1C6c: soft ci → cj when root wurd haz hárd c [GRAMMAR]
+
+    politicjan, eficjensy
+
 ### 1C7: ET
 
 et → ei when pronounsed as in "ballet" [FORIN]
@@ -253,9 +257,9 @@ wor → wur when NURSE
 
 ### 1V11: IJ
 
-semivowel i → j when it modifÿs a presëding "s", "t", "x", or "z" (that wàs "s") [FAMILY,LOOSE]
+semivowel i → j when it modifÿs a presëding "c", "s", "t", "x", or "z" (that wàs "s") [FAMILY,LOOSE]
 
-    missjon, ambitjon, ańxjus, vizjon
+    politicjan, missjon, ambitjon, ańxjus, vizjon
 
 ### 1V12: YE
 
