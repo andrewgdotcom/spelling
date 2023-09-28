@@ -362,7 +362,7 @@ Crëäting a separat rüle for evry edj cäse wud bë wästeful. Wë còver edj 
 ------------|-----------|--------------------
 aye         | ay        |
 queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
-choir       | quire     | árcäic spelling
+choir       | quïre     | árcäic spelling
 you         | U         | àlreddy in üse infórmally
 dough       | doh       | confüzjon wiþ "do", and evrywòn noes "Play-Doh" [AVOID]
 comb        | cohm      | "cóme" is ambigüus [AVOID,SHÄPE]
