@@ -28,7 +28,7 @@ ng      | -         | /ŋ/               | sing
 p       | pp        | /p/               | pat
 q       | -         | /k/               | quit
 r       | rr        | /r/               | rat
-s       | ss        | /s/, /z/          | sat, dogs
+s       | ss        | /s/, /z/*         | sat, dogs
 sh      | -         | /ʃ/               | ship
 sj      | ssj       | /ʃ/               | missjon
 t       | tt        | /t/               | tap
@@ -45,7 +45,8 @@ z       | zz        | /z/               | zip
 zj      | -         | /ʒ/               | vizjon
 
 * "cc" and "kk" are rärely due to stress dùbbling; "cc" is móre often due to a prefix "ac-"
-* "th" can àlsó stand for /θ/ in common fórm
+* "s" is pronounsed as /z/ at the end of a word if it folloes a voised consonant or vowel and is not dùbbled
+* "th" can àlso stand for /θ/ in common fórm
 * in sòm acsents /ʍ/ is indistinguishable from /w/, in òthers /hw/
 * y can àlsó act as a vowel
 
