@@ -9,14 +9,14 @@ Sïde-bÿ-sïde comparison
 Canonical fórm | Common fórm | Traditjonal fórm
 ---------------|-------------|------------------
 The quick brown fox jùmped óver the läzy dog. | The quick brown fox jumped over the lazy dog. | The quick brown fox jumped over the lazy dog.
-Oh say can U see, bÿ the dawns erly liyt, whàt wnse wàs last seen, bÿ the twïliyts last glëaming. | Oh say can U see, by the dawns erly liyt, what wnse was last seen, by the twiliyts last gleaming. | Oh say can you see, by the dawn's early light, what once was last seen, by the twilight's last gleaming.
-Aul hüman bëings ar bórn free and ëqual in dignity and riyts. They ar endowed wiþ rëazon and consjense and shud act towàrds wn anòther in a spirit of bròtherhud. | Aul human beings ar born free and equal in dignity and riyts. They ar endowed with reazon and consjense and shud act towards wn another in a spirit of brotherhud. | All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+Oh say can U see, bÿ the dawns erly liyt, whàt wònss wàs last seen, bÿ the twïliyts last glëaming. | Oh say can U see, by the dawns erly liyt, what wonss was last seen, by the twiliyts last gleaming. | Oh say can you see, by the dawn's early light, what once was last seen, by the twilight's last gleaming.
+Aul hüman bëings ar bórn free and ëqual in dignity and riyts. They ar endowed wiþ rëazon and consjenss and shud act towàrds wòn anòther in a spirit of bròtherhud. | Aul human beings ar born free and equal in dignity and riyts. They ar endowed with reazon and consjenss and shud act towards won another in a spirit of brotherhud. | All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 Inglish is a West Jermanic languaj that wàs first spóken in erly mediëval Ingland and is now the móst wïdely üzed languaj in the wurld. It is spóken as a first languaj bÿ the majority popülätjons of several soverin stätes, inclúding the Ünïted Kingdom, the Ünïted Stätes, Canada, Austrälia, Ïreland, New Zëaland and a nùmber of Caribbëàn nätjons; and it is an ofisjal languaj of àlmóst sixty soverin stätes. It is the þird móst common nätiv languaj in the wurld, after Mandarin Chïnëze and Spanish. It is wïdely lerned as a second languaj and is an ofisjal languaj of the Europëàn Ünion, menny Commonwelþ cùntrys and the Ünïted Nätjons, as well as in menny wurld órganizätjons. | Inglish is a West Jermanic languaj that was first spoken in erly medieval Ingland and is now the most widely uzed languaj in the wurld. It is spoken as a first languaj by the majority populatjons of several soverin states, including the United Kingdom, the United States, Canada, Australia, Ireland, New Zealand and a number of Caribbean natjons; and it is an ofisjal languaj of almost sixty soverin states. It is the third most common nativ languaj in the wurld, after Mandarin Chineze and Spanish. It is widely lerned as a second languaj and is an ofisjal languaj of the European Union, menny Commonwelth cuntrys and the United Natjons, as well as in menny wurld organizatjons. | English is a West Germanic language that was first spoken in early medieval England and is now the most widely used language in the world. It is spoken as a first language by the majority populations of several sovereign states, including the United Kingdom, the United States, Canada, Australia, Ireland, New Zealand and a number of Caribbean nations; and it is an official language of almost sixty sovereign states. It is the third most common native language in the world, after Mandarin Chinese and Spanish. It is widely learned as a second language and is an official language of the European Union, many Commonwealth countries and the United Nations, as well as in many world organisations.
 Wnse upon a tïme ther wàs a little girl cauled Red Rïding Hud. Wn day she went into the wuds to deliver a basket of frúit to her grandmòther hoo lived in a cottaj deep in the forest. Bùt whïle shë wauked shë wàs unawäre that shë wàs bëing folloed bÿ a big bad wulf, hoo wànted nòþing móre than to ëat her riyt ùp. | Wnse upon a time ther was a little girl cauled Red Riding Hud. Wn day she went into the wuds to deliver a basket of fruit to her grandmother hoo lived in a cottaj deep in the forest. But while she wauked she was unaware that she was being folloed by a big bad wulf, hoo wanted nothing more than to eat her riyt up. | Once upon a time there was a little girl called Red Riding Hood. One day she went into the woods to deliver a basket of fruit to her grandmother who lived in a cottage deep in the forest. But while she walked she was unaware that she was being followed by a big bad wolf, who wanted nothing more than to eat her right up.
-A compüter is a jeneral purpos devïse that can bë prógrammed to carry out a set of ariþmetic or lojical operätjons. Sinse a sëquense of operätjons can bë redily chänjed, the compüter can solv móre than wn kïnd of problem. | A computer is a jeneral purpos devise that can be programmed to carry out a set of arithmetic or lojical operatjons. Sinse a sequense of operatjons can be redily chanjed, the computer can solv more than wn kind of problem. | A computer is a general purpose device that can be programmed to carry out a set of arithmetic or logical operations. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem.
-It wàs on the first day of the new yëar that the anounsement was mäde, àlmóst simultäneusly from three observatorys, that the mótjon of the planet Neptüne, the outermóst of aul the planets that wheel about the Sùn, had becòm very eratic. A rëtardätjon in its velosity had been suspected in Desember. Then, a fäint, remóte speck of liyt wàs discòvered in the rëjion of the perturbed planet. At first this did not cauz enny very great exsïtement. Sïentific peeple, however, found the intellijense remarkable enùff, ëven befóre it becäme noen that the new body wàs rapidly groing larjer and briyter, and that its mótjon wàs quïte different from the orderly prógress of the planets. | It was on the first day of the new year that the anounsement was made, almost simultaneusly from three observatorys, that the motjon of the planet Neptune, the outermost of aul the planets that wheel about the Sun, had becom very eratic. A retardatjon in its velosity had been suspected in Desember. Then, a faint, remote speck of liyt was discovered in the rejion of the perturbed planet. At first this did not cauz enny very great exsitement. Sientific peeple, however, found the intellijense remarkable enuff, even before it became noen that the new body was rapidly groing larjer and briyter, and that its motjon was quite different from the orderly progress of the planets. | It was on the first day of the new year that the announcement was made, almost simultaneously from three observatories, that the motion of the planet Neptune, the outermost of all the planets that wheel about the Sun, had become very erratic. A retardation in its velocity had been suspected in December. Then, a faint, remote speck of light was discovered in the region of the perturbed planet. At first this did not cause any very great excitement. Scientific people, however, found the intelligence remarkable enough, even before it became known that the new body was rapidly growing larger and brighter, and that its motion was quite different from the orderly progress of the planets.
+A compüter is a jeneral purpos devïse that can bë prógrammed to carry out a set of ariþmetic or lojical operätjons. Sinse a sëquense of operätjons can bë redily chänjed, the compüter can solv móre than wòn kïnd of problem. | A computer is a jeneral purpos devise that can be programmed to carry out a set of arithmetic or lojical operatjons. Sinse a sequense of operatjons can be redily chanjed, the computer can solv more than won kind of problem. | A computer is a general purpose device that can be programmed to carry out a set of arithmetic or logical operations. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem.
+It wàs on the first day of the new yëar that the anounsement was mäde, àlmóst simultäneusly from three observatorys, that the mótjon of the planet Neptüne, the outermóst of aul the planets that wheel about the Sùn, had becòm very eratic. A rëtardätjon in its velosity had been suspected in Desember. Then, a fäint, remóte speck of liyt wàs discòvered in the rëjion of the perturbed planet. At first this did not cauz enny very great exsïtement. Sïentific peeple, however, found the intellijenss remarkable enùff, ëven befóre it becäme noen that the new body wàs rapidly groing larjer and briyter, and that its mótjon wàs quïte different from the orderly prógress of the planets. | It was on the first day of the new year that the anounsement was made, almost simultaneusly from three observatorys, that the motjon of the planet Neptune, the outermost of aul the planets that wheel about the Sun, had becom very eratic. A retardatjon in its velosity had been suspected in Desember. Then, a faint, remote speck of liyt was discovered in the rejion of the perturbed planet. At first this did not cauz enny very great exsitement. Sientific peeple, however, found the intellijenss remarkable enuff, even before it became noen that the new body was rapidly groing larjer and briyter, and that its motjon was quite different from the orderly progress of the planets. | It was on the first day of the new year that the announcement was made, almost simultaneously from three observatories, that the motion of the planet Neptune, the outermost of all the planets that wheel about the Sun, had become very erratic. A retardation in its velocity had been suspected in December. Then, a faint, remote speck of light was discovered in the region of the perturbed planet. At first this did not cause any very great excitement. Scientific people, however, found the intelligence remarkable enough, even before it became known that the new body was rapidly growing larger and brighter, and that its motion was quite different from the orderly progress of the planets.
 About tw oclock the mist clëared away, and wë beheld, stretched out in every directjon, vást and iregülar pläins of ïse, which seemed to hav no end. Sòm of mÿ comrads groaned, and mÿ oan mïnd began to gro wàtchful wiþ ańxjus þauts, when a stränje siyt sùddenly atracted our atentjon, and diverted our solisitüde from our oan sitüätjon. Wë persëived a lo carrij, fixed on a sledj and drawn bÿ dogs, pass on towàrds the nórþ, at the distanse of hahf a mïle: a bëing which had the shäpe of man, bùt aparently of jïgantic statür, sat in the sledj, and guided the dogs. Wë wàtched the rapid progress of the traveler wiþ our telescópes, until hë wàs lost amòng the distant inequàlitys of the ïse. | About tw oclock the mist cleared away, and we beheld, stretched out in every directjon, vast and iregular plains of ise, which seemed to hav no end. Som of my comrads groaned, and my oan mind began to gro watchful with anxjus thauts, when a stranje siyt suddenly atracted our atentjon, and diverted our solisitude from our oan situatjon. We perseived a lo carrij, fixed on a sledj and drawn by dogs, pass on towards the north, at the distanse of haf a mile: a being which had the shape of man, but aparently of jigantic statur, sat in the sledj, and guided the dogs. We watched the rapid progress of the traveler with our telescopes, until he was lost among the distant inequalitys of the ise. | About two o'clock the mist cleared away, and we beheld, stretched out in every direction, vast and irregular plains of ice, which seemed to have no end. Some of my comrades groaned, and my own mind began to grow watchful with anxious thoughts, when a strange sight suddenly attracted our attention, and diverted our solicitude from our own situation. We perceived a low carriage, fixed on a sledge and drawn by dogs, pass on towards the north, at the distance of hahf a mile: a being which had the shape of man, but apparently of gigantic stature, sat in the sledge, and guided the dogs. We watched the rapid progress of the traveler with our telescopes, until he was lost among the distant inequalities of the ice.
-Amòng òther pùblic bildings in a sertin town, which for menny rëazons it will bë prúdent to refräin from mentjoning, and to which I will assiyn no fictitjus näme, ther is wn änsjently common to móst towns, great or smaul: to wit, a wurkhous; and in this wurkhous wàs bórn; on a day and däte which I need not trùbble mÿself to repëat, inasmuch as it can bë of no possible consequense to the rëader, in this stäje of the bizness at aul events; the ïtem of mórtality hoos näme is prëfixed to the hed of this chapter. For a long tïme after it was ùshered into this wurld of sorro and trùbble, bÿ the parish surjon, it remäined a matter of considerable dout whether the chïld wud survïve to bear enny näme at aul; in which cäse it is sòmwhat móre than probable that thëze memoïrs wud never hav apëared; or, if they had, that bëing comprïzed wiþin a cùpple of päjes, they wud hav pozessed the inestimable merit of bëing the móst consïse and fäiþful spesimen of bïografy, extant in the literatür of enny äje or cùntry. | Among other public bildings in a sertin town, which for menny reazons it will be prudent to refrain from mentjoning, and to which I will assiyn no fictitjus name, ther is wn ansjently common to most towns, great or smaul: to wit, a workhous; and in this workhous was born; on a day and date which I need not trubble myself to repeat, inasmuch as it can be of no possible consequense to the reader, in this staje of the bizness at aul events; the item of mortality hoos name is prefixed to the hed of this chapter. For a long time after it was ushered into this world of sorro and trubble, by the parish surjon, it remained a matter of considerable dout whether the child wud survive to bear enny name at aul; in which case it is somwhat more than probable that theze memoirs wud never hav apeared; or, if they had, that being comprized within a cupple of pajes, they wud hav pozessed the inestimable merit of being the most consise and faithful spesimen of biografy, extant in the literatur of enny aje or cuntry. | Among other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning, and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a workhouse; and in this workhouse was born; on a day and date which I need not trouble myself to repeat, inasmuch as it can be of no possible consequence to the reader, in this stage of the business at all events; the item of mortality whose name is prefixed to the head of this chapter. For a long time after it was ushered into this world of sorrow and trouble, by the parish surgeon, it remained a matter of considerable doubt whether the child would survive to bear any name at all; in which case it is somewhat more than probable that these memoirs would never have appeared; or, if they had, that being comprised within a couple of pages, they would have possessed the inestimable merit of being the most concise and faithful specimen of biography, extant in the literature of any age or country.
+Amòng òther pùblic bildings in a sertin town, which for menny rëazons it will bë prúdent to refräin from mentjoning, and to which I will assiyn no fictitjus näme, ther is wòn änsjently common to móst towns, great or smaul: to wit, a wurkhous; and in this wurkhous wàs bórn; on a day and däte which I need not trùbble mÿself to repëat, inasmuch as it can bë of no possible consequense to the rëader, in this stäje of the bizness at aul events; the ïtem of mórtality hoos näme is prëfixed to the hed of this chapter. For a long tïme after it was ùshered into this wurld of sorro and trùbble, bÿ the parish surjon, it remäined a matter of considerable dout whether the chïld wud survïve to bear enny näme at aul; in which cäse it is sòmwhat móre than probable that thëze memoïrs wud never hav apëared; or, if they had, that bëing comprïzed wiþin a cùpple of päjes, they wud hav pozessed the inestimable merit of bëing the móst consïse and fäiþful spesimen of bïografy, extant in the literatür of enny äje or cùntry. | Among other public bildings in a sertin town, which for menny reazons it will be prudent to refrain from mentjoning, and to which I will assiyn no fictitjus name, ther is won ansjently common to most towns, great or smaul: to wit, a workhous; and in this workhous was born; on a day and date which I need not trubble myself to repeat, inasmuch as it can be of no possible consequense to the reader, in this staje of the bizness at aul events; the item of mortality hoos name is prefixed to the hed of this chapter. For a long time after it was ushered into this world of sorro and trubble, by the parish surjon, it remained a matter of considerable dout whether the child wud survive to bear enny name at aul; in which case it is somwhat more than probable that theze memoirs wud never hav apeared; or, if they had, that being comprized within a cupple of pajes, they wud hav pozessed the inestimable merit of being the most consise and faithful spesimen of biografy, extant in the literatur of enny aje or cuntry. | Among other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning, and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a workhouse; and in this workhouse was born; on a day and date which I need not trouble myself to repeat, inasmuch as it can be of no possible consequence to the reader, in this stage of the business at all events; the item of mortality whose name is prefixed to the head of this chapter. For a long time after it was ushered into this world of sorrow and trouble, by the parish surgeon, it remained a matter of considerable doubt whether the child would survive to bear any name at all; in which case it is somewhat more than probable that these memoirs would never have appeared; or, if they had, that being comprised within a couple of pages, they would have possessed the inestimable merit of being the most concise and faithful specimen of biography, extant in the literature of any age or country.
 
 
 Lońger texts
@@ -46,7 +46,7 @@ https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-t
     For hoo wud bear the whips and scórns of tïme,
     The opressors rong, the proud mans contümely,
     The pangs of despïzed lòv, the laws delay,
-    The insolense of offis, and the spurns
+    The insolense of offiss, and the spurns
     That pätjent merit of the unwurthy täkes,
     When hë himself miyt his quïetus mäke
     Wiþ a bäre bodkin? Hoo wud fárdels bear,
@@ -56,7 +56,7 @@ https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-t
     No traveler returns, pùzzles the will,
     And mäkes ùs ráther bear thóze ills wë hav,
     Than flÿ to òthers that wë no not of.
-    Thùs consjense dòs mäke cowards of ùs aul,
+    Thùs consjenss dòs mäke cowards of ùs aul,
     And thùs the nätiv hue of rezolútjon
     Is sicklyd oer, wiþ the päle cast of þaut,
     And enterprïzes of great pitch and móment,
@@ -69,8 +69,8 @@ http://www.i18nguy.com/chaos.html
 
     Dëarest crëatür in crëätjon,
     Stùdy Inglish pronùnsiätjon.
-    I will tëach U in mÿ verse
-    Sounds lïke córps, cór, hórs, and wurs.
+    I will tëach U in mÿ verss
+    Sounds lïke córps, cór, hórss, and wurss.
     I will keep U, Súzy, bizy,
     Mäke Ur hed wiþ hëat gro dizzy.
     Tëar in eÿ, Ur dress will tear.
@@ -93,7 +93,7 @@ http://www.i18nguy.com/chaos.html
     Exïles, similës, and revïles;
     Scolar, vicar, and sigár,
     Solar, mïca, wàr and fár;
-    Wn, anemonë, Balmoral,
+    Wòn, anemonë, Balmoral,
     Kitchen, lichen, laundry, laurel;
     Gertrúde, Jerman, wind and mïnd,
     Sëne, Melpomenë, mankïnd.
@@ -119,7 +119,7 @@ http://www.i18nguy.com/chaos.html
     Font, frònt, wont, wànt, grand, and grant,
     Shoos, goes, dòs. Now first say fińger,
     And then singer, jinjer, lińger,
-    Rëal, zëal, mauv, gauz, gouj and gäij, * real?
+    Rëal, zëal, mauv, gauz, gouj and gäje, * real?
     Marrij, fóliaj, miráje, and äje.
 
     Quëry dòs not rÿme wiþ very,
@@ -133,7 +133,7 @@ http://www.i18nguy.com/chaos.html
     Mint, pïnt, senat and sedäte;
     Dùll, bull, and Jórj et läte.
     Sënic, Arabic, Pasific,
-    Sïense, consjense, sïentific.
+    Sïenss, consjenss, sïentific.
 
     Liberty, lïbrary, hëav and heven,
     Rächel, äke, mustash, eleven.
@@ -164,7 +164,7 @@ http://www.i18nguy.com/chaos.html
     Say avér, but ever, fëver,
     Nëither, lezür, skein, desëiver.
     Heron, granary, canäry.
-    Crevis and devïse and aery.
+    Creviss and devïse and aery.
 
     Fäse, but prefas, not efäse.
     Flem, flegmatic, ass, glass, bäss.
@@ -182,7 +182,7 @@ http://www.i18nguy.com/chaos.html
     Wónt it mäke U looz Ur wits,
     Rïting groats and saying grits? * Not trúe! Different wurds...
     Its a dárk abiss or tùnnel:
-    Strewn wiþ stónes, stoed, solas, gùnnal,
+    Strewn wiþ stónes, stoed, solass, gùnnal,
     Izlington and Ïle of Wiyt,
     Houswïfe, verdict and indïte.
 
@@ -215,7 +215,7 @@ https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-t
     For hoo wud bear the whips and scorns of time,
     The opressors rong, the proud mans contumely,
     The pangs of despized lov, the laws delay,
-    The insolense of offis, and the spurns
+    The insolense of offiss, and the spurns
     That patjent merit of the unworthy takes,
     When he himself miyt his quietus make
     With a bare bodkin? Hoo wud fardels bear,
@@ -225,7 +225,7 @@ https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-t
     No traveler returns, puzzles the will,
     And makes us rather bear thoze ills we hav,
     Than fly to others that we no not of.
-    Thus consjense dos make cowards of us aul,
+    Thus consjenss dos make cowards of us aul,
     And thus the nativ hue of rezolutjon
     Is sicklyd oer, with the pale cast of thaut,
     And enterprizes of great pitch and moment,
@@ -238,8 +238,8 @@ http://www.i18nguy.com/chaos.html
 
     Dearest creatur in creatjon,
     Study Inglish pronunsiatjon.
-    I will teach U in my verse
-    Sounds like corps, cor, hors, and wors.
+    I will teach U in my verss
+    Sounds like corps, cor, horss, and worss.
     I will keep U, Suzy, bizy,
     Make Ur hed with heat gro dizzy.
     Tear in ey, Ur dress will tear.
@@ -262,7 +262,7 @@ http://www.i18nguy.com/chaos.html
     Exiles, similes, and reviles;
     Scolar, vicar, and sigar,
     Solar, mica, war and far;
-    Wn, anemone, Balmoral,
+    Won, anemone, Balmoral,
     Kitchen, lichen, laundry, laurel;
     Gertrude, Jerman, wind and mind,
     Sene, Melpomene, mankind.
@@ -288,7 +288,7 @@ http://www.i18nguy.com/chaos.html
     Font, front, wont, want, grand, and grant,
     Shoos, goes, dos. Now first say finger,
     And then singer, jinjer, linger,
-    Real, zeal, mauv, gauz, gouj and gaij, * real?
+    Real, zeal, mauv, gauz, gouj and gaje, * real?
     Marrij, foliaj, miraje, and aje.
 
     Query dos not ryme with very,
@@ -302,7 +302,7 @@ http://www.i18nguy.com/chaos.html
     Mint, pint, senat and sedate;
     Dull, bull, and Jorj et late.
     Senic, Arabic, Pasific,
-    Siense, consjense, sientific.
+    Sienss, consjenss, sientific.
 
     Liberty, library, heav and heven,
     Rachel, ake, mustache, eleven.
@@ -311,7 +311,7 @@ http://www.i18nguy.com/chaos.html
     Mark the differenses, moreover,
     Between moover, cover, clover;
     Leeches, britches, wize, presise,
-    Chalis, but polise and lise;
+    Chaliss, but polise and lise;
     Camel, constable, unstable,
     Prinsiple, disiple, label.
 
@@ -351,7 +351,7 @@ http://www.i18nguy.com/chaos.html
     Wont it make U looz Ur wits,
     Riting groats and saying grits? * Not true! Different words...
     Its a dark abiss or tunnel:
-    Strewn with stones, stoed, solas, gunnal,
+    Strewn with stones, stoed, solass, gunnal,
     Izlington and Ile of Wiyt,
     Houswife, verdict and indite.
 
