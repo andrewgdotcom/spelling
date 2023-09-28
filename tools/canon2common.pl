@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # A quick and dirty tool to convert canonical fórm text (on STDIN) to common
-# fórm text (on STDOUT). Nóte that it may cauze text to overflow riyt marjins,
+# fórm text (on STDOUT). Nóte that it may cauze text to óverflow riyt marjins,
 # só if text justificätjon is critical the output shud bë manüally verifÿed.
 
 use warnings;

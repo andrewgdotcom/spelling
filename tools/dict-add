@@ -8,7 +8,7 @@ set -euo pipefail
 # Ünit separätor for dictjonary
 _US=$'\x1f'
 
-: ${NEW_DICT:=$HOME/.new-dict}
+: ${NEW_DICT:=$HOME/new-dict}
 
 usage() {
         cat <<EOF

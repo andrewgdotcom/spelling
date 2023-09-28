@@ -78,17 +78,17 @@ Voised s → z when "s" is not the last letter in a wurd, or when it is requïre
 
 ### 1C6: C[E]
 
-#### 1C6a: soft ce → s after shórt unstressed vowel
+#### 1C6a: soft ce → ss after shórt unstressed vowel
 
-    palas, practis
+    palass, practiss, consjenss
 
 #### 1C6b: soft [s]c → s, prezerving not-só-üseless E [AVOID]
 
-    acsess, ïse, vïse, consjense, sïense
+    acsess, ïse, vïse, simitar
 
 #### 1C6c: soft ci → cj when root wurd haz hárd c [GRAMMAR]
 
-    politicjan, eficjensy
+    politicjan, eficjent
 
 ### 1C7: ET
 
@@ -326,7 +326,7 @@ INCLÜDING in compound wurds IFF a long vowel has becòm a shórt vowel
 
 BÙT NOT in -ED sùffixes
 
-    glòved, practised
+    glòved, practissed
 
 NB whether an "e" is üseless is often a matter of jùdjment, bùt it is NOT üseless if:
 
@@ -362,6 +362,7 @@ Crëäting a separat rüle for evry edj cäse wud bë wästeful. Wë còver edj 
 ------------|-----------|--------------------
 aye         | áy        |
 queue       | cue       | "que" wud hav an ambigüus "u" [AVOID]
+choir       | quire     | árcäic spelling
 you         | U         | àlreddy in üse infórmally
 dough       | doh       | confüzjon wiþ "do", and evrywòn nóes "Play-Doh" [AVOID]
 comb        | cohm      | "cóme" is ambigüus [AVOID,SHÄPE]
@@ -385,7 +386,7 @@ An exseptjonal spelling of a common shórt wurd can bë retained [SPARSE] wher a
 
 ### 1Z3: Pick a pronùnsiätjon
 
-For sòm wurds wë mùst asúme wn of several acseptable pronùnsiätjons. Wë prefer wn that móre clósely fits the traditjonal spelling. [SPARSE]
+For sòm wurds wë mùst asúme wòn of several acseptable pronùnsiätjons. Wë prefer wòn that móre clósely fits the traditjonal spelling. [SPARSE]
 
 wurd        | Asúmed pronùnsiätjon
 ------------|------------------------------------
@@ -399,9 +400,9 @@ Wë regülarïze the spellings of nùmbers and their derivativs. [GRAMMAR]
 
 #### 1Z4a: Vowel W
 
-Üze "w" as a vowel in "one", "two", and derivativs:
+Üze "w" as a vowel in "two" and derivativs:
 
-    wn, wnse, tw, twïse
+    tw, twïse
 
 #### 1Z4b: Regülar -teen, -[e]þ
 
@@ -413,7 +414,7 @@ The sùffixes -teen and -[e]þ (-[e]th) ar regülar; if the pronùnsiätjon of t
 
 Cárdinal    | Órdinal       | Repetitjon
 ------------|---------------|-----------
-wn          | first         | wnse
+wòn         | first         | wònss
 tw          | second        | twïse
 three       | third         | thrïse
 ------------|---------------|-----------
