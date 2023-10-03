@@ -10,7 +10,7 @@ Gliff   | Dùbbled   | IPA pronùnsiätjon | Definitiv wurd(s)
 --------|-----------|-------------------|-------------------
 b       | bb        | /b/               | bat
 c       | ck*       | /k/               | cat
-ć       | -         | /tʃ/              | ćelló
+ć       | -         | /tʃ/              | ćello
 ch      | tch       | /tʃ/              | chat
 cj      | ccj (?)   | /ʃ/               | politicjan
 d       | dd        | /d/               | dog
@@ -48,12 +48,12 @@ zj      | -         | /ʒ/               | vizjon
 * "s" is pronounsed as /z/ at the end of a word if it folloes a voised consonant or vowel and is not dùbbled
 * "th" can àlso stand for /θ/ in common fórm
 * in sòm acsents /ʍ/ is indistinguishable from /w/, in òthers /hw/
-* y can àlsó act as a vowel
+* y can àlso act as a vowel
 
 Shórt vowels
 ------------
 
-Shórt vowel pronùnsiätjon is now àlsó móstly regülar.
+Shórt vowel pronùnsiätjon is now àlso móstly regülar.
 
 Gliff   | Dïafónëme     | IPA (RP)  | Definitiv wurd    
 --------|---------------|-----------|----------------
@@ -68,7 +68,7 @@ u       | FOOT          | /ʊ/, /ə/  | put
 y       | HAPPY         | /i/, /ə/  | pity
 
 * Enny bäre vowel can stand for COMMA (or LETTER if rotic) when unstressed.
-* "i", "o" (rärely), "u", and "y" can àlsó act as semivowels.
+* "i", "o" (rärely), "u", and "y" can àlso act as semivowels.
 
 Long vowels and difþongs
 ------------------------
@@ -79,21 +79,21 @@ Gliff   | Dïafónëme | IPA (RP)  | Definitiv | Rotic dïa | IPA (RP)  | Defini
 --------|-----------|-----------|-----------|-----------|-----------|-----------
 à       | LOT (short) | /ɒ/     | whàt      | NORTH     | /ɔː/      | wàr
 á       | PALM      | /ɑː/      | fáther    | START     | /ɑː/      | stárt
-ä       | FACE      | /ei/      | fäse      | SQUARE    | /ɛə(r)/   | squäre
+ä       | FACE      | /eɪ/      | fäse      | SQUARE    | /ɛə(r)/   | squäre
 (aa)    | (PALM)    | -         | -         | (START)   | -         | -
-ae      | FACE      | /ei/      | sùndae    | SQUARE    | /ɛə(r)/   | aeropläne
+ae      | FACE      | /eɪ/      | sùndae    | SQUARE    | /ɛə(r)/   | aeropläne
 ah      | PALM      | /ɑː/      | pahm      | (START)   | -         | -
-ai      | FACE      | /ei/      | rain      | SQUARE    | /ɛə(r)/   | fair
+ai      | FACE      | /eɪ/      | rain      | SQUARE    | /ɛə(r)/   | fair
 (ao)    | (MOUTH)   | (/aʊ/)    | -         |           |           |
 au      | THOUGHT   | /ɔː/      | þaut      | NORTH     | /ɔː/      | aural
 aw      | THOUGHT   | /ɔː/      | saw       | (NORTH)   | (/ɔː/)    | -
-ay      | FACE      | /ei/      | say       | (SQUARE)  | (/ɛə(r)/) | -
-é       | FACE      | /ei/      | (?)       | SQUARE    | /ɛə(r)/   | ére
+ay      | FACE      | /eɪ/      | say       | (SQUARE)  | (/ɛə(r)/) | -
+é       | FACE      | /eɪ/      | (?)       | SQUARE    | /ɛə(r)/   | ére
 ë       | FLEECE    | /iː/      | mëte      | NEAR      | /ɪə(r)/   | mëre
 ea      | FLEECE    | /iː/      | eat       | NEAR      | /ɪə(r)/   | near
 ee      | FLEECE    | /iː/      | fleese    | NEAR      | /ɪə(r)/   | beer
-eh      | FACE      | /ei/      | eh        | (SQUARE)  | -         | -
-ei      | FACE      | /ei/      | rein      | SQUARE    | /ɛə(r)/   | eir (←heir)
+eh      | FACE      | /eɪ/      | eh        | (SQUARE)  | -         | -
+ei      | FACE      | /eɪ/      | rein      | SQUARE    | /ɛə(r)/   | eir (←heir)
 (eo)    | -         | -         |           |           | -         |
 eu      | CUE       | /juː/     | feud      | CURE      | /jʊə(r)/  | euro
 ew      | CUE       | /juː/     | few       | (CURE)    | (/jʊə(r)/)| -
@@ -131,9 +131,10 @@ uy      | PRICE     | /aɪ/      | buy (?)   | (FIRE)    | (/aɪə(r)/)| -
 
 Entrys in parenþesës du not exist in standard Inglish bùt sòm ar found in loanwurds and hav a natüral mapping onto Inglish dïafónëmes. The dïafónëmes CUE=(semivowel Y+GOOSE), TOUR=(GOOSE+LETTER), FIRE=(PRICE+LETTER), and FLOUR=(MOUTH+LETTER) ar nonstandard extensjons.
 
-* A bäre "e", "i", "u", or "y", if follóed bÿ a sińgle r (i.e. unstressed), stands for NURSE.
+* A bäre "e", "i", "u", or "y", if folloed bÿ a sińgle r (i.e. unstressed), stands for NURSE.
 * A trailing "e" after a sillable containing a long vowel is nórmally silent.
-* "u" follóing "q" is àlways a semivowel.
+* "u" folloing "q" is àlways a semivowel.
 * "u" and sòmtïmes "o" can reprezent semivowels when the first letter in a vowel clùster.
 * In sòm acsents, "ü" can bë pronounsed "u" (TOUR) after "d", "n", "s", "t", "x", or "z".
 * In common üsaj, "ü/ue" can modifÿ a presëding "d", "s", "t", "x", or "z" as if it had an implÿed j in frònt of the vowel, bùt sòm consider this incorect.
+* A träiling "o" is often long, equivalent to "ó".
