@@ -583,7 +583,7 @@ Dïacritics ar not added wher standard dïgrafs ar àlreddy in üse. Nóte that 
 
 ### 2V4: Vowel reprezentätjons
 
-Aul vowel dïafónëmes shud bë mapped onto wn of the tárget representätjons listed belo. Thëze can bë monografs or dïgrafs, and ëither standard or annotäted. Iff a vowel cannot bë mapped üzing dïacritics alóne, it shud bë rëshäped to a standard dïgraf at stäje 1Z.
+Aul vowel dïafónëmes shud bë mapped onto wòn of the tárget representätjons listed belo. Thëze can bë monografs or dïgrafs, and ëither standard or annotäted. Iff a vowel cannot bë mapped üzing dïacritics alóne, it shud bë rëshäped to a standard dïgraf at stäje 1Z.
 
 Dïafónëme   |Monograf   |Standard dïgraf    |Annotäted dïgraf
 ------------|-----------|-------------------|---------------------
@@ -608,13 +608,13 @@ PALM        |á          |aa ah              |
 START       |ár         |aar                |
 THOUGHT     |           |au aw              |
 NORTH       |àr ór      |aur oer oar        |
-GOAT        |ó          |oa oe oh           |óu
-FORCE       |ór         |oar oer            |óur
-GOOSE       |ú          |oo                 |úe eú eẃ
-(TOUR)      |ôr úr      |oor                |úer
+GOAT        |ó          |oa oe oh           |
+FORCE       |ór         |oar oer            |
+GOOSE       |ú          |oo                 |
+(TOUR)      |ôr úr      |oor                |
 (CUE)       |ü          |eu ew ue           |
 CURE        |ür         |eur uer            |
-PRICE       |ï ÿ        |ie iy (ui? uy?)    |aï
+PRICE       |ï ÿ        |ie iy (ui? uy?)    |ái
 CHOICE      |           |oi oy              |
 MOUTH       |           |ou ow              |àu
 NURSE       |{eiuy}r    |                   |

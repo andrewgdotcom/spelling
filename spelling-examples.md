@@ -180,7 +180,7 @@ http://www.i18nguy.com/chaos.html
     Pronùnsiätjon -- þińk of Sÿkë!
     Is a päling stout and spïky?
     Wónt it mäke U looz Ur wits,
-    Rïting groats and saying grits? * Not trúe! Different wurds...
+    Rïting groats and saying grits? * Not tru! Different wurds...
     Its a dárk abiss or tùnnel:
     Strewn wiþ stónes, stoed, solass, gùnnal,
     Izlington and Ïle of Wiyt,

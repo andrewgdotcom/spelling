@@ -28,7 +28,7 @@ Eaze of reading comprehensjon täkes prïority óver rezolving redùndansy or mi
 1. [NEUTRAL] It shud not impóze a particülar acsent.
 1. [LOOSE] Strict 1:1 mapping of grafëmes to sounds is not esentjal.
 
-Reserch has shóen that [the vizüal shäpe of ritten wurds is vïtal to comprehensjon for flúent readers](https://www.dummies.com/education/language-arts/speed-reading/how-recognizing-the-shapes-of-words-aids-speed-reading/). This skëme has been deziyned to minimïze chänjes in wurd shäpe, which means that wë will increas the nùmber of grafëmes in órder to keep the existing varïety of wurd fórms for backwards compatibility.
+Reserch has shoen that [the vizüal shäpe of ritten wurds is vïtal to comprehensjon for flúent readers](https://www.dummies.com/education/language-arts/speed-reading/how-recognizing-the-shapes-of-words-aids-speed-reading/). This skëme has been deziyned to minimïze chänjes in wurd shäpe, which means that wë will increas the nùmber of grafëmes in órder to keep the existing varïety of wurd fórms for backwards compatibility.
 
 Novel spelling conventjons introdüsed bÿ this standard ar limited to:
 
